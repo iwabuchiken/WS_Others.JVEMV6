@@ -1,0 +1,332 @@
+@echo off
+
+REM opening message
+echo starting start.bat // C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
+
+REM =================================
+REM 	dispatch
+REM 	2019/06/15 09:53:28
+REM =================================
+if "%1"=="" (
+	
+	echo %%1 is blank. go to 'all'
+	
+	goto all
+	
+)
+
+REM ================================================
+REM 	each lang
+REM 	2019/06/15 09:53:28
+REM ================================================
+REM =================================
+REM 	hebrew
+REM 	2019/06/15 09:53:28
+REM =================================
+if "%1"=="he" (
+
+	echo %%1 is %1!
+
+REM ===============
+REM 	trans
+REM ===============
+	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
+
+REM ===============
+REM 	lang
+REM ===============
+REM : doc
+REM 	start chrome.exe "https://docs.google.com/document/d/1rvbIPLG4V6oanqnqkGwmfYU5kO4Ifo7EawcHxkqbTsY/edit"
+	start chrome.exe "https://docs.google.com/document/d/16zGryKeY6f_oFqsRFjtbKPPZ-3A-HBsVbdAQRMGX2FE/edit"
+REM 	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/1.html"
+REM : text
+REM 	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
+	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
+REM : wiki
+	start chrome.exe "https://ja.wikipedia.org/wiki/ヘブライ文字#文字"
+REM : pronunciations
+	start chrome.exe "https://biblescripture.net/Hebrew.html"
+
+REM ===============
+REM 	resources
+REM ===============
+REM : 2019/07/05 11:15:25
+	start chrome.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+	
+	goto end
+
+
+
+REM =================================
+REM 	korean
+REM 	2019/06/15 10:34:12
+REM =================================
+) else if "%1"=="ko" (
+
+	echo %%1 is %1!
+
+REM ===============
+REM 	trans
+REM ===============
+	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ja&tl=ko"
+	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
+
+REM ===============
+REM 	lang
+REM ===============
+REM 	start chrome.exe "https://writer.zoho.com/writer/open/eovu1bbc85f4e6cc94063a7fa950aaed8aa56"	
+REM 	start chrome.exe "https://docs.google.com/document/d/1BM1Rn73jF-EjadfN-HmbXJWVPOzRAW4pjXo6M5Qx02w/edit"
+	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"
+
+REM ===============
+REM 	resources
+REM 	2019/06/30 10:49:12
+REM ===============
+	start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/34706"
+
+	goto end
+
+REM =================================
+REM 	arabic
+REM 	2019/06/15 11:06:33
+REM =================================
+) else if "%1"=="ar" (
+
+	echo %%1 is %1!
+
+REM ===============
+REM 	trans
+REM ===============
+	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
+	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
+	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
+	start chrome.exe "https://www.bing.com/translator/"
+	
+REM ===============
+REM 	lang
+REM ===============
+REM 	start chrome.exe "https://writer.zoho.com/writer/open/eovu101b2b5cc9dae4117b56a277773c427ab"
+REM start chrome.exe "https://docs.google.com/document/d/1EWd6CKZptTbNfKgaCLR-hWeqSDDS8TTX1FQPjyjAdVQ/edit"
+REM 	start chrome.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
+	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"
+	start chrome.exe "http://www.felesteen.ps/article/myladynwf-yhdhr-mn-anhyar-althdyt-fy-ghzt"
+	start chrome.exe "https://ja.wikipedia.org/wiki/アラビア文字#字母"
+	
+	goto end
+
+REM =================================
+REM 	russian
+REM 	2019/06/17 09:47:46
+REM =================================
+) else if "%1"=="ru" (
+
+	echo %%1 is %1!
+
+REM ===============
+REM 	trans
+REM ===============
+	
+REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=de"
+REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=de&tl=ru"
+REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=de&tl=ru"
+start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ru&tl=en"
+start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ru&tl=en"
+REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ru&tl=ko"
+REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
+	
+REM ===============
+REM 	lang
+REM ===============
+REM 	start chrome.exe "https://writer.zoho.com/writer/open/eirjm1f770439a83d4d53a9700909fef4204c"
+	start chrome.exe "https://docs.google.com/document/d/1KMTaG_ojOHV2aNn7Etc1iz7-eBcjOuy2AybX59G8eEQ/edit"
+	
+REM ===============
+REM 	memo : steps
+REM 	2019/06/29 17:50:40
+REM ===============
+	start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=steps+russian&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+	
+REM ===============
+REM 	resources
+REM 	2019/07/07 13:09:22
+REM ===============
+	start chrome.exe "https://coal-liza.livejournal.com/39295.html"
+	
+	goto end
+
+)
+
+REM =================================
+REM 	greek(ancient)
+REM 	2019/07/04 10:03:32
+REM =================================
+) else if "%1"=="gr" (
+
+	echo %%1 is %1!
+
+REM ===============
+REM 	trans
+REM ===============
+	
+start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=el&tl=en"
+
+REM ===============
+REM 	lang
+REM ===============
+REM 	start chrome.exe "https://writer.zoho.com/writer/open/eirjm1f770439a83d4d53a9700909fef4204c"
+	start chrome.exe "https://docs.google.com/document/d/1iPQgSMStNaTSk6amjyu3gGYI2PyIzQhPBfsnOgTcWks/edit"
+	
+REM ===============
+REM 	resources
+REM ===============
+REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
+
+	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
+	start chrome.exe "http://greekbible.com/index.php"
+	start chrome.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
+REM 	
+REM 	start chrome.exe ""
+
+REM ===============
+REM 	memo : steps
+REM 	
+REM ===============
+
+REM 	start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=steps+russian&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+	
+	goto end
+
+)
+
+REM =================================
+REM 	quran
+REM 	2019/07/04 10:41:06
+REM =================================
+) else if "%1"=="qu" (
+
+	echo %%1 is %1!
+
+REM ===============
+REM 	trans
+REM ===============
+	
+start chrome.exe "https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ar&tl=en"
+
+REM ===============
+REM 	lang
+REM ===============
+
+	start chrome.exe "https://docs.google.com/document/d/1-8vAIWQUg7IuGQBcABT2HhjTW0U_Qu-h1bb77hX2h7A/edit"
+	
+REM ===============
+REM 	resources
+REM ===============
+
+REM ref : https://duckduckgo.com/?q=quran+online+in+arabic&atb=v84-1&ia=web
+
+	start chrome.exe "https://al-quran.info/#1"
+	start chrome.exe "https://www.searchtruth.com/chapter_display.php"
+	start chrome.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
+REM 	
+REM 	start chrome.exe ""
+
+REM ===============
+REM 	memo : steps
+REM 	
+REM ===============
+
+REM 	start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=steps+russian&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+	
+	goto end
+
+)
+
+REM flag
+:all
+
+REM debug
+goto end
+
+REM ================================================
+REM 	all langs
+REM 	2019/06/15 09:53:28
+REM ================================================
+REM =================================
+REM 	trans
+REM =================================
+pushd "C:\Program Files (x86)\Google\Chrome\Application"
+start chrome.exe  "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ja&tl=ko"
+start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
+REM REM start chrome.exe "https://docs.google.com/spreadsheets/d/1F1YZqjlwgDSTMxS5HhAAbjPL8sx1g184xxQqbgwWhps/edit#gid=1486363973"
+
+start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=diary+K*&RBs_AND_OR_Memo=AND&sort=file_name&direction=desc"
+
+
+REM =================================
+REM 	korean
+REM =================================
+REM korean
+REM start chrome.exe "https://docs.google.com/document/d/1XBlAyn1jrDdf-QcJrD6oXNI2efjbbCgISMt4UrjTTFI/edit"
+REM start chrome.exe "https://docs.google.com/document/d/1nyvZkGJWZ8KolNpGZena8SwbgoyPcQ01XQnd7I0m8Ko/edit"
+REM start chrome.exe "https://writer.zoho.com/writer/open/eovu1bbc85f4e6cc94063a7fa950aaed8aa56"
+start chrome.exe "https://docs.google.com/document/d/1BM1Rn73jF-EjadfN-HmbXJWVPOzRAW4pjXo6M5Qx02w/edit"
+
+REM =================================
+REM 	arabic
+REM =================================
+REM start chrome.exe "https://docs.google.com/document/d/1EWd6CKZptTbNfKgaCLR-hWeqSDDS8TTX1FQPjyjAdVQ/edit"
+start chrome.exe "https://writer.zoho.com/writer/open/eovu101b2b5cc9dae4117b56a277773c427ab"
+
+REM =================================
+REM 	russian
+REM =================================
+REM russian
+REM start chrome.exe "https://docs.google.com/document/d/1zdKTuOCUMgt_YwwG3lNZsunkhGD2BvzVn_YF-oMaPMQ/edit"
+start chrome.exe "https://writer.zoho.com/writer/open/eirjm1f770439a83d4d53a9700909fef4204c"
+
+REM =================================
+REM 	hebrew
+REM =================================
+start chrome.exe "https://docs.google.com/document/d/1rvbIPLG4V6oanqnqkGwmfYU5kO4Ifo7EawcHxkqbTsY/edit"
+REM start chrome.exe "https://writer.zoho.com/writer/open/ek7i4618ec2e97cde46499c89be752e195db0"
+
+REM =================================
+REM 	greek
+REM =================================
+REM greek [2019/05/15 17:47:07]
+start chrome.exe "https://docs.google.com/document/d/1iPQgSMStNaTSk6amjyu3gGYI2PyIzQhPBfsnOgTcWks/edit"
+
+start chrome.exe "https://ja.wikipedia.org/wiki/アラビア文字#字母"
+start chrome.exe "https://ja.wikipedia.org/wiki/ヘブライ文字#文字"
+start chrome.exe "https://www.bing.com/translator/"
+
+REM =================================
+REM 	time
+REM 	2019/05/29 09:57:55
+REM =================================
+start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+
+
+REM =================================
+REM 	polish
+REM =================================
+start chrome.exe "https://docs.google.com/document/d/1IzGhkKgNIosYdD7yTyjr68Kl64A8erONeddxJPTwX-g/edit"
+
+goto end
+
+echo start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+echo start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
+
+:end
+
+REM ===============
+REM 	time-related pages
+REM ===============
+REM : time
+start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+
+REM : stopwatch
+start chrome.exe "https://stopwatch-app.com/"
+
