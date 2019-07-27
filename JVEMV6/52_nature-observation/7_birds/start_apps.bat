@@ -43,6 +43,9 @@ start chrome.exe "https://www.youtube.com/results?search_query=ƒcƒoƒ+–Â‚«º"
 REM : log file
 start chrome.exe "https://writer.zoho.com/writer/open/ejihjd98f3e2fe72d452c8ddf20a6b4909a26"
 
+REM : time
+start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+
 REM *************************************
 REM 	itunes
 REM *************************************

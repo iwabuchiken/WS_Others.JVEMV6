@@ -76,13 +76,18 @@ REM 	lang
 REM ===============
 REM 	start chrome.exe "https://writer.zoho.com/writer/open/eovu1bbc85f4e6cc94063a7fa950aaed8aa56"	
 REM 	start chrome.exe "https://docs.google.com/document/d/1BM1Rn73jF-EjadfN-HmbXJWVPOzRAW4pjXo6M5Qx02w/edit"
-	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"
+REM 	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"
+REM 	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"	
+	start chrome.exe "https://docs.google.com/document/d/1B-yo_gJtRENYyYGzYy14KKv6-cVxUKYVdslIRCYHXcw/edit"
 
 REM ===============
 REM 	resources
 REM 	2019/06/30 10:49:12
 REM ===============
 	start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/34706"
+
+REM : sakura : 2019/07/27 11:44:07
+	start C:\WORKS_2\Programs\sakura\sakura.exe
 
 	goto end
 
@@ -107,8 +112,8 @@ REM 	lang
 REM ===============
 REM 	start chrome.exe "https://writer.zoho.com/writer/open/eovu101b2b5cc9dae4117b56a277773c427ab"
 REM start chrome.exe "https://docs.google.com/document/d/1EWd6CKZptTbNfKgaCLR-hWeqSDDS8TTX1FQPjyjAdVQ/edit"
-REM 	start chrome.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
-	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"
+	start chrome.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
+	
 	start chrome.exe "http://www.felesteen.ps/article/myladynwf-yhdhr-mn-anhyar-althdyt-fy-ghzt"
 	start chrome.exe "https://ja.wikipedia.org/wiki/ƒAƒ‰ƒrƒA•¶Žš#Žš•ê"
 	
