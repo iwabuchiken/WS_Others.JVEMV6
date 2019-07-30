@@ -186,9 +186,11 @@ REM 	resources
 REM ===============
 REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 
-	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
+REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
+	start chrome.exe ""https://biblehub.com/interlinear/matthew/3.htm"
 	start chrome.exe "http://greekbible.com/index.php"
-	start chrome.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
+REM 	start chrome.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
+	start chrome.exe "https://www.jw.org/en/publications/bible/study-bible/books/matthew/3/"
 REM 	
 REM 	start chrome.exe ""
 
