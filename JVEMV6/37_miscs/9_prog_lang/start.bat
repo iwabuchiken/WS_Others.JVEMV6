@@ -37,11 +37,13 @@ REM 	lang
 REM ===============
 REM : doc
 REM 	start chrome.exe "https://docs.google.com/document/d/1rvbIPLG4V6oanqnqkGwmfYU5kO4Ifo7EawcHxkqbTsY/edit"
-	start chrome.exe "https://docs.google.com/document/d/16zGryKeY6f_oFqsRFjtbKPPZ-3A-HBsVbdAQRMGX2FE/edit"
+REM 	start chrome.exe "https://docs.google.com/document/d/16zGryKeY6f_oFqsRFjtbKPPZ-3A-HBsVbdAQRMGX2FE/edit"
+	start chrome.exe "https://docs.google.com/document/d/1fa29-r2ZEB1eB3TAgaMzlvCi9G_gy6X-IJnlTjauHnw/edit"
 REM 	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/1.html"
 REM : text
 REM 	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
-	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
+REM 	start chrome.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
+	start chrome.exe "http://www.qbible.com/hebrew-old-testament/isaiah/1.html#1"
 REM : wiki
 	start chrome.exe "https://ja.wikipedia.org/wiki/ヘブライ文字#文字"
 REM : pronunciations
@@ -52,7 +54,7 @@ REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
 	start chrome.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
-	
+	start chrome.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
 	goto end
 
 
@@ -72,14 +74,15 @@ REM ===============
 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
 
 REM ===============
-REM 	lang
+REM 	docs
 REM ===============
 REM 	start chrome.exe "https://writer.zoho.com/writer/open/eovu1bbc85f4e6cc94063a7fa950aaed8aa56"	
 REM 	start chrome.exe "https://docs.google.com/document/d/1BM1Rn73jF-EjadfN-HmbXJWVPOzRAW4pjXo6M5Qx02w/edit"
 REM 	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"
 REM 	start chrome.exe "https://docs.google.com/document/d/1sdBMW5njvAqJL5_HkHTwWBisLknsXW3ORMUz_ErJEh0/edit"	
-	start chrome.exe "https://docs.google.com/document/d/1B-yo_gJtRENYyYGzYy14KKv6-cVxUKYVdslIRCYHXcw/edit"
-
+REM 	start chrome.exe "https://docs.google.com/document/d/1B-yo_gJtRENYyYGzYy14KKv6-cVxUKYVdslIRCYHXcw/edit"
+	start chrome.exe "https://docs.google.com/document/d/10AhaA-6SPuuo0KbAo4-VXDzo6O4wTLUBEPO9i0HiuNA/edit"
+	
 REM ===============
 REM 	resources
 REM 	2019/06/30 10:49:12
@@ -108,14 +111,24 @@ REM ===============
 	start chrome.exe "https://www.bing.com/translator/"
 	
 REM ===============
-REM 	lang
+REM 	docs
 REM ===============
 REM 	start chrome.exe "https://writer.zoho.com/writer/open/eovu101b2b5cc9dae4117b56a277773c427ab"
 REM start chrome.exe "https://docs.google.com/document/d/1EWd6CKZptTbNfKgaCLR-hWeqSDDS8TTX1FQPjyjAdVQ/edit"
-	start chrome.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
-	
+REM 	start chrome.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
+	start chrome.exe "https://docs.google.com/document/d/1K_2-9x0g_WTFwwDyV-M8V89Sk_L4fXFUIUE6gET5uV4/edit"
 	start chrome.exe "http://www.felesteen.ps/article/myladynwf-yhdhr-mn-anhyar-althdyt-fy-ghzt"
 	start chrome.exe "https://ja.wikipedia.org/wiki/アラビア文字#字母"
+
+	start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+	
+	start chrome.exe "https://docs.google.com/spreadsheets/d/18P9jHbAxfMambOlr7llsahy5EYWImyEGrFEFsdVZepw/edit?ouid=114557293394362897307&usp=docs_home&ths=true"
+
+REM ===============
+REM 	texts
+REM ===============
+	start chrome.exe "https://www.hespress.com/international/439175.html"
+
 	
 	goto end
 
@@ -155,7 +168,8 @@ REM ===============
 REM 	resources
 REM 	2019/07/07 13:09:22
 REM ===============
-	start chrome.exe "https://coal-liza.livejournal.com/39295.html"
+REM 	start chrome.exe "https://coal-liza.livejournal.com/39295.html"
+	start chrome.exe "https://nauka.vesti.ru/article/1046760"
 	
 	goto end
 
@@ -187,10 +201,13 @@ REM ===============
 REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 
 REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
-	start chrome.exe ""https://biblehub.com/interlinear/matthew/3.htm"
+	start chrome.exe ""https://biblehub.com/interlinear/matthew/5.htm"
 	start chrome.exe "http://greekbible.com/index.php"
+	
+	start chrome.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM18mIJvSS75nQLFjDQTUmbHE-eiFE/edit#gid=481191813"
+	
 REM 	start chrome.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
-	start chrome.exe "https://www.jw.org/en/publications/bible/study-bible/books/matthew/3/"
+	start chrome.exe "https://www.jw.org/en/publications/bible/study-bible/books/matthew/5/"
 REM 	
 REM 	start chrome.exe ""
 
