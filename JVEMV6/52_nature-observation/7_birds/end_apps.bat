@@ -10,6 +10,9 @@ taskkill /im wish.exe
 REM 2019/05/13 12:43:20
 taskkill /im iTunes.exe
 
+REM 2019/08/11 16:53:39
+REM taskkill /im soffice.exe
+taskkill /im soffice.bin
 
 goto end
 
