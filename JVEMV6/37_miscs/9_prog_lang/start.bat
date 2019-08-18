@@ -40,12 +40,14 @@ REM ===============
 REM : doc
 REM 	start chrome.exe "https://docs.google.com/document/d/1rvbIPLG4V6oanqnqkGwmfYU5kO4Ifo7EawcHxkqbTsY/edit"
 REM 	start chrome.exe "https://docs.google.com/document/d/16zGryKeY6f_oFqsRFjtbKPPZ-3A-HBsVbdAQRMGX2FE/edit"
-	start launcher.exe "https://docs.google.com/document/d/1fa29-r2ZEB1eB3TAgaMzlvCi9G_gy6X-IJnlTjauHnw/edit"
+
+REM 	start launcher.exe "https://docs.google.com/document/d/1fa29-r2ZEB1eB3TAgaMzlvCi9G_gy6X-IJnlTjauHnw/edit"
+
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/1.html"
 REM : text
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
-	start launcher.exe "http://www.qbible.com/hebrew-old-testament/isaiah/1.html#1"
+	start launcher.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
 REM : wiki
 	start launcher.exe "https://ja.wikipedia.org/wiki/ヘブライ文字#文字"
 REM : pronunciations
@@ -56,7 +58,11 @@ REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
 	start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
-	start launcher.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
+REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
+
+REM : word list : 2019/08/15 09:22:49
+	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
+	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.ods
 
 	goto end
 
@@ -132,14 +138,18 @@ REM ===============
 REM 	start launcher.exe "https://writer.zoho.com/writer/open/eovu101b2b5cc9dae4117b56a277773c427ab"
 REM start launcher.exe "https://docs.google.com/document/d/1EWd6CKZptTbNfKgaCLR-hWeqSDDS8TTX1FQPjyjAdVQ/edit"
 REM 	start launcher.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
-	start launcher.exe "https://docs.google.com/document/d/1K_2-9x0g_WTFwwDyV-M8V89Sk_L4fXFUIUE6gET5uV4/edit"
+REM 	start launcher.exe "https://docs.google.com/document/d/1K_2-9x0g_WTFwwDyV-M8V89Sk_L4fXFUIUE6gET5uV4/edit"
 	start launcher.exe "http://www.felesteen.ps/article/myladynwf-yhdhr-mn-anhyar-althdyt-fy-ghzt"
 	start launcher.exe "https://ja.wikipedia.org/wiki/アラビア文字#字母"
 
 	start launcher.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
 	
-	start launcher.exe "https://docs.google.com/spreadsheets/d/18P9jHbAxfMambOlr7llsahy5EYWImyEGrFEFsdVZepw/edit?ouid=114557293394362897307&usp=docs_home&ths=true"
+REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/18P9jHbAxfMambOlr7llsahy5EYWImyEGrFEFsdVZepw/edit?ouid=114557293394362897307&usp=docs_home&ths=true"
+	
+	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\arabic.odt
+	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\arabic.ods
 
+	
 REM ===============
 REM 	texts
 REM ===============
@@ -223,7 +233,7 @@ REM ===============
 REM 	lang
 REM ===============
 REM 	start launcher.exe "https://writer.zoho.com/writer/open/eirjm1f770439a83d4d53a9700909fef4204c"
-	start launcher.exe "https://docs.google.com/document/d/1iPQgSMStNaTSk6amjyu3gGYI2PyIzQhPBfsnOgTcWks/edit"
+REM 	start launcher.exe "https://docs.google.com/document/d/1iPQgSMStNaTSk6amjyu3gGYI2PyIzQhPBfsnOgTcWks/edit"
 	
 REM ===============
 REM 	resources
@@ -233,7 +243,7 @@ REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 	
 
 REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
-	start launcher.exe ""https://biblehub.com/interlinear/matthew/5.htm"
+	start launcher.exe ""https://biblehub.com/interlinear/matthew/6.htm"
 	start launcher.exe "http://greekbible.com/index.php"
 	
 REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM18mIJvSS75nQLFjDQTUmbHE-eiFE/edit#gid=481191813"
@@ -241,7 +251,7 @@ REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM
 	start launcher.exe "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.ods"
 	
 REM 	start launcher.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
-	start launcher.exe "https://www.jw.org/en/publications/bible/study-bible/books/matthew/5/"
+REM 	start launcher.exe "https://www.jw.org/en/publications/bible/study-bible/books/matthew/6/"
 REM 	
 REM 	start launcher.exe ""
 
@@ -385,9 +395,23 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 REM ===============
 REM 	time-related pages
 REM ===============
+
+goto time_related_opera
+
+
+:time_related_opera
+
+	pushd "C:\WORKS_2\Programs\opera"
+
+	start launcher.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+	start launcher.exe "https://stopwatch-app.com/"
+
+	goto end_of_end
+	
 REM : time
 start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
 
 REM : stopwatch
 start chrome.exe "https://stopwatch-app.com/"
 
+:end_of_end
