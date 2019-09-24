@@ -25,31 +25,71 @@ start  C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\52_nature-observation\7_birds
 REM *************************************
 REM 	browser
 REM *************************************
-pushd "C:\Program Files (x86)\Google\Chrome\Application"
-start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+birds&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
-start chrome.exe https://www.szynalski.com/tone-generator/
+
+goto browser_opera
+
+	pushd "C:\Program Files (x86)\Google\Chrome\Application"
+	start chrome.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+birds&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+	start chrome.exe https://www.szynalski.com/tone-generator/
+
+	REM : list of mp3 files
+	REM start chrome.exe "https://docs.google.com/spreadsheets/d/1xkLnhw32NHCxJzZoJHfNfcSK1HwXroyl36teBeF8Xvc/edit#gid=0"
+	start chrome.exe "https://docs.zoho.com/sheet/open/ejihjaac7c8516f3b497088cf06ca7618b8a3/sheets/birds/ranges/B35"
+
+	REM : "steps"
+	start chrome.exe "https://writer.zoho.com/writer/open/ejihj32eac87d3575408eba8e3078f0f38762"
+
+	REM start chrome.exe "https://docs.google.com/document/d/1MLUozn3rnBjorTs1sOlyAOR_GBwf7BPxz4lYr1e-JfI/edit"
+	start chrome.exe "https://docs.google.com/document/u/0/?q=birds"
+	start chrome.exe "https://www.youtube.com/results?search_query=ツバメ+鳴き声"
+
+	REM : log file
+	start chrome.exe "https://writer.zoho.com/writer/open/ejihjd98f3e2fe72d452c8ddf20a6b4909a26"
+
+	REM : time
+	start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+
+REM --------------------------------------------
+:browser_opera
+
+pushd "C:\WORKS_2\Programs\opera"
+start launcher.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+birds&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+start launcher.exe https://www.szynalski.com/tone-generator/
 
 REM : list of mp3 files
-REM start chrome.exe "https://docs.google.com/spreadsheets/d/1xkLnhw32NHCxJzZoJHfNfcSK1HwXroyl36teBeF8Xvc/edit#gid=0"
-start chrome.exe "https://docs.zoho.com/sheet/open/ejihjaac7c8516f3b497088cf06ca7618b8a3/sheets/birds/ranges/B35"
+REM start launcher.exe "https://docs.google.com/spreadsheets/d/1xkLnhw32NHCxJzZoJHfNfcSK1HwXroyl36teBeF8Xvc/edit#gid=0"
+start launcher.exe "https://docs.zoho.com/sheet/open/ejihjaac7c8516f3b497088cf06ca7618b8a3/sheets/birds/ranges/B35"
 
 REM : "steps"
-start chrome.exe "https://writer.zoho.com/writer/open/ejihj32eac87d3575408eba8e3078f0f38762"
+start launcher.exe "https://writer.zoho.com/writer/open/ejihj32eac87d3575408eba8e3078f0f38762"
 
-REM start chrome.exe "https://docs.google.com/document/d/1MLUozn3rnBjorTs1sOlyAOR_GBwf7BPxz4lYr1e-JfI/edit"
-start chrome.exe "https://docs.google.com/document/u/0/?q=birds"
-start chrome.exe "https://www.youtube.com/results?search_query=ツバメ+鳴き声"
+REM start launcher.exe "https://docs.google.com/document/d/1MLUozn3rnBjorTs1sOlyAOR_GBwf7BPxz4lYr1e-JfI/edit"
+start launcher.exe "https://docs.google.com/document/u/0/?q=birds"
+start launcher.exe "https://www.youtube.com/results?search_query=ツバメ+鳴き声"
 
 REM : log file
-start chrome.exe "https://writer.zoho.com/writer/open/ejihjd98f3e2fe72d452c8ddf20a6b4909a26"
+start launcher.exe "https://writer.zoho.com/writer/open/ejihjd98f3e2fe72d452c8ddf20a6b4909a26"
 
 REM : time
-start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+start launcher.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+
+	goto browser_exit
+
+:browser_exit
 
 REM *************************************
 REM 	itunes
 REM *************************************
 pushd C:\WORKS_2\Programs\itunes_12.6.2
 start iTunes.exe
+
+REM *************************************
+REM 	docs
+REM 	2019/09/24 23:36:28
+REM *************************************
+pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\52_nature-observation\7_birds
+start log.odt
+start log.ods
+
 
 REM exit

@@ -83,11 +83,12 @@ REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op
 	REM start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
 
 	pushd C:\WORKS_2\Programs\opera
-	start launcher.exe "https://www.bing.com/translator/"
-	start launcher.exe "https://www.bing.com/translator/"
-	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
-	
-	start launcher.exe "https://gate2home.com/Korean-Keyboard/Translate#lang=ja"
+	start launcher.exe https://marisha39.com/phrase/page/2/
+REM 	start launcher.exe "https://www.bing.com/translator/"
+REM 	start launcher.exe "https://www.bing.com/translator/"
+REM 	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
+REM 	
+REM 	start launcher.exe "https://gate2home.com/Korean-Keyboard/Translate#lang=ja"
 	
 REM ===============
 REM 	docs
@@ -207,7 +208,7 @@ REM 	start chrome.exe "https://coal-liza.livejournal.com/39295.html"
 REM 	start chrome.exe "https://nauka.vesti.ru/article/1046760"
 	
 	pushd C:\WORKS_2\Programs\opera
-	start launcher.exe "https://nauka.vesti.ru/article/1046760"
+REM 	start launcher.exe "https://nauka.vesti.ru/article/1046760"
 	
 	goto end
 
@@ -243,7 +244,7 @@ REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 	
 
 REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
-	start launcher.exe ""https://biblehub.com/interlinear/matthew/6.htm"
+	start launcher.exe ""https://biblehub.com/interlinear/matthew/8.htm"
 	start launcher.exe "http://greekbible.com/index.php"
 	
 REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM18mIJvSS75nQLFjDQTUmbHE-eiFE/edit#gid=481191813"
@@ -255,7 +256,7 @@ REM 	start launcher.exe "https://www.jw.org/en/publications/bible/study-bible/bo
 REM 	
 REM 	start launcher.exe ""
 
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.odt
+REM 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.odt
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.ods
 
 REM ===============
