@@ -244,7 +244,7 @@ REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 	
 
 REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
-	start launcher.exe ""https://biblehub.com/interlinear/matthew/8.htm"
+	start launcher.exe ""https://biblehub.com/interlinear/matthew/9.htm"
 	start launcher.exe "http://greekbible.com/index.php"
 	
 REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM18mIJvSS75nQLFjDQTUmbHE-eiFE/edit#gid=481191813"
