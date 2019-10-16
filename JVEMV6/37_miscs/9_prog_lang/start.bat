@@ -48,7 +48,7 @@ REM : text
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
-	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/1.html#1"
+	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/2.html#1"
 REM : wiki
 	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
@@ -64,6 +64,8 @@ REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3
 REM : word list : 2019/08/15 09:22:49
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.ods
+
+	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 
 	goto end
 
@@ -245,12 +247,12 @@ REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 	
 
 REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
-	start launcher.exe ""https://biblehub.com/interlinear/matthew/9.htm"
+	start launcher.exe ""https://biblehub.com/interlinear/matthew/12.htm"
 	start launcher.exe "http://greekbible.com/index.php"
 	
 REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM18mIJvSS75nQLFjDQTUmbHE-eiFE/edit#gid=481191813"
 	
-	start launcher.exe "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.ods"
+	start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.ods"
 	
 REM 	start launcher.exe "https://www.scripture4all.org/OnlineInterlinear/NTpdf/act1.pdf"
 REM 	start launcher.exe "https://www.jw.org/en/publications/bible/study-bible/books/matthew/6/"
@@ -259,6 +261,9 @@ REM 	start launcher.exe ""
 
 REM 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.odt
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_greek.ods
+
+REM : dir
+	startC:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 
 REM ===============
 REM 	memo : steps
