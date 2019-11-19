@@ -48,7 +48,7 @@ REM : text
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
-	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/4.html#1"
+	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/6.html#1"
 REM : wiki
 	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
@@ -247,7 +247,7 @@ REM ref : https://duckduckgo.com/?q=bible+online+in+greek&atb=v84-1&ia=web
 	
 
 REM 	start chrome.exe "https://biblehub.com/interlinear/acts/1.htm"
-	start launcher.exe ""https://biblehub.com/interlinear/matthew/13.htm"
+	start launcher.exe ""https://biblehub.com/interlinear/matthew/15.htm"
 	start launcher.exe "http://greekbible.com/index.php"
 	
 REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/10NSNuFVtup6FsuM18mIJvSS75nQLFjDQTUmbHE-eiFE/edit#gid=481191813"
