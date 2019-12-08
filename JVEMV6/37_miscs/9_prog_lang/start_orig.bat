@@ -27,13 +27,12 @@ if "%1"=="he" (
 
 	echo %%1 is %1!
 
-REM 	pushd "C:\WORKS_2\Programs\opera"
-	pushd "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application"
+	pushd "C:\WORKS_2\Programs\opera"
 
 REM ===============
 REM 	trans
 REM ===============
-	start brave.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
+	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
 
 REM ===============
 REM 	lang
@@ -42,25 +41,25 @@ REM : doc
 REM 	start chrome.exe "https://docs.google.com/document/d/1rvbIPLG4V6oanqnqkGwmfYU5kO4Ifo7EawcHxkqbTsY/edit"
 REM 	start chrome.exe "https://docs.google.com/document/d/16zGryKeY6f_oFqsRFjtbKPPZ-3A-HBsVbdAQRMGX2FE/edit"
 
-REM 	start brave.exe "https://docs.google.com/document/d/1fa29-r2ZEB1eB3TAgaMzlvCi9G_gy6X-IJnlTjauHnw/edit"
+REM 	start launcher.exe "https://docs.google.com/document/d/1fa29-r2ZEB1eB3TAgaMzlvCi9G_gy6X-IJnlTjauHnw/edit"
 
-REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/1.html"
+REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/1.html"
 REM : text
-REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
-REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
-REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
-	start brave.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
+REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
+REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
+REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
+	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM : wiki
-	start brave.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
+	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
-	start brave.exe "https://biblescripture.net/Hebrew.html"
+	start launcher.exe "https://biblescripture.net/Hebrew.html"
 
 REM ===============
 REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
-	start brave.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
-REM 	start brave.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
+	start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
 
 REM : word list : 2019/08/15 09:22:49
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
@@ -404,8 +403,7 @@ REM ===============
 REM 	time-related pages
 REM ===============
 
-REM goto time_related_opera
-goto time_related_brave
+goto time_related_opera
 
 
 :time_related_opera
@@ -416,16 +414,6 @@ goto time_related_brave
 	start launcher.exe "https://stopwatch-app.com/"
 
 	goto end_of_end
-
-:time_related_brave
-
-	pushd "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application"
-
-	start brave.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
-	start brave.exe "https://stopwatch-app.com/"
-
-	goto end_of_end
-	
 	
 REM : time
 start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
