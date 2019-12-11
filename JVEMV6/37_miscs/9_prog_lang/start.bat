@@ -27,13 +27,14 @@ if "%1"=="he" (
 
 	echo %%1 is %1!
 
-REM 	pushd "C:\WORKS_2\Programs\opera"
-	pushd "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application"
+	pushd "C:\WORKS_2\Programs\opera"
+REM 	pushd "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application"
 
 REM ===============
 REM 	trans
 REM ===============
-	start brave.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
+REM 	start brave.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
+	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
 
 REM ===============
 REM 	lang
@@ -49,17 +50,17 @@ REM : text
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
-	start brave.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
+	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM : wiki
-	start brave.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
+	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
-	start brave.exe "https://biblescripture.net/Hebrew.html"
+	start launcher.exe "https://biblescripture.net/Hebrew.html"
 
 REM ===============
 REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
-	start brave.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+	start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
 REM 	start brave.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
 
 REM : word list : 2019/08/15 09:22:49
@@ -404,8 +405,8 @@ REM ===============
 REM 	time-related pages
 REM ===============
 
-REM goto time_related_opera
-goto time_related_brave
+goto time_related_opera
+REM goto time_related_brave
 
 
 :time_related_opera
