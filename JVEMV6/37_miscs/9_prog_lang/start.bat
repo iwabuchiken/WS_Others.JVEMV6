@@ -50,7 +50,8 @@ REM : text
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html"
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
-	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
+start launcher.exe "http://www.qbible.com/hebrew-old-testament/nahum/1.html"
+REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM : wiki
 	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
