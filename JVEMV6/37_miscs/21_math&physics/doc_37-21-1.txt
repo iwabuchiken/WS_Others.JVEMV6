@@ -1,0 +1,24 @@
+Green’s functions provide a powerful tool to solve linear problems consisting of a
+differential equation (partial or ordinary
+
+ with
+
+ possibly
+
+ an inhomogeneous term) and
+enough initial- and/or boundary conditions (also possibly inhomogeneous) so that this
+problem has a unique solution
+
+ The Green’s function is defined by a similar problem
+where all initial- and/or boundary conditions are homogeneous and the inhomogeneous
+term in the differential equation is a delta function
+
+ If one knows the Green’s function
+of a problem one can write down its solution in closed form as linear combinations
+of integrals involving the Green’s function and the functions appearing in the inhomogeneities
+
+ Green’s functions can often be found in an explicit way
+
+ and in these cases
+it is very efficient to solve the problem in this way
+
