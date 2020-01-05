@@ -19,7 +19,8 @@ REM =================================
 REM 	eclipse
 REM 	2020/01/04 15:21:38
 REM =================================
-pushd C:\WORKS_2\Programs\eclipse\eclipse_luna-php,python
+REM pushd C:\WORKS_2\Programs\eclipse\eclipse_luna-php,python
+pushd C:\WORKS_2\Programs\eclipse\eclipse_luna_php
 start eclipse.exe
 
 REM =================================
