@@ -24,19 +24,20 @@ pushd C:\WORKS_2\Programs\eclipse\eclipse_luna_php
 start eclipse.exe
 
 REM =================================
+REM 	browser
+REM 	2020/01/07 14:44:50
+REM =================================
+pushd C:\WORKS_2\Programs\opera
+launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1
+
+
+REM =================================
 REM 	git
 REM 	2020/01/04 15:21:38
 REM =================================
 REM C:\WORKS_2\a.bat
 C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat
 REM  && r c && s
-
-REM =================================
-REM 	browser
-REM 	2020/01/07 14:44:50
-REM =================================
-pushd C:\WORKS_2\Programs\opera
-launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1
 
 :end_of_end
 
