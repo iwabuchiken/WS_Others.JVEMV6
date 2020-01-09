@@ -8,6 +8,7 @@ REM 	log file
 REM 	eclipse
 REM 	git
 REM 	browser
+REM 	xampp
 REM =================================
 
 REM =================================
@@ -34,14 +35,22 @@ C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.
 REM  && r c && s
 
 REM =================================
+REM 	xampp
+REM 	2020/01/09 07:53:47
+REM =================================
+pushd C:\xampp_5.6
+start xampp-control.exe
+
+REM =================================
 REM 	browser
 REM 	2020/01/08 13:01:27
 REM =================================
 set url_1=http://localhost/Eclipse_Luna/Cake_IFM11/ifm
+set url_2=http://localhost/Eclipse_Luna/Cake_IFM11/ifm/ifm_actions?action=yes
 
 pushd C:\WORKS_2\Programs\opera
 REM launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/ifm
-launcher.exe %url_1%
+launcher.exe %url_1% %url_2%
 
 :end_of_end
 

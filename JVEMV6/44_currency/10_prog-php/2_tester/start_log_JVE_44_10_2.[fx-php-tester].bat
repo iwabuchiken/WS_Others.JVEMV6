@@ -36,7 +36,7 @@ REM 	browser
 REM 	2020/01/07 14:44:50
 REM =================================
 pushd C:\WORKS_2\Programs\opera
-launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1 
+launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1
 
 :end_of_end
 
