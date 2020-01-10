@@ -27,14 +27,6 @@ pushd C:\WORKS_2\Programs\eclipse\eclipse_luna_php
 start eclipse.exe
 
 REM =================================
-REM 	git
-REM 	2020/01/08 13:01:27
-REM =================================
-REM C:\WORKS_2\a.bat
-C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat
-REM  && r c && s
-
-REM =================================
 REM 	xampp
 REM 	2020/01/09 07:53:47
 REM =================================
@@ -51,6 +43,15 @@ set url_2=http://localhost/Eclipse_Luna/Cake_IFM11/ifm/ifm_actions?action=yes
 pushd C:\WORKS_2\Programs\opera
 REM launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/ifm
 launcher.exe %url_1% %url_2%
+
+REM =================================
+REM 	git
+REM 	2020/01/08 13:01:27
+REM =================================
+REM C:\WORKS_2\a.bat
+C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat
+REM  && r c && s
+
 
 :end_of_end
 
