@@ -34,7 +34,7 @@ REM ===============
 REM 	trans
 REM ===============
 REM 	start brave.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
-	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
+REM 	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=en&tl=zh-CN"
 
 REM ===============
 REM 	lang
@@ -54,9 +54,9 @@ REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/nahum/3.html"
 start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/1.html
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM : wiki
-	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
+REM 	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
-	start launcher.exe "https://biblescripture.net/Hebrew.html"
+REM 	start launcher.exe "https://biblescripture.net/Hebrew.html"
 
 REM ===============
 REM 	resources
@@ -429,11 +429,15 @@ REM goto time_related_brave
 
 	goto end_of_end
 	
-	
+if "%1"=="he" (
+
+) else (	
 REM : time
 start chrome.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
 
 REM : stopwatch
 start chrome.exe "https://stopwatch-app.com/"
+
+)
 
 :end_of_end
