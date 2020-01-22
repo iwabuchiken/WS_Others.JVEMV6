@@ -2,6 +2,7 @@ REM =================================
 REM 	log file
 REM 	git
 REM 	browser
+REM 	log dir
 REM =================================
 @echo off
 
@@ -32,12 +33,21 @@ launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/E
 
 
 REM =================================
+REM 	log dir
+REM 	2020/01/22 17:44:47
+REM =================================
+start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+
+REM =================================
 REM 	git
 REM 	2020/01/04 15:21:38
 REM =================================
 REM C:\WORKS_2\a.bat
 C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat
 REM  && r c && s
+
+
+
 
 :end_of_end
 
