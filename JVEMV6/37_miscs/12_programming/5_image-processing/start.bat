@@ -38,11 +38,11 @@ REM 	browser
 REM 	2020/01/08 13:01:27
 REM =================================
 set url_1=http://localhost/Eclipse_Luna/Cake_IFM11/ip
-REM set url_2=http://localhost/Eclipse_Luna/Cake_IFM11/ifm/ifm_actions?action=yes
+set url_2=6. http://localhost/Eclipse_Luna/Cake_IFM11/ip/ip_proc_actions
 
 pushd C:\WORKS_2\Programs\opera
 REM launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/ifm
-launcher.exe %url_1%
+launcher.exe %url_1% %url_2%
 
 REM =================================
 REM 	git
