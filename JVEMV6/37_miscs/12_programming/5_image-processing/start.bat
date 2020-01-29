@@ -8,6 +8,7 @@ REM 	log file
 REM 	eclipse
 REM 	xampp
 REM 	browser
+REM 	dirs
 REM 	git
 REM =================================
 
@@ -38,11 +39,18 @@ REM 	browser
 REM 	2020/01/08 13:01:27
 REM =================================
 set url_1=http://localhost/Eclipse_Luna/Cake_IFM11/ip
-set url_2=6. http://localhost/Eclipse_Luna/Cake_IFM11/ip/ip_proc_actions
+set url_2=http://localhost/Eclipse_Luna/Cake_IFM11/ip/ip_proc_actions
 
 pushd C:\WORKS_2\Programs\opera
 REM launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/ifm
 launcher.exe %url_1% %url_2%
+
+REM =================================
+REM 	dirs
+REM 	2020/01/29 15:15:37
+REM =================================
+start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+start C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\images
 
 REM =================================
 REM 	git
