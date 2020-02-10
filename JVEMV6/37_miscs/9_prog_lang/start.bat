@@ -136,10 +136,10 @@ REM =================================
 REM ===============
 REM 	trans
 REM ===============
-	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
-	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
-	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
-	start launcher.exe "https://www.bing.com/translator/"
+REM 	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
+REM 	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
+REM 	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ar&tl=en"
+REM 	start launcher.exe "https://www.bing.com/translator/"
 	
 REM ===============
 REM 	docs
@@ -148,22 +148,23 @@ REM 	start launcher.exe "https://writer.zoho.com/writer/open/eovu101b2b5cc9dae41
 REM start launcher.exe "https://docs.google.com/document/d/1EWd6CKZptTbNfKgaCLR-hWeqSDDS8TTX1FQPjyjAdVQ/edit"
 REM 	start launcher.exe "https://docs.google.com/document/d/1o2H_03TxGsesoIWeqXtbasTZkkSpXvT4ngZqOaclE-E/edit#"
 REM 	start launcher.exe "https://docs.google.com/document/d/1K_2-9x0g_WTFwwDyV-M8V89Sk_L4fXFUIUE6gET5uV4/edit"
-	start launcher.exe "http://www.felesteen.ps/article/myladynwf-yhdhr-mn-anhyar-althdyt-fy-ghzt"
+REM 	start launcher.exe "http://www.felesteen.ps/article/myladynwf-yhdhr-mn-anhyar-althdyt-fy-ghzt"
 	start launcher.exe "https://ja.wikipedia.org/wiki/ƒAƒ‰ƒrƒA•¶Žš#Žš•ê"
 
-	start launcher.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
+REM 	start launcher.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
 	
 REM 	start launcher.exe "https://docs.google.com/spreadsheets/d/18P9jHbAxfMambOlr7llsahy5EYWImyEGrFEFsdVZepw/edit?ouid=114557293394362897307&usp=docs_home&ths=true"
 	
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\arabic.odt
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\arabic.ods
-
+REM 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\arabic.odt
+REM 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\arabic.ods
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\lang_arabic.odt
 	
 REM ===============
 REM 	texts
 REM ===============
-	start launcher.exe "https://www.hespress.com/international/439175.html"
-
+REM 	start launcher.exe "https://www.hespress.com/international/439175.html"
+	start launcher.exe https://quranonline.net/al-imran/
+	start launcher.exe https://quran.com/2?translations=20
 	
 	goto end
 
