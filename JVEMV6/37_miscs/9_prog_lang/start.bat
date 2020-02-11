@@ -51,9 +51,9 @@ REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.html"
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
 REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/nahum/3.html"
-REM start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/2.html
+start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/3.html#3
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
-	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah"
+REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah"
 REM : wiki
 REM 	start launcher.exe "https://ja.wikipedia.org/wiki/ƒwƒuƒ‰ƒC•¶Žš#•¶Žš"
 REM : pronunciations
