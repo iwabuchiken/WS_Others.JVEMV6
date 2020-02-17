@@ -416,6 +416,10 @@ REM goto time_related_brave
 
 :time_related_opera
 
+REM 2020/02/17 12:42:05
+
+	goto end_of_end
+	
 	pushd "C:\WORKS_2\Programs\opera"
 
 	start launcher.exe "http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php"
