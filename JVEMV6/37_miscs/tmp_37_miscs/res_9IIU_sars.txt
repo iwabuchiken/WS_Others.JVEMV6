@@ -1,0 +1,17 @@
+2020年2月18日13:40:25
+
+	1. https://ja.wikipedia.org/wiki/重症急性呼吸器症候群
+	2. https://www.anzen.mofa.go.jp/sars/basick.html
+
+	next
+	https://www.anzen.mofa.go.jp/sars/basick.html
+	https://ja.wikipedia.org/wiki/ウイルス血症
+	https://ja.wikipedia.org/wiki/サイトカイン放出症候群#サイトカインストーム
+	
+	]14:12:25
+
+
+----------------------------------- resources
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:37_miscs) periodical updates" && e && git push origin master
+
+======================= EOF =======================
