@@ -102,6 +102,22 @@
 	
 	]15:35:59
 
+2020年2月24日12:21:14
+	
+	41#8.1.2_1 : クレジットサイクル
+	FAIO
+	
+	credit cycle
+	https://en.wikipedia.org/wiki/Credit_cycle
+	https://duckduckgo.com/?q=クレジットサイクル&ia=web
+	https://duckduckgo.com/?q=us+credit+statistics+corporate&df=y&ia=web [12:38:49
+		d-1 https://www.lexingtonlaw.com/blog/credit-cards/average-credit-card-debt-statistics.html
+	
+	next
+		https://www.creditcards.com/credit-card-news/credit-card-debt-statistics-1276.php : read
+
+	]2020年2月24日12:50:48
+
 
 
 -------------------------------------- resources
