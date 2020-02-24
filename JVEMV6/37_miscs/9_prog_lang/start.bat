@@ -164,7 +164,7 @@ REM ===============
 REM 	texts
 REM ===============
 REM 	start launcher.exe "https://www.hespress.com/international/439175.html"
-	start launcher.exe https://quranonline.net/al-imran/
+	start launcher.exe https://quranonline.net/al-baqarah/
 	start launcher.exe https://quran.com/2?translations=20
 	
 	goto end
