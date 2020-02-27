@@ -123,4 +123,8 @@
 -------------------------------------- resources
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
 
+-------------------------------------- resources : stats
+https://www.j-credit.or.jp/information/statistics/ クレジット関連統計 2020年2月24日15:14:35
+
+
 ======================= EOF =======================
