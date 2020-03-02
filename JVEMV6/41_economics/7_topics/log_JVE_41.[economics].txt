@@ -118,7 +118,11 @@
 
 	]2020年2月24日12:50:48
 
+2020年3月1日23:24:05
 
+	next
+	https://en.wikipedia.org/wiki/Banking_in_Cuba#References
+	
 
 -------------------------------------- resources
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
