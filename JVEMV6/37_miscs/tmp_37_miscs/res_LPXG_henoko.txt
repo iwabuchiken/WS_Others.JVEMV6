@@ -1,0 +1,16 @@
+2020年3月4日14:34:43
+	
+	next
+	https://ja.wikipedia.org/wiki/普天間基地移設問題#海外移設の検討と棄却
+	]14:35:11
+
+
+
+
+
+
+
+----------------------------------- resources
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:37_miscs:henoko) periodical updates" && e && git push origin master
+
+======================= EOF =======================
