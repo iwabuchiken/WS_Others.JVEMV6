@@ -52,7 +52,8 @@ REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/ecclesiastes/3.
 REM 	start brave.exe "http://www.qbible.com/hebrew-old-testament/isaiah/2.html#1"
 REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/nahum/3.html"
 REM start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/3.html#3
-start launcher.exe http://www.qbible.com/hebrew-old-testament/zephaniah/3.html#1
+REM start launcher.exe http://www.qbible.com/hebrew-old-testament/zephaniah/3.html#1
+start launcher.exe "http://www.qbible.com/hebrew-old-testament/jonah/1.html#1"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah"
 REM : wiki
