@@ -1,0 +1,74 @@
+2020年3月20日14:08:38
+
+	炭素固定
+	https://duckduckgo.com/?ia=web 炭素固定
+	
+		https://eneken.ieej.or.jp/data/pdf/755.pdf 炭素固定化技術の現状と展望
+		https://ja.wikipedia.org/wiki/炭素固定	:d-1
+			同化反応
+			
+	https://duckduckgo.com/?ia=web 炭素固定 貝殻
+		
+		http://www.ms-laboratory.jp/scallop/scallop.htm ホタテ貝殻の機能性
+		http://www.amsl.or.jp/midoriishi/0503.pdf サンゴ礁による 二酸化炭素固定
+		
+	
+	栄養生物
+		FOUND ==> 読み方は、（従属栄養）生物、not （従属）栄養生物
+		
+	暗反応
+	
+	catalyst carbon fixation technology
+	
+ 	https://duckduckgo.com/?ia=web 촉매 탄소 고정 기술
+ 		http://www.todayenergy.kr/news/articleView.html?idxno=203106
+	
+	next
+	https://ja.wikipedia.org/wiki/炭素固定
+		"ただ、ある種の"
+	https://en.wikipedia.org/wiki/Carbon_fixation
+	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305
+	https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html
+	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel
+	http://www.todayenergy.kr/news/articleView.html?idxno=203106
+	https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/
+
+	]15:14:14
+
+2020年3月20日15:42:53
+
+	#https://ja.wikipedia.org/wiki/炭素固定
+		"ただ、ある種の"	:d-1
+	
+	#https://ja.wikipedia.org/wiki/カルビン回路#/media/ファイル:Calvin-cycle3.png	:d-2
+	
+	#https://ja.wikipedia.org/wiki/カルビン回路	:d-3
+		 (RuBP, C5)	:#1
+	
+	#https://zh.wikipedia.org/wiki/碳固定	:d-4
+		
+	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305	:d-5
+		Christopher Cummins
+		a source of molybdenum	:#1
+			https://en.wikipedia.org/wiki/Molybdate	:d-5.2
+			
+		Working with molybdate 	:@@#
+		The first carbon dioxide	:@@#	:#2
+			carbonate ion
+				https://en.wikipedia.org/wiki/Carbonate
+		Another possible application	:#3
+		
+	next
+	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305 Another possible application	:#3
+
+	]16:55:10
+
+
+
+
+
+
+
+C:\WORKS_2\a.bat && pushd "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\19_natural-science & technology(nt)" && git add -A && git commit -m ^"(37_miscs : nt : carbon) periodical updates^" && e && git push origin master
+
+======================== EOF ========================
