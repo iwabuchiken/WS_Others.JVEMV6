@@ -47,7 +47,7 @@
 	
 	#https://zh.wikipedia.org/wiki/碳固定	:d-4
 		
-	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305	:d-5
+	#https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305	:d-5
 		Christopher Cummins
 		a source of molybdenum	:#1
 			https://en.wikipedia.org/wiki/Molybdate	:d-5.2
@@ -118,6 +118,28 @@
 	next
 	https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html
 		#4, :w
+
+------------------------------------------
+2020年3月22日18:23:37
+	#https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html	:d-1
+		:#4
+		Besides, they found
+			chronoamperometry :w
+			overpotential :w
+		
+		#5
+		"Furthermore, the experimental results"
+			synergy-catalysis	:w
+				https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra10015a
+				https://www.sciencedirect.com/science/article/abs/pii/S246882311930197X ==> graphics
+				http://www.kiwaho.com/index_files/AboutUs.htm
+				
+
+	next
+	search : "electrocatalysts for CO2 reduction"
+	http://www.amsl.or.jp/midoriishi/0503.pdf サンゴ礁による 二酸化炭素固定
+
+
 
 
 
