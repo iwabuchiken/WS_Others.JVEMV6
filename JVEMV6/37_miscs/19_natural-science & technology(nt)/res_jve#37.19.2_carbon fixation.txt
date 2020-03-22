@@ -24,10 +24,10 @@
  		http://www.todayenergy.kr/news/articleView.html?idxno=203106
 	
 	next
-	https://ja.wikipedia.org/wiki/炭素固定
+	#https://ja.wikipedia.org/wiki/炭素固定
 		"ただ、ある種の"
 	https://en.wikipedia.org/wiki/Carbon_fixation
-	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305
+	#https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305
 	https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html
 	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel
 	http://www.todayenergy.kr/news/articleView.html?idxno=203106
@@ -62,6 +62,64 @@
 	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305 Another possible application	:#3
 
 	]16:55:10
+
+2020年3月22日13:37:40
+
+	#https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305	:d-1
+	formate
+		https://en.wikipedia.org/wiki/Formate
+	silanes
+		甲硅烷
+		烷
+		alkyl
+	
+	https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html	:d-2
+		Well-defined	:#1
+		#w. phthalocyanines
+		#w. aggregation
+		w. accessible active sites
+			https://en.wikipedia.org/wiki/Active_site
+				https://en.wikipedia.org/wiki/Substrate_(chemistry)
+		pyrrolidinonyl nickel phthalocyanine (PyNiPc) :#2
+			w. pyrrolidinonyl
+				https://www.deepdyve.com/lp/wiley/cheminform-abstract-enantioselective-synthesis-of-pyrrolidinonyl-B5dVHlNXfz
+				https://pubchem.ncbi.nlm.nih.gov/compound/10220147 1-[3-(2-Oxopyrrolidin-1-yl)butyl]pyrrolidin-2-one	:d-3
+			ジノニール
+			dinonyl
+				https://duckduckgo.com/?ia=web dinonyl
+					https://www.deepdyve.com/lp/wiley/cheminform-abstract-enantioselective-synthesis-of-pyrrolidinonyl-B5dVHlNXfz
+					https://pubchem.ncbi.nlm.nih.gov/compound/Dinonyl-phthalate#section=Structures
+			chemistry suffix -onyl
+			phthalate
+			pyrrolidin
+		
+		:#3
+		This catalyst was constructed by
+			#w. pyrrolidone group
+			-#w. assembly/fixation strategy
+			#dispersion :w
+		
+		:#4
+		Besides, they found
+			chronoamperometry :w
+			overpotential :w
+		
+		//dispersion and catalysis :upto ]14:58:57
+		
+		[[ pyrrolidone
+			https://en.wikipedia.org/wiki/2-Pyrrolidone
+				lactam	:w
+				
+		[[ assembly/fixation strategy
+		[[ dispersion 
+			https://www.researchgate.net/figure/Mechanism-of-chemical-dispersion-of-oil-Left-accumulation-of-dispersant-molecules-at_fig5_259506919
+			https://www.nissanchem.co.jp/eng/products/materials/colloid.html
+
+	next
+	https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html
+		#4, :w
+
+
 
 
 
