@@ -29,9 +29,9 @@
 	https://en.wikipedia.org/wiki/Carbon_fixation
 	#https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305
 	https://phys.org/news/2020-03-extremely-immobilized-catalyst-electrocatalytic-carbon.html
-	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel
-	http://www.todayenergy.kr/news/articleView.html?idxno=203106
-	https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/
+	***https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel
+	***http://www.todayenergy.kr/news/articleView.html?idxno=203106
+	#***https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/
 
 	]15:14:14
 
@@ -188,7 +188,55 @@
 		:#5 ここで TC は pH とアルカリ度から
 
 	]10:07:03
+
+------------------------------------------
+2020年3月23日16:03:55
+
+	#http://www.amsl.or.jp/midoriishi/0503.pdf	:d-1
+		#:#5 ここで TC は pH とアルカリ度から
+		
+		#:#6 サンゴ礁が二酸化炭素を
+		#:#7サンゴ礁内で石灰化により
+		#:#8二酸化炭素の吸収源か発生源かを
+		#:#9こうした試みのひとつに
+			有機炭素、無機炭素	:w
+			海洋温度差発電		:w
+			サンゴの種苗生産技術	:m
+			サンゴの成長促進技術	:m
+		:#10二酸化炭素濃度の増大に伴う
+			生態系エンジニアリング	:w
+			還元主義的思考法		:w
+			ホロン的思考			:w
+		
+		]COMP
 	
+	https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/	:d-2
+	
+		:#1 지구온난화를
+		
+	next
+	:#2 그런데 만약 이산화탄소를
+
+	]16:55:27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+
 
 C:\WORKS_2\a.bat && pushd "C:\WORKS_2\WS\WS_Others.JVEMV6" && git add -A && git commit -m ^"(37_miscs : nt : carbon) periodical updates^" && e && git push origin master
 
