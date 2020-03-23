@@ -140,14 +140,55 @@
 	http://www.amsl.or.jp/midoriishi/0503.pdf サンゴ礁による 二酸化炭素固定
 
 
+------------------------------------------
+2020年3月22日22:53:50
+
+	http://www.amsl.or.jp/midoriishi/0503.pdf サンゴ礁による 二酸化炭素固定
+		:#1 光合成と石灰化 
+			石灰化	:w
+			灰化の過程においては二酸化炭素が発生する	:memo
+			サンゴや石灰藻は光合成も石灰化も行う	:m
+			
+			
+	next
+	http://www.amsl.or.jp/midoriishi/0503.pdf "光合成は次式のように"
+	
+	]23:14:35
 
 
+------------------------------------------
+2020年3月23日9:20:29
 
+	http://www.amsl.or.jp/midoriishi/0503.pdf "光合成は次式のように"	:d-1
+		:#1 光合成は次式のように
+			炭酸物質による緩衝効果	:m
+		
+		:#2 光合成と石灰化に共通して
+			全炭酸 (TC)	:m
+		
+		:#3 サンゴ礁での二酸化炭素の
+		
+		:#4 サンゴ礁での二酸化炭素の収支を
+			pH-アルカリ度法	:w
+			アルカリ度		:w
+				https://www.weblio.jp/content/アルカリ度
+				https://geo-info.sakura.ne.jp/ChemAnalysis/alkalinity.html アルカリ度について
+				https://www.endokagaku.com/water_analysis/analysis-set/droptest/wad-al-m.html ドロップテスト Mアルカリ度
+				
+			電気的中性原理	:w
+		
+		:#5 ここで TC は pH とアルカリ度から
+			炭酸平衡計算	:w
+	
+	https://ja.wikipedia.org/wiki/光合成	:d-2
+	
+	
+	next
+	http://www.amsl.or.jp/midoriishi/0503.pdf
+		:#5 ここで TC は pH とアルカリ度から
 
-
-
-
-
+	]10:07:03
+	
 
 C:\WORKS_2\a.bat && pushd "C:\WORKS_2\WS\WS_Others.JVEMV6" && git add -A && git commit -m ^"(37_miscs : nt : carbon) periodical updates^" && e && git push origin master
 
