@@ -3,11 +3,11 @@
 	炭素固定
 	https://duckduckgo.com/?ia=web 炭素固定
 	
-		https://eneken.ieej.or.jp/data/pdf/755.pdf 炭素固定化技術の現状と展望
-		https://ja.wikipedia.org/wiki/炭素固定	:d-1
+		***https://eneken.ieej.or.jp/data/pdf/755.pdf 炭素固定化技術の現状と展望
+		***https://ja.wikipedia.org/wiki/炭素固定	:d-1
 			同化反応
 			
-	https://duckduckgo.com/?ia=web 炭素固定 貝殻
+	***https://duckduckgo.com/?ia=web 炭素固定 貝殻
 		
 		http://www.ms-laboratory.jp/scallop/scallop.htm ホタテ貝殻の機能性
 		http://www.amsl.or.jp/midoriishi/0503.pdf サンゴ礁による 二酸化炭素固定
@@ -57,7 +57,7 @@
 			carbonate ion
 				https://en.wikipedia.org/wiki/Carbonate
 		Another possible application	:#3
-		
+
 	next
 	https://news.mit.edu/2014/new-catalyst-could-lead-to-cleaner-energy-0305 Another possible application	:#3
 
@@ -131,7 +131,7 @@
 		"Furthermore, the experimental results"
 			synergy-catalysis	:w
 				https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra10015a
-				https://www.sciencedirect.com/science/article/abs/pii/S246882311930197X ==> graphics
+				https://www.sciencedirect.com/science/article/abs/pii/S246882311930197X ==> graphics "synergistic catalytic "
 				http://www.kiwaho.com/index_files/AboutUs.htm
 				
 
@@ -236,6 +236,20 @@
 	]10:03:10
 
 
+------------------------------------------
+2020年3月25日18:08:40
+
+	#https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/	:d-1
+
+		#:#4 방법론에 따라 연구팀은
+		
+	next
+	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel :M-3
+
+	]18:32:57
+
+
+
 
 
 
@@ -246,6 +260,18 @@
 
 ------------------------------------------
 
+------------------------------------------ DOCS (Materials)
+1	https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/	20200325_182427
+2	https://eneken.ieej.or.jp/data/pdf/755.pdf 炭素固定化技術の現状と展望	20200325_182747
+3	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel	20200325_182948
+4	https://ja.wikipedia.org/wiki/炭素固定	20200325_183346
+
+
+
+------------------------------------------ SEARCHES
+https://duckduckgo.com/?ia=web 炭素固定 貝殻
+
+------------------------------------------
 
 C:\WORKS_2\a.bat && pushd "C:\WORKS_2\WS\WS_Others.JVEMV6" && git add -A && git commit -m ^"(37_miscs : nt : carbon) periodical updates^" && e && git push origin master
 
