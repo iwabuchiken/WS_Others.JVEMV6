@@ -122,10 +122,82 @@
 
 	next
 	https://en.wikipedia.org/wiki/Banking_in_Cuba#References
+
+--------------------------------------
+2020年3月26日6:58:42
+
+	stock buyback
+
+2020年3月26日10:05:00
+
+	stock buyback
+	https://en.wikipedia.org/wiki/Share_repurchase	:d-1
+		safe harbours		:?
+		(SEC) rule 10b-18	:w
 	
+	next
+	continue
+	
+	]10:21:40
+
+
+2020年3月26日13:10:58
+
+	41#7.5
+	グラス・スティーガル法
+	https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation
+		Banking Act of 1933	:w
+		four provisions		:m
+		The separation of commercial and investment banking 	:#1
+		culminated in the 1999	:#2
+		
+		https://www.law.upenn.edu/journals/jbl/articles/volume12/issue4/Markham12U.Pa.J.Bus.L.1081(2010).pdf	:ref
+		https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation#Separating_commercial_and_investment_banking	:#3
+		There were several "loopholes"	:#4
+		While permitting affiliations between	:#5
+		https://en.wikipedia.org/wiki/Glass–Steagall_legislation#Decline_and_repeal	:#6
+		https://en.wikipedia.org/wiki/Glass–Steagall_legislation#Aftermath_of_repeal	:#7
+		https://en.wikipedia.org/wiki/Glass–Steagall_legislation#Post-financial_crisis_reform_debate	:#8
+		
+		
+		<refs>
+		https://fraser.stlouisfed.org/title/466/item/15952	:r-1
+		
+	next
+	https://en.wikipedia.org/wiki/Glass–Steagall_legislation#Post-financial_crisis_reform_debate	:#8
+
+	]14:12:38
+
+
+
+
+
+
+
+
+
+--------------------------------------
+
+-------------------------------------- TOPICS
+#クレジットサイクル	41#8.1.2
+*stock buyback	41#7.4	20200326_080231
+*グラス・スティーガル法	41#7.5	20200326_101604
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
 
 -------------------------------------- resources
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
+
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:5) periodical updates" && e && git push origin master
 
 -------------------------------------- resources : stats
 https://www.j-credit.or.jp/information/statistics/ クレジット関連統計 2020年2月24日15:14:35
