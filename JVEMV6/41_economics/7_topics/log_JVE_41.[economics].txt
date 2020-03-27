@@ -169,6 +169,41 @@
 	]14:12:38
 
 
+--------------------------------------
+2020年3月27日8:30:08
+
+	41#7.5_2
+	
+	#https://en.wikipedia.org/wiki/Glass–Steagall_legislation#Post-financial_crisis_reform_debate	:#8
+	
+	https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_in_post-financial_crisis_reform_debate	:d-1
+	
+		https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_in_post-financial_crisis_reform_debate#Efforts_to_restore_Sections_20_and_32_as_part_of_Dodd%E2%80%93Frank	:#1
+			H.R. 4173	:w
+			bank insurance activities	:w
+	
+		https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_in_post-financial_crisis_reform_debate#Post-2010_efforts	:#2
+			H.R. 129	:m
+				(1) amended
+				(2) directed federal banking regulators and
+				 Supreme Court decision in Investment Company Institute v. Camp
+				 (3) repealed various GLBA change
+			the Bank Holding Company Act	:w
+			Federal Deposit Insurance Act	:w
+			FDIC	:w
+		
+		https://en.wikipedia.org/wiki/Glass–Steagall_in_post-financial_crisis_reform_debate#Volcker_rule_as_"Glass–Steagall_lite"	:#3
+	
+		<ref>
+		Congressional Research Service https://en.wikipedia.org/wiki/Congressional_Research_Service
+
+	next : 
+	41#7.5_2
+		https://en.wikipedia.org/wiki/Glass–Steagall_in_post-financial_crisis_reform_debate#Volcker_rule_as_"Glass–Steagall_lite"	:#3
+
+	]9:08:06
+
+
 
 
 

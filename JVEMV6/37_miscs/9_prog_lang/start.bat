@@ -65,7 +65,11 @@ REM ===============
 REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
-	start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+
+start launcher.exe http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
+start launcher.exe https://stopwatch-app.com
+
 REM 	start brave.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
 
 REM : word list : 2019/08/15 09:22:49
