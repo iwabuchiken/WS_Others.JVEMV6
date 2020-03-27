@@ -1,0 +1,75 @@
+--------------------------------------
+2020”N3ŒŽ27“ú13:22:43
+
+	next
+	https://en.wikipedia.org/wiki/Cosmological_constant
+
+
+--------------------------------------
+2020”N3ŒŽ27“ú13:59:58
+
+	https://en.wikipedia.org/wiki/Cosmological_constant	:d-1
+		#:#1 https://en.wikipedia.org/wiki/Cosmological_constant
+			energy density of space	:m
+			achieve a static universe	:m
+
+		#:#2 Since the 1990s, studies
+			ƒ©CDM model	:w
+		
+		#:#3 According to quantum field theory (QFT) which 
+			ground state	:w
+			vacuum energy	:w
+			cosmological constant problem	:w
+			
+		#:#4 https://en.wikipedia.org/wiki/Cosmological_constant#History
+			mathematician Friedmann	:m
+		
+		:#5 Some early generalizations of Einstein's 
+		
+		:#6 https://en.wikipedia.org/wiki/Cosmological_constant#Equation
+			
+		#:#7 The cosmological constant has the
+			intrinsic energy density	:w
+			Einstein's constant			:w
+		
+		:#8 https://en.wikipedia.org/wiki/Cosmological_constant#ƒ¶ƒ©_(Omega_Lambda)
+
+	next
+		:#8 https://en.wikipedia.org/wiki/Cosmological_constant#ƒ¶ƒ©_(Omega_Lambda)
+
+
+	]15:01:51
+
+
+
+
+
+
+--------------------------------------
+
+--------------------------------------DOCS
+1	https://en.wikipedia.org/wiki/Cosmological_constant	20200327_132207
+
+-------------------------------------- TOPICS
+
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+
+-------------------------------------- resources
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:21_m&p:2_cc) periodical updates" && e && git push origin master
+
+
+-------------------------------------- resources : stats
+
+
+
+======================= EOF =======================
