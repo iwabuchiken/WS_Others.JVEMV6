@@ -248,6 +248,36 @@
 
 	]18:32:57
 
+------------------------------------------
+2020年3月27日16:33:00
+	
+	37#19.2_8
+	
+	#https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel :M-3	:d-1
+		
+		:#1 The new work is 
+			John Turner	:m
+			National Renewable Energy Laboratory in Golden, Colorado	:m
+			copper oxide	:w
+			Michael Graetzel	:m
+			the Swiss Federal Institute of Technology in Lausanne	:m
+			Marcel Schreier	:m
+		
+		:#2 Last year, Marcel
+			the catalytic hot spots	:m
+		
+		:#3 To do so,
+			copper oxide nanowires	:w
+		
+		:#4 Nate Lewis, a chemist 
+			Nate Lewis	:m
+			
+		
+	next
+		https://www.sciencealert.com/the-first-low-cost-carbon-dioxide-splitter-means-a-brighter-future-for-clean-energy
+
+	]17:07:25
+
 
 
 
@@ -261,15 +291,37 @@
 ------------------------------------------
 
 ------------------------------------------ DOCS (Materials)
-1	https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/	20200325_182427
-2	https://eneken.ieej.or.jp/data/pdf/755.pdf 炭素固定化技術の現状と展望	20200325_182747
-3	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel	20200325_182948
-4	https://ja.wikipedia.org/wiki/炭素固定	20200325_183346
+#1	https://www.sciencetimes.co.kr/news/공기-중-이산화탄소로-화학제품-만든다/	20200325_182427
+%2	https://eneken.ieej.or.jp/data/pdf/755.pdf 炭素固定化技術の現状と展望	20200325_182747
+#3	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel	20200325_182948
+#4	https://ja.wikipedia.org/wiki/炭素固定	20200325_183346
 
+5	https://en.wikipedia.org/wiki/Direct_air_capture	20200327_170327
+6	http://www.geoengineeringmonitor.org/2018/05/direct-air-capture/	20200327_170350
+7	https://www.sciencealert.com/the-first-low-cost-carbon-dioxide-splitter-means-a-brighter-future-for-clean-energy
+
+
+
+-------------------------------------- TOPICS
+
+
+-------------------------------------- SYMBOLS	20200327_163426
+#	complete	
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
 
 
 ------------------------------------------ SEARCHES
-https://duckduckgo.com/?ia=web 炭素固定 貝殻
+1	https://duckduckgo.com/?ia=web 炭素固定 貝殻
+2	https://duckduckgo.com/?ia=web co2 aircaputure https://duckduckgo.com/?q=co2+aircaputure&t=opera&ia=videos	2020/03/27 17:00:22
+3	co2 split	
+	https://duckduckgo.com/?q=co2+split&t=opera&ia=web 20200327_170456
+	3-1	https://www.sciencealert.com/the-first-low-cost-carbon-dioxide-splitter-means-a-brighter-future-for-clean-energy	20200327_170643
+
 
 ------------------------------------------
 
