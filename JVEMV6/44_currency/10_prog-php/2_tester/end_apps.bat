@@ -1,3 +1,6 @@
+C:\WORKS_2\a.bat && r oj && e && p && r c && e && p && C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\12_programming\3_fx-log-file\end_apps.bat
+
+
 taskkill /im wish.exe
 taskkill /im sakura.exe
 
