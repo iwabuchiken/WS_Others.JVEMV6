@@ -218,6 +218,33 @@
 
 	]17:53:49
 
+--------------------------------------
+2020年3月29日9:47:31
+	
+	41#7.5_3
+	https://en.wikipedia.org/wiki/Glass–Steagall_in_post-financial_crisis_reform_debate#Other_reform_proposals_that_have_been_compared_to_Glass–Steagall	:d-1	:4#
+	
+		"Ring fencing" proposals	:m
+	
+	:#5 As Kotlikoff notes, in 1987
+		narrow banking	:w
+	:#6 Narrow banking and wholesale financial institutions
+		the Community Reinvestment Act (CRA)	:m
+	
+	:#7 Shadow banking in financial reform proposals
+		
+		
+	<DOC>
+	#https://en.wikipedia.org/wiki/Federal_Deposit_Insurance_Corporation	:d-2
+		
+	next
+	:#7 Shadow banking in financial reform proposals
+
+	]10:34:53
+
+
+
+
 
 
 
