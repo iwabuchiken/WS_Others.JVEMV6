@@ -242,12 +242,35 @@
 
 	]10:34:53
 
+--------------------------------------
+2020年3月30日10:02:18
+	
+	41#7.6_1
+	cuban banking system
+	# https://en.wikipedia.org/wiki/Banking_in_Cuba	:d-1
+		:#1 Cuba has eight commercial banks
+		:#2 Non-banking financial institutions
+	
+	Cuban convertible peso https://en.wikipedia.org/wiki/Cuban_convertible_peso	:d-2
+		:#1 in limited use since 1994
+		:#2 On 8 November 2004, the U.S. dollar ceased to be accepted in Cuban retail outlets
+		:#3 https://en.wikipedia.org/wiki/Cuban_convertible_peso#History
+			INTUR coins	:w
+			Special Period	:w
+			Cuban peso (CUP) can be exchanged to the convertible peso (CUC) at exchange offices 	:m
+			the Helms–Burton Act	:w
+		:#4 https://en.wikipedia.org/wiki/Cuban_convertible_peso#Banknotes
+		:#5 https://en.wikipedia.org/wiki/Cuban_convertible_peso#CUC_and_U.S._dollar
+		
+		
+	<docs>
+	Cuban convertible peso https://en.wikipedia.org/wiki/Cuban_convertible_peso	:d-2
+	
+	next
+	economy of cuba			41#7.7
+		https://en.wikipedia.org/wiki/Special_Period
 
-
-
-
-
-
+	]10:42:22
 
 
 --------------------------------------
@@ -256,6 +279,9 @@
 #クレジットサイクル	41#8.1.2
 *stock buyback	41#7.4	20200326_080231
 *グラス・スティーガル法	41#7.5	20200326_101604
+cuban banking system	41#7.6	20200330_100208
+economy of cuba			41#7.7	20200330_104203
+
 
 -------------------------------------- SYMBOLS
 #	complete

@@ -2,12 +2,15 @@
 2020年3月27日13:22:43
 
 	next
+	37#21.2 宇宙定数
 	https://en.wikipedia.org/wiki/Cosmological_constant
 
 
 --------------------------------------
 2020年3月27日13:59:58
-
+	
+	37#21.2 宇宙定数
+	
 	https://en.wikipedia.org/wiki/Cosmological_constant	:d-1
 		#:#1 https://en.wikipedia.org/wiki/Cosmological_constant
 			energy density of space	:m
@@ -48,15 +51,49 @@
 	https://en.wikipedia.org/wiki/Cosmological_constant	:d-1
 		:#8 https://en.wikipedia.org/wiki/Cosmological_constant#ΩΛ_(Omega_Lambda)
 			critical density	:w
-			
+	
+	next : COMPLETE
+	
+	[13:11:55
+	
+	37#21.3	行列力学
+	
+	https://ja.wikipedia.org/wiki/行列力学	:d-1
 		
+		#ハイゼンベルク描像	:w
+		量子条件			:w
+		前期量子論			:w
+		
+	<word> ハイゼンベルク描像
+	# https://ja.wikipedia.org/wiki/ハイゼンベルク描像	:d-2
+		時間発展	:w
+		
+	<word>	量子条件
+	https://ja.wikipedia.org/wiki/量子条件	:d-3
+		:#1 ボーアの条件が提唱される前の
+			<word> ボーアの原子模型
+			https://ja.wikipedia.org/wiki/ボーアの原子模型	:d-4
+				:#1 量子条件と振動数条件
+				:#2 振動数条件
+				:#3 この量子条件に、
+
+	next
+	https://ja.wikipedia.org/wiki/ボーアの原子模型#水素原子の輝線スペクトル
+
+	]14:04:41
+
+
+
+
+
 --------------------------------------
 
 --------------------------------------DOCS
 1	https://en.wikipedia.org/wiki/Cosmological_constant	20200327_132207
 
 -------------------------------------- TOPICS
-37#21.2_3 宇宙定数
+37#21.2	宇宙定数
+37#21.3	行列力学	20200330_131139
 
 -------------------------------------- SYMBOLS
 #	complete
