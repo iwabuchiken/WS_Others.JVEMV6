@@ -275,7 +275,7 @@
 --------------------------------------
 2020年3月31日8:58:12
 
-	economy of cuba			41#7.7
+	economy of cuba			41#7.7_1
 	
 	https://en.wikipedia.org/wiki/Special_Period	:d-1
 	https://es.wikipedia.org/wiki/Período_especial	:d-2
@@ -292,15 +292,55 @@
 	
 	]10:03:13
 
+	--------------------------------------
+	2020年3月31日16:21:39
+	
+	41#7.7_2
+	
+	# https://es.wikipedia.org/wiki/Per%C3%ADodo_especial#Otros_efectos	:d-1
+	
+	# https://es.wikipedia.org/wiki/Período_especial#Tras_el_período_especial_(Etapa_1995-2011)	:d-2
+	
+		:#1	Mientras que el país
+		:#2	Además, en el 
+		:#3	Desde el año 2003
+
+	next
+	https://referatbank.ru/market/referat/i/398345/esse-bankovskaya-sistema-kuby.html	Банковская система Кубы
+
+		<FACTS>
+		1. チャベス政権、登場　=>　'99
+		
+		
+		<FOUND>
+		1. Cuba GDP decreased --> 26 % during '90-'95
+			1. パーセントの数字は、不確か。ただし、３０を超えない。２０を下回らない（今回の資料では）
+		2. ９９年のチャベス政権。キューバへ、国際市場よりも安い価格で、輸出。キューバ政府は、この原油を、国際価格で転売した。
+		3. "special period"の間、キューバでは、糖尿病が減少。５０％。（数字、不確か。５０より小さくはない。６０より、大きくはない）
+		
+	]17:11:24
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------------------------
 
 -------------------------------------- TOPICS
-#クレジットサイクル	41#8.1.2
-*stock buyback	41#7.4	20200326_080231
-*グラス・スティーガル法	41#7.5	20200326_101604
-*cuban banking system	41#7.6	20200330_100208
-economy of cuba			41#7.7	20200330_104203
-
+1	#クレジットサイクル	41#8.1.2
+2	*stock buyback	41#7.4	20200326_080231
+3	*グラス・スティーガル法	41#7.5	20200326_101604
+4	*cuban banking system	41#7.6	20200330_100208
+5	economy of cuba			41#7.7	20200330_104203
+	
 
 -------------------------------------- SYMBOLS
 #	complete
@@ -311,6 +351,11 @@ economy of cuba			41#7.7	20200330_104203
 :#1	bookmark
 :ref	refered document
 
+------------------------------------------ DOCS (Materi1	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2474886/	20200331_162850	:T-5
+
+
+-------------------------------------- SEARCHES
+1	https://duckduckgo.com/?ia=web Банковская система Кубы	20200331_170901
 
 
 -------------------------------------- resources
