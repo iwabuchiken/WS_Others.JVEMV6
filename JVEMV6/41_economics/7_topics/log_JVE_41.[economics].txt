@@ -272,6 +272,25 @@
 
 	]10:42:22
 
+--------------------------------------
+2020年3月31日8:58:12
+
+	economy of cuba			41#7.7
+	
+	https://en.wikipedia.org/wiki/Special_Period	:d-1
+	https://es.wikipedia.org/wiki/Período_especial	:d-2
+		el PIB se contrajo un 36% en el período 1990-93	:m
+	
+	https://es.wikipedia.org/wiki/Período_especial#Efectos_en_la_población	:d-2.1
+	
+	https://es.wikipedia.org/wiki/Período_especial#Enfermedades_de_la_civilización	:d-2.2
+	
+	https://es.wikipedia.org/wiki/Per%C3%ADodo_especial#Mortalidad_materno-infantil	:d-2.3
+	
+		next
+		https://es.wikipedia.org/wiki/Per%C3%ADodo_especial#Otros_efectos
+	
+	]10:03:13
 
 --------------------------------------
 
@@ -279,7 +298,7 @@
 #クレジットサイクル	41#8.1.2
 *stock buyback	41#7.4	20200326_080231
 *グラス・スティーガル法	41#7.5	20200326_101604
-cuban banking system	41#7.6	20200330_100208
+*cuban banking system	41#7.6	20200330_100208
 economy of cuba			41#7.7	20200330_104203
 
 
