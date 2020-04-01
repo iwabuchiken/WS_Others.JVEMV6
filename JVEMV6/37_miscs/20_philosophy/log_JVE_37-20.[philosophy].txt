@@ -193,9 +193,18 @@ res free# JVEMV6 37#20_10 / 37. miscs / 20. philosophy / 20191219_134225
 
 	]13:32:50
 
+--------------------------------------
+2020年4月1日10:15:56
 
+	https://www.gutenberg.org/files/16516/16516-h/16516-h.htm#ARTICLE_I	:d-1
+		:#2	But let us review Mr.
+	
+	M-1.2
+	https://www.gutenberg.org/files/16516/16516-h/16516-h.htm#ARTICLE_II	:d-2
+		:#1	As I expect some one will try
 
-
+	next
+	M-1.2,#1
 
 --------------------------------------
 
@@ -203,7 +212,10 @@ res free# JVEMV6 37#20_10 / 37. miscs / 20. philosophy / 20191219_134225
 -------------------------------------- DOCS (Materials)
 1	https://www.gutenberg.org/files/16516/16516-h/16516-h.htm	WALKER'S APPEAL
 1.1	https://www.gutenberg.org/files/16516/16516-h/16516-h.htm#ARTICLE_I
-	
+1.2	https://www.gutenberg.org/files/16516/16516-h/16516-h.htm#ARTICLE_II	20200401_104716
+2	https://avalon.law.yale.edu/18th_century/jeffvir.asp	 Notes on the State of Virginia 	20200401_103345
+
+
 -------------------------------------- TOPICS
 メタ倫理学	20200330_102117
 	37#20.2
