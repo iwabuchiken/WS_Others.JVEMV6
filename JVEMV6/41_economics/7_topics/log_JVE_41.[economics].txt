@@ -391,6 +391,10 @@
 	4.1	https://kabusoba.stars.ne.jp/kabushiki801bumonbetu.html	20200401_164956
 	4.2	https://stock-marketdata.com/total-trading-value-of-stocks2017.html	
 	4.3	https://essential-abs.net/2017/12/01/investment-trends/
+	4.4	http://www.jsda.or.jp/shiryoshitsu/toukei/trr/index.html	東京レポ・レート（一覧）
+
+
+
 
 -------------------------------------- SEARCHES
 1	https://duckduckgo.com/?ia=web Банковская система Кубы	20200331_170901
