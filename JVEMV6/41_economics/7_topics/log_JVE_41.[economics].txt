@@ -320,7 +320,37 @@
 		
 	]17:11:24
 
+--------------------------------------
+2020年4月1日14:06:54
+	
+	cuban banking system	41#7.6_2
+	
+	M-2
+	https://referatbank.ru/market/referat/i/398345/esse-bankovskaya-sistema-kuby.html	:d-1
+		:#1	Ее официальное
+		:#2	Под банковской системой
 
+	next
+	:#2
+
+	--------------------------------------
+	東証売買：主体別取引量	41#7.8_1
+		M-3.1:
+		https://www.jpx.co.jp/markets/statistics-equities/monthly/nlsgeu000004mrrw-att/09_t-kabu2002.pdf
+			<facts>
+			2019yr	trading value（東証１部） 売り	584兆9,653 億円
+											買い	585  2,302
+									差し引き　+2,648 億円
+			2018				売り		724兆3,589
+								買い		724  4,820
+								差し引き	1,230 億円
+
+	next
+	M-3.1 --> 主体別の代金　=>　track を続けよう
+		https://duckduckgo.com/?q=投資部門別株式売買+自己&t=opera&ia=web
+			==> see : M-4.3
+	
+	]17:13:30
 
 
 
@@ -340,7 +370,8 @@
 3	*グラス・スティーガル法	41#7.5	20200326_101604
 4	*cuban banking system	41#7.6	20200330_100208
 5	economy of cuba			41#7.7	20200330_104203
-	
+6	東証売買：主体別取引量	41#7.8	20200401_162527
+
 
 -------------------------------------- SYMBOLS
 #	complete
@@ -351,8 +382,15 @@
 :#1	bookmark
 :ref	refered document
 
------------------------------------------- DOCS (Materi1	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2474886/	20200331_162850	:T-5
-
+------------------------------------------ DOCS (Materials)
+1	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2474886/	20200331_162850	:T-5
+2	https://referatbank.ru/market/referat/i/398345/esse-bankovskaya-sistema-kuby.html	20200401_140726
+3	https://www.jpx.co.jp/markets/statistics-equities/monthly/	20200401_163735
+	3.1	https://www.jpx.co.jp/markets/statistics-equities/monthly/nlsgeu000004mrrw-att/09_t-kabu2002.pdf
+4	41#7.8-related
+	4.1	https://kabusoba.stars.ne.jp/kabushiki801bumonbetu.html	20200401_164956
+	4.2	https://stock-marketdata.com/total-trading-value-of-stocks2017.html	
+	4.3	https://essential-abs.net/2017/12/01/investment-trends/
 
 -------------------------------------- SEARCHES
 1	https://duckduckgo.com/?ia=web Банковская система Кубы	20200331_170901
@@ -362,6 +400,8 @@
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
 
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:5) periodical updates" && e && git push origin master
+
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics) periodical updates" && e && git push origin master
 
 -------------------------------------- resources : stats
 https://www.j-credit.or.jp/information/statistics/ クレジット関連統計 2020年2月24日15:14:35
