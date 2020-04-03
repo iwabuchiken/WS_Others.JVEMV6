@@ -300,6 +300,29 @@
 	
 	]10:34:35
 
+------------------------------------------
+2020年4月3日16:52:35
+
+	M-8
+	https://pubs.acs.org/doi/abs/10.1021/ja511890h#	:d-1
+		formate	:w
+			https://zh.wikipedia.org/wiki/甲酸酯	:d-1.1
+		Overpotential :w
+		Deactivation Pathway	:w
+		cathodic catalysts		:w
+		Pd nanoparticles		:w
+		bicarbonate		:w
+		electrohydrogenation	:w
+	
+	next
+	M-8 : continue
+		:#2	
+
+	]17:37:24
+
+@@@
+
+------------------------------------------
 
 
 
@@ -319,6 +342,7 @@
 6	http://www.geoengineeringmonitor.org/2018/05/direct-air-capture/	20200327_170350
 #7	https://www.sciencealert.com/the-first-low-cost-carbon-dioxide-splitter-means-a-brighter-future-for-clean-energy
 8	https://pubs.acs.org/doi/abs/10.1021/ja511890h#	referer:M-7	20200331_102955
+	8.1	https://gcep.stanford.edu/pdfs/TechReports2017/4.2.3_Electrohydrogenation-%20Enabling%20Science%20for%20Renewable%20Fuels_Waymout_(P).pdf	"Electrohydrogenation: Enabling Science for Renewable Fuels"	20200403_172442
 9	https://houseofswitzerland.org/swissstories/environment/climeworks-swiss-co2-vacuum-cleaner	related=M-7	20200331_103305
 10	http://www.climeworks.com/our-technology/	related=M-7	20200331_103305
 
