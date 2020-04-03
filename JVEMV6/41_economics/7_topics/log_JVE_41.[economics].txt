@@ -349,6 +349,7 @@
 	M-3.1 --> 主体別の代金　=>　track を続けよう
 		https://duckduckgo.com/?q=投資部門別株式売買+自己&t=opera&ia=web
 			==> see : M-4.3
+	or, M-4.5
 	
 	]17:13:30
 
@@ -392,7 +393,7 @@
 	4.2	https://stock-marketdata.com/total-trading-value-of-stocks2017.html	
 	4.3	https://essential-abs.net/2017/12/01/investment-trends/
 	4.4	http://www.jsda.or.jp/shiryoshitsu/toukei/trr/index.html	東京レポ・レート（一覧）
-
+	4.5	https://www.ism.ac.jp/editsec/toukei/pdf/65-1-087.pdf	東京証券取引所における高速な注文反応の分析
 
 
 
