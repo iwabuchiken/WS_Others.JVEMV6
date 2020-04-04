@@ -65,7 +65,9 @@ REM ===============
 REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
-start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+set dictionary=https://www.thefreedictionary.com
+REM start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
+start launcher.exe %dictionary%
 
 start launcher.exe http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
 start launcher.exe https://stopwatch-app.com
