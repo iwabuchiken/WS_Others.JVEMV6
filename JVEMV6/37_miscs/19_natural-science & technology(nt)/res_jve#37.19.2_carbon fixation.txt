@@ -320,6 +320,40 @@
 
 	]17:37:24
 
+------------------------------------------
+2020年4月5日16:09:24
+
+	M-8
+	# https://pubs.acs.org/doi/abs/10.1021/ja511890h#	:d-1
+		
+		#2	Pd reduces CO2
+		#3	Here we show that 
+		#4	Electrokinetic measurements are 
+			surface adsorbed hydrogen	:w
+		#5	The electrodes deactivate over
+	
+	M-10
+	# http://www.climeworks.com/our-technology/	:d-2
+	
+	M-9
+	# https://houseofswitzerland.org/swissstories/environment/climeworks-swiss-co2-vacuum-cleaner	:d-3
+		#1
+			white stone	:w
+	
+	M-9.1	[16:58:38
+	https://timesofindia.indiatimes.com/home/science/Scientists-turn-CO2-into-stone-to-fight-climate-change/articleshow/52705909.cms
+		#1
+		#2	In contrast, the CarbFix project
+		
+			<facts>
+			per year, worldwide, CO2 emission ==> 370億トン (M-9.3)
+		#3	We need to deal with
+
+	next
+	
+	M-9.1	:#3
+
+
 @@@
 
 ------------------------------------------
@@ -338,13 +372,16 @@
 #3	https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel	20200325_182948
 #4	https://ja.wikipedia.org/wiki/炭素固定	20200325_183346
 
-5	https://en.wikipedia.org/wiki/Direct_air_capture	20200327_170327
-6	http://www.geoengineeringmonitor.org/2018/05/direct-air-capture/	20200327_170350
+%5	https://en.wikipedia.org/wiki/Direct_air_capture	20200327_170327
+%6	http://www.geoengineeringmonitor.org/2018/05/direct-air-capture/	20200327_170350
 #7	https://www.sciencealert.com/the-first-low-cost-carbon-dioxide-splitter-means-a-brighter-future-for-clean-energy
-8	https://pubs.acs.org/doi/abs/10.1021/ja511890h#	referer:M-7	20200331_102955
+#8	https://pubs.acs.org/doi/abs/10.1021/ja511890h#	referer:M-7	20200331_102955
 	8.1	https://gcep.stanford.edu/pdfs/TechReports2017/4.2.3_Electrohydrogenation-%20Enabling%20Science%20for%20Renewable%20Fuels_Waymout_(P).pdf	"Electrohydrogenation: Enabling Science for Renewable Fuels"	20200403_172442
-9	https://houseofswitzerland.org/swissstories/environment/climeworks-swiss-co2-vacuum-cleaner	related=M-7	20200331_103305
-10	http://www.climeworks.com/our-technology/	related=M-7	20200331_103305
+#9	https://houseofswitzerland.org/swissstories/environment/climeworks-swiss-co2-vacuum-cleaner	related=M-7	20200331_103305
+	9.1	https://timesofindia.indiatimes.com/home/science/Scientists-turn-CO2-into-stone-to-fight-climate-change/articleshow/52705909.cms	2020年4月5日16:58:06
+	9.2	https://duckduckgo.com/?q=co2+white+stone&t=opera&ia=shopping	Scientists turn CO2 into stone to fight climate change	2020年4月5日16:58:09
+	#9.3	https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions	List of countries by carbon dioxide emissions	2020年4月5日17:00:22
+#*10	http://www.climeworks.com/our-technology/	related=M-7	20200331_103305
 
 
 -------------------------------------- TOPICS
@@ -353,6 +390,7 @@
 -------------------------------------- SYMBOLS	20200327_163426
 #	complete	
 *	started reading
+%	omit
 :w	keywords
 :?	want to know
 :m	memos
@@ -369,7 +407,11 @@
 
 
 ------------------------------------------ CLOSING
+### 
+###echo.>> "C:\Users\iwabuchiken\Desktop\shortcuts_docs\res_jve_37.19.2_carbon fixation.txt.bat"
+
 
 C:\WORKS_2\a.bat && pushd "C:\WORKS_2\WS\WS_Others.JVEMV6" && git add -A && git commit -m ^"(37_miscs : nt : carbon) periodical updates^" && e && git push origin master
+
 
 ======================== EOF ========================
