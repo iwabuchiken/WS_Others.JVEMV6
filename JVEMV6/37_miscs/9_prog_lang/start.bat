@@ -84,6 +84,9 @@ REM : word list : 2019/08/15 09:22:49
 
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 
+REM time label
+C:\WORKS_2\t.bat
+
 	goto end
 
 
@@ -459,3 +462,5 @@ start chrome.exe "https://stopwatch-app.com/"
 )
 
 :end_of_end
+
+REM gen ==> time label
