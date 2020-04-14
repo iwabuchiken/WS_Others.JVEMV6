@@ -54,9 +54,10 @@ REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/nahum/3.html"
 REM start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/3.html#3
 REM start launcher.exe http://www.qbible.com/hebrew-old-testament/zephaniah/3.html#1
 
-start launcher.exe "http://www.qbible.com/hebrew-old-testament/obadiah/1.html#1"
-start launcher.exe https://www.scripture4all.org/OnlineInterlinear/OTpdf/oba1.pdf
-start launcher.exe https://www.mechon-mamre.org/p/pt/pt1601.htm
+REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/obadiah/1.html#1"
+start launcher.exe "http://www.qbible.com/hebrew-old-testament/proverbs/1.html#1"
+start launcher.exe https://www.scripture4all.org/OnlineInterlinear/OTpdf/pro1.pdf
+start launcher.exe https://www.mechon-mamre.org/p/pt/pt2801.htm
 
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah"
