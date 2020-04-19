@@ -55,9 +55,18 @@ REM start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/3.htm
 REM start launcher.exe http://www.qbible.com/hebrew-old-testament/zephaniah/3.html#1
 
 REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/obadiah/1.html#1"
-start launcher.exe "http://www.qbible.com/hebrew-old-testament/proverbs/1.html#1"
-start launcher.exe https://www.scripture4all.org/OnlineInterlinear/OTpdf/pro1.pdf
-start launcher.exe https://www.mechon-mamre.org/p/pt/pt2801.htm
+set url_1="http://www.qbible.com/hebrew-old-testament/proverbs/1.html#1"
+set url_2=https://www.scripture4all.org/OnlineInterlinear/OTpdf/pro1.pdf
+set url_3=https://www.mechon-mamre.org/p/pt/pt2801.htm
+set dictionary=https://www.thefreedictionary.com
+set time_calc=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
+set stopwatch=https://stopwatch-app.com
+
+start launcher.exe %url_1% %url_2% %url_3%  %dictionary% %time_calc% %stopwatch%
+
+REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/proverbs/1.html#1"
+REM start launcher.exe https://www.scripture4all.org/OnlineInterlinear/OTpdf/pro1.pdf
+REM start launcher.exe https://www.mechon-mamre.org/p/pt/pt2801.htm
 
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah/7.html#1"
 REM 	start launcher.exe "http://www.qbible.com/hebrew-old-testament/micah"
@@ -70,18 +79,18 @@ REM ===============
 REM 	resources
 REM ===============
 REM : 2019/07/05 11:15:25
-set dictionary=https://www.thefreedictionary.com
+REM set dictionary=https://www.thefreedictionary.com
 REM start launcher.exe "https://dictionary.cambridge.org/dictionary/english/imbibe"
-start launcher.exe %dictionary%
+REM start launcher.exe %dictionary%
 
-start launcher.exe http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
-start launcher.exe https://stopwatch-app.com
+REM start launcher.exe http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
+REM start launcher.exe https://stopwatch-app.com
 
 REM 	start brave.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
 
 REM : word list : 2019/08/15 09:22:49
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.ods
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.ods
 
 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 
