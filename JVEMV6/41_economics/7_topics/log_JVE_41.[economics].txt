@@ -354,14 +354,28 @@
 	]17:13:30
 
 
+--------------------------------------
+2020年4月23日18:01:38
+
+41#9 economic-forecast
+
+	https://www.apir.or.jp/wp/wp-content/uploads/日本経済月次_No.96_2020_March.pdf	:d-1
+	#1	▶今週の CQM(支出サイド)は、
+	#2	▶2 月の生産指数は前月比
+	#3	寄与度。一方、生産サイド(主成分分
+	#4	結果、両サイドからの
+	
+	next
+		M-5(this) : #4
+	
+	]18:18:38
+
+--------------------------------------
 
 
 
 
-
-
-
-
+@@@
 
 --------------------------------------
 
@@ -394,6 +408,7 @@
 	4.3	https://essential-abs.net/2017/12/01/investment-trends/
 	4.4	http://www.jsda.or.jp/shiryoshitsu/toukei/trr/index.html	東京レポ・レート（一覧）
 	4.5	https://www.ism.ac.jp/editsec/toukei/pdf/65-1-087.pdf	東京証券取引所における高速な注文反応の分析
+5	https://www.apir.or.jp/wp/wp-content/uploads/日本経済月次_No.96_2020_March.pdf	2020年4月23日18:18:20
 
 
 
@@ -407,6 +422,8 @@ C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_r
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:5) periodical updates" && e && git push origin master
 
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics) periodical updates" && e && git push origin master
+
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:9_economic-forecast) periodical updates" && e && git push origin master
 
 -------------------------------------- resources : stats
 https://www.j-credit.or.jp/information/statistics/ クレジット関連統計 2020年2月24日15:14:35
