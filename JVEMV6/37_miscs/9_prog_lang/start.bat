@@ -55,9 +55,9 @@ REM start launcher.exe http://www.qbible.com/hebrew-old-testament/habakkuk/3.htm
 REM start launcher.exe http://www.qbible.com/hebrew-old-testament/zephaniah/3.html#1
 
 REM start launcher.exe "http://www.qbible.com/hebrew-old-testament/obadiah/1.html#1"
-set url_1="http://www.qbible.com/hebrew-old-testament/proverbs/2.html#1"
-set url_2=https://www.scripture4all.org/OnlineInterlinear/OTpdf/pro2.pdf
-set url_3=https://www.mechon-mamre.org/p/pt/pt2802.htm
+set url_1="http://www.qbible.com/hebrew-old-testament/proverbs/3.html#1"
+set url_2=https://www.scripture4all.org/OnlineInterlinear/OTpdf/pro3.pdf
+set url_3=https://www.mechon-mamre.org/p/pt/pt2803.htm
 set dictionary=https://www.thefreedictionary.com
 set time_calc=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
 set stopwatch=https://stopwatch-app.com
