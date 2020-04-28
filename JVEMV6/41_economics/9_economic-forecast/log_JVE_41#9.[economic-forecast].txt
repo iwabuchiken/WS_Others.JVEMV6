@@ -1,0 +1,97 @@
+--------------------------------------
+2020年4月23日18:01:38
+
+41#9 economic-forecast
+
+	https://www.apir.or.jp/wp/wp-content/uploads/日本経済月次_No.96_2020_March.pdf	:d-1
+	#1	▶今週の CQM(支出サイド)は、
+	#2	▶2 月の生産指数は前月比
+	#3	寄与度。一方、生産サイド(主成分分
+	#4	結果、両サイドからの
+	
+	next
+		M-5(this) : #4
+	
+	]18:18:38
+
+--------------------------------------
+2020年4月26日9:12:09
+
+41#9_2 economic-forecast
+
+	https://www.apir.or.jp/wp/wp-content/uploads/日本経済月次_No.96_2020_March.pdf	:d-1
+		https://duckduckgo.com/?ia=web 主成分分析モデル 経済
+		#4	結果、両サイドからの
+		#5(1)	先週の統計発表集中日までに
+			デフレータ	:w
+			鉱工業指数(速報)	:w
+			
+			]前月から据え置いた。
+		
+		
+	主成分分析モデル
+	https://ja.wikipedia.org/wiki/主成分分析	:d-2
+	
+	https://www.meti.go.jp/statistics/tyo/iip/b2015_result-2.html	:d-3
+		b2015_gsq1j.xls	季節調整済指数 業種別 年・年度・四半期
+		b2015_gsm1j.xls	季節調整済指数 業種別 月次
+		b2015_zsq1j.xls	季節調整済指数 財別 年・年度・四半期
+	
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\9_economic-forecast\b2015_gsq1j.ods
+
+	next
+		1	M-5 --> continue
+		2	b2015_gsq1j.ods ==> observe
+
+	]10:06:27
+
+--------------------------------------
+2020年4月28日17:06:56
+
+	b2015_gsq1j.xls	季節調整済指数 業種別 年・年度・四半期
+		
+
+
+
+
+@@@
+
+--------------------------------------
+
+-------------------------------------- TOPICS
+1
+2
+3
+4
+5
+6
+
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+------------------------------------------ DOCS (Materials)
+1	https://www.apir.or.jp/wp/wp-content/uploads/日本経済月次_No.96_2020_March.pdf	2020年4月23日18:18:20
+2	https://www.meti.go.jp/statistics/tyo/iip/b2015_result-2.html	鉱工業指数 統計表一覧（データダウンロード）	2020年4月26日9:28:15
+
+
+-------------------------------------- SEARCHES
+1	
+
+
+-------------------------------------- resources
+f C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\9_economic-forecast
+
+
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:9_economic-forecast) periodical updates" && e && git push origin master
+
+-------------------------------------- resources : stats
+
+
+======================= EOF =======================
