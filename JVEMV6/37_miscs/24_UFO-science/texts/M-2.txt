@@ -1,0 +1,61 @@
+Among those who pondered the enigma of the Michelson-Morley experiment was a young patent office examiner in Berne,
+ named Albert Einstein.
+ In 1905,
+ when he was just twenty-six years old,
+ he published a short paper suggesting an answer to the riddle in terms that opened up a new world of physical thought.
+ He began by rejecting the ether theory and with it the whole idea of space as a fixed system or framework,
+ absolutely at rest,
+ within which it is possible to distinguish absolute from relative motion.
+ The one indisputable fact established by the Michelson-Morley experiment was that the velocity of light in unaffected by the motion of the earth.
+
+ Einstein seized on this as a revelation of universal law.
+ If the velocity of light is constant regardless of the earth’s motion,
+ he reasoned,
+ it must be constant regardless of motion of any Sun,
+ moon,
+ star,
+ meteor,
+ or other syatem moving anywhere in universe.
+ 
+ 
+ From this he drew a broader generalization,
+ and asserted that the laws of nature are the same for alls uniformly moving system.
+ This simple statement is the essence of Einstein’s Special theory of Relativity.
+ It incorporates the Galilean Relativity Principle which states that mechanical laws are the same for all uniformly moving systems.
+ But its phrasing is more comprehensive; for Einstein was thinking not only of mechanical laws laws but of the laws governing light and other electromagnetic phenomena.
+ So he lumped them together in one fundamental postulate: all the phenomena of nature,
+ all the law of nature,
+ are the same for all systems that move uniformly relative to one another"
+ 
+-------------------
+ The ether was thought to be a backdrop at a state of absolute rest against which the movement of elements of the cosmos occurred.
+ In his articles in 1905 Einstein didn't really fully rejected the existence of Ether.
+ He only suggested a mathematical treatment of some relativistic problems.
+ In 1920,
+ after he developed the General relativity,
+ he arrived to the conclusion that the ether should exist.
+ This fact is of enormous importance,
+ when citing the contributions of Albert Einstein.
+ The Einstein statement from 1920 is missing in the scholar physics textbooks,
+ where only his articles from 1905 are mentioned.
+ 
+-----------------------]17:38:16
+ Ether & Relativity - by Albert Einstein - University of Leiden - 5 May 1920:
+
+ 
+
+"The ether of the general theory of relativity is a medium which is itself devoid of all mechanical and kinematical qualities,
+ but helps to determine mechanical (and electromagnetic) events.
+"
+
+ 
+
+Albert Einstein in 1920:
+
+ 
+
+“To deny ether is ultimately to assume that empty space has no physical quality whatever.
+ The fundamental facts of quantum mechanics do not harmonize with this view.
+” 
+-----------------------------]17:39:32
+@@@
