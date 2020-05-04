@@ -113,13 +113,20 @@ REM =================================
 	echo %%1 is %1!
 
 REM ===============
+REM 	batch
+REM 	2020”N5ŒŽ4“ú13:12:09
+REM ===============
+pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs
+start start_korean.bat
+
+REM ===============
 REM 	trans
 REM ===============
 REM 	start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ja&tl=ko"
 	REM start chrome.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
 
-	pushd C:\WORKS_2\Programs\opera
-	start launcher.exe https://marisha39.com/phrase/page/2/
+REM 	pushd C:\WORKS_2\Programs\opera
+REM 	start launcher.exe https://marisha39.com/phrase/page/2/
 REM 	start launcher.exe "https://www.bing.com/translator/"
 REM 	start launcher.exe "https://www.bing.com/translator/"
 REM 	start launcher.exe "https://translate.google.co.jp/?hl=ja&tab=iT#view=home&op=translate&sl=ko&tl=ja"
@@ -138,7 +145,7 @@ REM 	start chrome.exe "https://docs.google.com/document/d/10AhaA-6SPuuo0KbAo4-VX
 REM 	pushd C:\WORKS_2\Programs\OpenOffice 4\program
 REM 	start soffice.exe
 	
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\korean.odt
+REM 	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\korean.odt
 	
 REM ===============
 REM 	resources
