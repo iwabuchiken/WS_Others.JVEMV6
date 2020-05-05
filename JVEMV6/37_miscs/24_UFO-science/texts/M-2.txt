@@ -9,7 +9,7 @@ Among those who pondered the enigma of the Michelson-Morley experiment was a you
  The one indisputable fact established by the Michelson-Morley experiment was that the velocity of light in unaffected by the motion of the earth.
 
  Einstein seized on this as a revelation of universal law.
- If the velocity of light is constant regardless of the earth’s motion,
+ If the velocity of light is constant regardless of the earth窶冱 motion,
  he reasoned,
  it must be constant regardless of motion of any Sun,
  moon,
@@ -20,7 +20,7 @@ Among those who pondered the enigma of the Michelson-Morley experiment was a you
  
  From this he drew a broader generalization,
  and asserted that the laws of nature are the same for alls uniformly moving system.
- This simple statement is the essence of Einstein’s Special theory of Relativity.
+ This simple statement is the essence of Einstein窶冱 Special theory of Relativity.
  It incorporates the Galilean Relativity Principle which states that mechanical laws are the same for all uniformly moving systems.
  But its phrasing is more comprehensive; for Einstein was thinking not only of mechanical laws laws but of the laws governing light and other electromagnetic phenomena.
  So he lumped them together in one fundamental postulate: all the phenomena of nature,
@@ -54,8 +54,223 @@ Albert Einstein in 1920:
 
  
 
-“To deny ether is ultimately to assume that empty space has no physical quality whatever.
+窶弋o deny ether is ultimately to assume that empty space has no physical quality whatever.
  The fundamental facts of quantum mechanics do not harmonize with this view.
-” 
+窶� 
 -----------------------------]17:39:32
+
+-----------------------------[2020年5月5日17:30:14
+How does it come about that alongside of the idea of ponderable matter,
+ which is derived by abstraction from everyday life,
+ the physicists set the idea of the existence of another kind of matter,
+ the ether?
+  The explanation is probably to be sought in those phenomena which have given rise to the theory of action at a distance,
+ and in the properties of light which have led to the undulatory theory".
+
+
+ 
+
+"Recapitulating,
+ we may say that according to the general theory of relativity space is endowed with physical qualities; in this sense,
+ therefore,
+ there exists an ether.
+ According to the general theory of relativity space without ether is unthinkable; for in such space there not only would be no propagation of light,
+ but also no possibility of existence for standards of space and time (measuring-rods and clocks),
+ nor therefore any space-time intervals in the physical sense.
+ But this ether may not be thought of as endowed with the quality characteristic of ponderable media,
+ as consisting of parts which may be tracked through time.
+ The idea of motion may not be applied to it" 	//17:33:52
+
+-----------------------------
+ In 1920 Einstein said about ether corresponding with classical ether.
+ But in his paper in 1924,
+ named “Concerning the Aether”,
+ Einstein explained the “aether of general relativity” is not absolute,
+ because matter is influenced by the aether,
+ just as matter influences the structure of the aether.
+
+
+ 
+
+So the only similarity of this relativistic aether concept with the classical aether models lies in the presence of physical properties in space.
+ Therefore,
+ Einstein’s use of the word “aether” found little support in the scientific community,
+ and played no role in the continuing development of modern physics.
+
+
+ 
+
+An understanding of the ether is also important for understanding the theory of electromagnetic phenomena which preceded Einstein's theory of relativity.
+
+-------------------]17:35:45
+ Gravitational waves
+
+ 
+
+In modern physics,
+ gravitational waves are supposed to be ripples in the curvature of spacetime from a heavy moving object which propagate as waves,
+ travelling outward from the source that radiate at the speed of light.
+ Predicted in 1916 by Albert Einstein to exist on the basis of his theory of general relativity,
+ gravitational waves theoretically transport energy as gravitational radiation.
+ Sources of detectable gravitational waves could possibly include binary star systems composed of white dwarfs,
+ neutron stars,
+ or black holes.
+
+
+ 
+
+These gravity waves behave in similar ways to many other types of waves.
+ Tesla's greatest inventions were all based on the study of waves.
+ He always considered sound,
+ light,
+ heat,
+ X-rays and radio waves to be related phenomena that could be studied using the same sort of maths.
+ For this reason there exist the possibility that Tesla had extended this thinking to gravity.
+-------------------//17:38:53
+
+ Thermodynamics
+
+ 
+
+In physics,
+ the law of conservation of energy states that the total energy of an isolated system remains constant—it is said to be conserved over time.
+ Energy can neither be created nor destroyed; rather,
+ it transforms from one form to another.
+ For instance,
+ chemical energy can be converted to kinetic energy in the explosion of a stick of dynamite.
+ A consequence of the law of conservation of energy is that a perpetual motion machine of the first kind cannot exist.
+ That is to say,
+ no system without an external energy supply can deliver an unlimited amount of energy to its surroundings
+
+ 
+
+The Eternal Source of Energy of the Universe ,
+ Origin and Intensity of Cosmic Rays - New York - October 13,
+ 1932 and Prepared Statement of Tesla (For interview with press on 81st birthday observance):
+
+ 
+
+"There is no more energy in matter than that received from the enviornment"
+
+-------------------//17:40:35
+
+ The followin list is a selection of quotes to gather some information which could be related with Tesla's Dynamic Theory of Gravity.
+ (comming soon)
+
+ 
+
+Experiments with Alternate Currents of Very High Frequency and Their Application to Methods of Artificial Illumination - A lecture delivered before the AIEE (Columbia College) - May 20,
+ 1891 and Presentation of the Edison Medal to Nikola Tesla: Minutes of the annual meeting of the American Institute of Electrical Engineers,
+ held at the Engineering Societies building - New York City - May 18,
+ 1917::
+
+ 
+
+"In how far we can understand the world around us is the ultimate thought of every student of nature.
+  The coarseness of our senses prevents us from recognizing the ulterior construction of matter,
+ and astronomy,
+ this grandest and most positive of natural sciences,
+ can only teach us something that happens,
+ as it were,
+ in our immediate neighborhood; of the remoter portions of the boundless universe,
+ with its numberless stars and suns,
+ we know nothing.
+ But far beyond the limit of perception of our senses the spirit still can guide us,
+ and so we may hope that even these unknown worlds -infinitely small and great—may in a measure become known to us.
+ Still,
+ even if this knowledge should reach us,
+ the searching mind will find a barrier,
+ perhaps forever unsurpassable,
+ to the true recognition of that which seems to be,
+ the mere appearance of which is the only and slender basis of all our philosophy".
+
+
+ 
+
+ 
+
+Mr.
+ Tesla's vision: How the Electrician's Lamp of Aladdin May Construct New Worlds - by Nikola Tesla - New York Times - April 21,
+ 1908:
+
+ 
+
+"According to an adopted theory,
+ every ponderable atom is differentiated from a tenuous (fragile,
+ vague) fluid,
+ filling all space merely by spinning motion,
+ as a whirl of water in a calm lake.
+ By being set in movement this fluid,
+ the ether,
+ becomes gross matter.
+ Its movement arrested (halted),
+ the primary substance reverts to its normal state.
+ It appears,
+ then,
+ possible for man through harnessed energy of the medium and suitable agencies for starting and stopping ether whirls to cause matter to form and disappear.
+ At his command,
+ almost without effort on his part,
+ old worlds would vanish and new ones would spring into being.
+ He could alter the size of this planet,
+ control its seasons,
+ adjust its distance from the sun,
+ guide it on its eternal journey along any path he might choose,
+ through the depths of the universe.
+ He could make planets collide and produce his suns and stars,
+ his heat and light; he could originate life in all its infinite forms.
+ To cause at will the birth and death of matter would be man's grandest deed,
+ which would give him the mastery of physical creation,
+ make him fulfill his ultimate destiny.
+" 
+-------------------//17:44:37
+
+ Nikola Tesla Talks Of The Future Of The Greatest Problems Now Confronting The Scientific World - New York Press - March 2,
+ 1913
+
+ 
+
+Q.
+ What do you thing of radium and the prospect it opens for the future?
+
+ 
+
+"My views on the subject are probably not in the agreement of those of many men of science who have devoted themselves to this branch of investigation.
+ It may not be generally known that in my papers published in the electrical Rview in New Yorkvfrom 1896 to 1897,
+ long before the discovery of Mm.
+ Curie I demostrated the existence and described the salient properties of emanations of the same nature.
+ My views were received with skepticism at that time,
+ but I'm glad to say that now they are adopted in their enterity.
+ I see no reason for changing the opinions I then expressed.
+ The so-called radium emanations are not an insolated phenomenon,
+ but are universal.
+ There is,
+ according to my ideas,
+ no such element as radium or polonium,
+ although spectral analisys,
+ the theory of Mendeleff,
+ and various experimental observations,
+ support this modern view.
+ I believe that as to this,
+ scientific opinion is in error,
+ as it was a century ago in assuming that there was such a substance as phlogiston concerned in combustion until Lavoisiere discovered oxigen.
+ Similarly the radium manifestations are,
+ in all probability,
+ due to the action of a universal medium on certail volatile substance.
+ Much of the spaculation based on Mm.
+ Curie's is necesarilly erroneous,
+ being in direct contradiction to well stablished principles.
+ The claims of some enthusiasts that in radium lies the possibility of future power developement are nothing but a dream.
+ But some fact is that we are in presence of new and wonderful effects the study of wich is leading us gradually to a better and deeper understanding of the mechanism of the universe".
+
+
+  
+  
+
+
 @@@
+
+
+-------------------
+-----------------------------
+==============================
+
