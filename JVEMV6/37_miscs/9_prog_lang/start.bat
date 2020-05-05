@@ -27,7 +27,8 @@ if "%1"=="he" (
 
 	echo %%1 is %1!
 
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\start_web-pages_hebrew.bat
+REM start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\start_web-pages_hebrew.bat
+call C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\start_web-pages_hebrew.bat
 
 REM pushd "C:\WORKS_2\Programs\opera"
 REM 	pushd "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application"
