@@ -1,0 +1,51 @@
+==============================[2020年5月6日17:06:17
+Instead of sequestering carbon dioxide to reduce its effects on global climate
+ why don’t we split it into harmless carbon and oxygen?
+—J
+ Henderson
+ Devon
+ Pa
+
+
+James E
+ Miller
+ a chemical engineer at Sandia National Laboratories
+ breaks it down:
+
+Splitting carbon dioxide (CO2) into carbon and oxygen can in fact be accomplished
+ but there is a catch: doing so requires energy
+ If hydrocarbon fuels
+ which produce the greenhouse gas in the first place
+ supply that energy
+ thermodynamics tells us that the net result will be more CO2 than you started with
+
+-------------------//17:21:14
+
+Consider the proposal as a chemical reaction: CO2 plus energy yields carbon and oxygen.
+ This formula essentially reverses coal combustion (carbon plus oxygen yields CO2 and energy).
+ If energy from coal were applied to drive the decomposition reaction,
+ more CO2 would be released than consumed,
+ because no process is perfectly efficient.
+
+
+Another option would be to harness a carbon-free energy source to drive a reaction that does not merely undo the combustion process but instead uses carbon dioxide as an input to generate useful,
+ energy-rich products.
+ At Sandia National Laboratories,
+ we are working to apply concentrated sunlight to drive high-temperature thermal reactions that yield carbon monoxide,
+ hydrogen and oxygen from CO2 and water.
+ Carbon monoxide and hydrogen are basic chemical building blocks that find use in producing synthetic fuels,
+ so we call this process “sunshine to petrol.
+”
+-------------------//17:28:58
+
+COMP
+
+==============================]2020年5月6日17:39:48
+
+
+@@@
+
+-------------------
+-----------------------------
+==============================
+
