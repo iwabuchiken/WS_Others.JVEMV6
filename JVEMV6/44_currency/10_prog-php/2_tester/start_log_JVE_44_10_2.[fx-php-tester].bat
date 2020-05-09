@@ -43,7 +43,7 @@ REM 	git
 REM 	2020/01/04 15:21:38
 REM =================================
 REM C:\WORKS_2\a.bat
-C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat
+REM C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat
 REM  && r c && s
 
 
