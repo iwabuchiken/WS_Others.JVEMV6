@@ -1,0 +1,48 @@
+https://www.nature.com/articles/nenergy201787
+
+M-5
+
+==============================[2020年5月9日18:00:25
+The solar-driven electrochemical reduction of CO2 to fuels and chemicals provides a promising way for closing the anthropogenic carbon cycle.
+
+ However,
+
+ the lack of selective and Earth-abundant catalysts able to achieve the desired transformation reactions in an aqueous matrix presents a substantial impediment as of today.
+
+ Here we introduce atomic layer deposition of SnO2 on CuO nanowires as a means for changing the wide product distribution of CuO-derived CO2 reduction electrocatalysts to yield predominantly CO.
+
+ The activity of this catalyst towards oxygen evolution enables us to use it both as the cathode and anode for complete CO2 electrolysis.
+
+ In the resulting device,
+
+ the electrodes are separated by a bipolar membrane,
+
+ allowing each half-reaction to run in its optimal electrolyte environment.
+
+ Using a GaInP/GaInAs/Ge photovoltaic we achieve the solar-driven splitting of CO2 into CO and oxygen with a bifunctional,
+
+ sustainable and all Earth-abundant system at an efficiency of 13.4%.
+
+]COMP
+
+	Rent or Buy article
+
+Get time limited or full article access on ReadCube.
+
+from$8.99
+
+-------------------//18:04:33
+
+
+
+
+==============================
+
+
+@@@
+
+-------------------
+
+-----------------------------
+==============================
+

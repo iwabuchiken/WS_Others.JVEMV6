@@ -28,6 +28,58 @@ To understand why this is so important for a cleaner environment,
 
 The unfortunate catch is that such a split requires energy – and if the ultimate aim is less CO2, that energy needs to be provided by a source that doesn't generate more of it.
 
+==============================[2020年5月9日17:38:04
+That's why scientists have been working so hard to find a solution.
+ Once carbon monoxide is released,
+ it can be combined with hydrogen to produce synthetic carbon-based fuels,
+ which means CO2 gets taken out of the atmosphere,
+ and we get clean fuel at the other end - a win-win.
+
+
+Current methods for doing this are prohibitively expensive,
+ and need more energy to break down the carbon dioxide than they put out in return,
+ which is why this new method is potentially so exciting.
+
+
+Copper and tin are both available in abundance,
+ so the system shouldn't cost much to scale up,
+ and the electrolysis reaction that creates the split is relatively simple to set up.
+
+
+By using an atomic layer of tin to trap the energy that would normally be lost when copper is used as an electrode,
+ then adding a thin membrane between the anode and cathode to optimise both sides of the reaction,
+ the researchers were able to create a finely tuned system that doesn't use up more energy than it gives out.
+
+-------------------
+As well as reducing CO2 levels,
+ if this splitting system can be developed,
+ it helps with the problem of storing energy from renewable sources by turning it straight into liquid fuel.
+
+
+"This is the first time that such a bi-functional and low-cost catalyst is demonstrated,
+" says one of the team,
+ Marcel Schreier.
+
+
+"Very few catalysts - except expensive ones,
+ like gold and silver - can selectively transform CO2 to CO in water,
+ which is crucial for industrial applications.
+"
+
+One such industrial application could be set up at the Climeworks plant in Zurich in Switzerland,
+ where scientists are aiming to capture carbon dioxide from the air and convert it into fertiliser.
+
+
+If experts can figure out a way to effectively trap the CO2 that's being pulled in,
+ then we now have a way of turning that into fuel very efficiently.
+
+
+We've got a long way to go before we can be confident of slowing the changes that are happening to our planet,
+ but developments like this give us hope for the future.
+
+
+The research has been published in Nature Energy.
+
 
 
 
