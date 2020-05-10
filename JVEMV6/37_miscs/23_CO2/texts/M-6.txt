@@ -1,0 +1,96 @@
+https://phys.org/news/2017-06-low-cost-carbon-dioxide.html
+
+M-6
+
+==============================[2020年5月10日11:43:50
+Using Earth-abundant materials,
+
+ EPFL scientists have built the first low-cost system for splitting CO2 into CO,
+
+ a reaction necessary for turning renewable energy into fuel.
+
+
+
+The future of clean energy depends on our ability to efficiently store energy from renewable sources and use it later.
+
+ A popular way to do this is to electrolyze carbon dioxide to carbon monoxide,
+
+ which is then mixed with hydrogen to produce liquid hydrocarbons like gasoline or kerosene that can be used as fuel.
+
+ However,
+
+ we currently lack efficient and Earth-abundant catalysts for the initial splitting of CO2 into CO and oxygen,
+
+ which makes the move into renewable energy expensive and prohibitive.
+
+ EPFL scientists have now developed an Earth-abundant catalyst based on copper-oxide nanowires modified with tin oxide.
+
+ The system can split CO2 with an efficiency of 13.4%.
+
+ The work is published in Nature Energy,
+
+ and can help worldwide efforts to synthetically produce carbon-based fuels from CO2 and water.
+
+
+
+The research was carried out by the lab of Michael Grätzel at EPFL.
+
+ Grätzel is known worldwide for the invention of the first ever dye-sensitized solar cells (or "Grätzel cells").
+
+ The catalyst,
+
+ developed by PhD student Marcel Schreier and postdoc Jingshan Luo,
+
+ is made by depositing an atomic layer of tin oxide on copper oxide nanowires.
+
+ By using such Earth-abundant materials,
+
+ the design keeps the cost of the catalyst low while significantly increasing the yield of CO,
+
+ as opposed to the other products that are generated from CO2 electrocatalysis.
+
+
+
+The catalyst was integrated into a CO2 electrolysis system and linked to a triple-junction solar cell (GaInP/GaInAs/Ge) to make a CO2 electrolyzer.
+
+ The system uses the catalyst as a bifunctional electrode that both reduces CO2 into CO and produces oxygen through what is known as the "oxygen evolution" reaction.
+
+ The two products are separated with a bipolar membrane.
+
+
+
+Using solar energy,
+
+ the system was able to selectively convert CO2 to CO with an efficiency of 13.4%,
+
+ and do so with a Faradaic efficiency up to 90%—this describes how efficiently electrical charge is transferred in a electrocatalysis system like the one developed here.
+
+ "The work sets a new benchmark for solar-driven CO2 reduction,
+
+" says Luo.
+
+
+
+"This is the first time that such a bi-functional and low-cost catalyst is demonstrated,
+
+" adds Schreier.
+
+ "Very few catalysts—except expensive ones,
+
+ like gold and silver—can selectively transform CO2 to CO in water,
+
+ which is crucial for industrial applications.
+
+" 
+]12:18:24
+
+==============================
+
+
+@@@
+
+-------------------
+
+-----------------------------
+==============================
+

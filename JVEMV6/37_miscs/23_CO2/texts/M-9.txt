@@ -1,0 +1,167 @@
+https://www.sciencemag.org/news/2017/06/cheap-catalysts-turn-sunlight-and-carbon-dioxide-fuel?r3f_986=https://www.google.com/
+
+M-9
+
+==============================[2020年5月10日12:54:28
+Scientists have long dreamed of mimicking photosynthesis,
+
+ by using the energy in sunlight to knit together hydrocarbon fuels from carbon dioxide (CO2) and water.
+
+ Now,
+
+ a cheap new chemical catalyst has carried out part of that process with record efficiency,
+
+ using electricity from a solar cell to split CO2 into energy-rich carbon monoxide (CO) and oxygen.
+
+ The conversion isn’t yet efficient enough to compete with fossil fuels like gasoline.
+
+ But it could one day lead to methods for making essentially unlimited amounts of liquid fuels from sunlight,
+
+ water,
+
+ and CO2, the chief culprit in global warming.
+
+
+
+The new work is “a very nice result,
+
+” says John Turner,
+
+ a renewable fuels expert at the National Renewable Energy Laboratory in Golden,
+
+ Colorado.
+
+
+
+The transformation begins when CO2 is broken down into oxygen and CO,
+
+ the latter of which can be combined with hydrogen to make a variety of hydrocarbon fuels.
+
+ Adding four hydrogen atoms,
+
+ for example,
+
+ creates methanol,
+
+ a liquid fuel that can power cars.
+
+ Over the last 2 decades,
+
+ researchers have discovered a number of catalysts that enable that first step and split CO2 when the gas is bubbled up through water in the presence of an electric current.
+
+#1
+ One of the best studied is a cheap,
+
+ plentiful mix of copper and oxygen called copper oxide.
+
+ The trouble is that the catalyst splits more water than it does CO2, making molecular hydrogen (H2),
+
+ a less energy-rich compound,
+
+ says Michael Graetzel,
+
+ a chemist at the Swiss Federal Institute of Technology in Lausanne,
+
+ whose group has long studied these CO2-splitting catalysts.
+
+ 
+
+Last year,
+
+ Marcel Schreier,
+
+ one of Graetzel’s graduate students,
+
+ was looking into the details of how copper oxide catalysts work.
+
+#2
+
+ He put a layer of them on a tin oxide–based electrode,
+
+ which fed electrons to a beaker containing water and dissolved CO2. Instead of splitting mostly water—like the copper oxide catalyst—the new catalyst generated almost pure CO.
+
+ “It was a discovery made by serendipity,
+
+” Graetzel says.
+
+
+
+The tin,
+
+ Graetzel adds,
+
+ seems to deactivate the catalytic hot spots that help split the water.
+
+ As a result,
+
+ almost all the electric current went into making the more desirable CO.
+
+ Armed with the new insight,
+
+#3
+ Graetzel’s team sought to speed up the catalyst’s work.
+
+ To do so,
+
+ they remade their electrode from copper oxide nanowires,
+
+ which have a high surface area for carrying out the CO2-breaking reaction,
+
+ and topped them with a single atom-thick layer of tin.
+
+ As Graetzel’s team reports this week in Nature Energy,
+
+ the strategy worked,
+
+ converting 90% of the CO2 molecules into CO,
+
+ with hydrogen and other byproducts making up the rest.
+#4
+ They also hooked their setup to a solar cell and showed that a record 13.4% of the energy in the captured sunlight was converted into the CO’s chemical bonds.
+
+ That’s far better than plants,
+
+ which store energy with about 1% efficiency,
+
+ and even tops recent hybrid approaches that combine catalysts with microbes to generate fuel.
+
+
+#5
+Nate Lewis,
+
+ a chemist at the California Institute of Technology in Pasadena,
+
+ says the new result comes on the heels of other recent improvements that use different catalysts to turn CO2 into fuels.
+
+ “Together,
+
+ they show we’re making progress,
+
+” Lewis says.
+
+ But he also cautions that current efforts to turn CO2 into fuel remain squarely in the realm of basic research,
+
+ because they can’t generate fuel at a price anywhere near to that of refining oil.
+
+  
+
+Still,
+
+ exploding supplies of renewable electricity now occasionally generate more power than the grid can handle.
+
+ So scientists are looking for a viable way to store the excess electricity.
+
+ That’s likely to drive further progress in storing energy in chemical fuels,
+
+ Graetzel says.
+
+]13:30:47 
+
+
+@@@
+
+-------------------
+
+-----------------------------
+==============================
+
