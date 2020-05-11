@@ -1,0 +1,250 @@
+https://www.sciencedaily.com/releases/2018/03/180301094857.htm
+
+M-11
+
+==============================[2020年5月11日18:16:31
+Converting CO2 into usable energy
+Scientists show that single nickel atoms are an efficient,
+
+ cost-effective catalyst for converting carbon dioxide into useful chemicals
+
+Imagine if carbon dioxide (CO2) could easily be converted into usable energy.
+
+ Every time you breathe or drive a motor vehicle,
+
+ you would produce a key ingredient for generating fuels.
+
+ Like photosynthesis in plants,
+
+ we could turn CO2 into molecules that are essential for day-to-day life.
+
+ Now,
+
+ scientists are one step closer.
+
+
+
+Researchers at the U.
+
+S.
+
+ Department of Energy's (DOE) Brookhaven National Laboratory are part of a scientific collaboration that has identified a new electrocatalyst that efficiently converts CO2 to carbon monoxide (CO),
+
+ a highly energetic molecule.
+
+ Their findings were published on Feb.
+
+ 1 in Energy & Environmental Science.
+
+
+
+"There are many ways to use CO,
+
+" said Eli Stavitski,
+
+ a scientist at Brookhaven and an author on the paper.
+
+ "You can react it with water to produce energy-rich hydrogen gas,
+
+ or with hydrogen to produce useful chemicals,
+
+ such as hydrocarbons or alcohols.
+
+ If there were a sustainable,
+
+ cost-efficient route to transform CO2 to CO,
+
+ it would benefit society greatly.
+
+"
+
+Scientists have long sought a way to convert CO2 to CO,
+
+ but traditional electrocatalysts cannot effectively initiate the reaction.
+
+ That's because a competing reaction,
+
+ called the hydrogen evolution reaction (HER) or "water splitting,
+
+" takes precedence over the CO2 conversion reaction.
+
+
+
+A few noble metals,
+
+ such as gold and platinum,
+
+ can avoid HER and convert CO2 to CO; however,
+
+ these metals are relatively rare and too expensive to serve as cost-efficient catalysts.
+
+ So,
+
+ to convert CO2 to CO in a cost-effective way,
+
+ scientists used an entirely new form of catalyst.
+
+ Instead of noble metal nanoparticles,
+
+ they used single atoms of nickel.
+
+
+
+"Nickel metal,
+
+ in bulk,
+
+ has rarely been selected as a promising candidate for converting CO2 to CO,
+
+" said Haotian Wang,
+
+ a Rowland Fellow at Harvard University and the corresponding author on the paper.
+
+ "One reason is that it performs HER very well,
+
+ and brings down the CO2 reduction selectivity dramatically.
+
+ Another reason is because its surface can be easily poisoned by CO molecules if any are produced.
+
+"
+
+Single atoms of nickel,
+
+ however,
+
+ produce a different result.
+
+
+
+"Single atoms prefer to produce CO,
+
+ rather than performing the competing HER,
+
+ because the surface of a bulk metal is very different from individual atoms,
+
+" Stavitski said.
+
+
+
+Klaus Attenkofer,
+
+ also a Brookhaven scientist and a co-author on the paper,
+
+ added,
+
+ "The surface of a metal has one energy potential -- it is uniform.
+
+ Whereas on a single atom,
+
+ every place on the surface has a different kind of energy.
+
+"
+
+In addition to the unique energetic properties of single atoms,
+
+ the CO2 conversation reaction was facilitated by the interaction of the nickel atoms with a surrounding sheet of graphene.
+
+ Anchoring the atoms to graphene enabled the scientists to tune the catalyst and suppress HER.
+
+
+
+To get a closer look at the individual nickel atoms within the atomically thin graphene sheet,
+
+ the scientists used scanning transmission electron microscopy (STEM) at Brookhaven's Center for Functional Nanomaterials (CFN),
+
+ a DOE Office of Science User Facility.
+
+ By scanning an electron probe over the sample,
+
+ the scientists were able to visualize discrete nickel atoms on the graphene.
+
+
+
+"Our state-of-art transmission electron microscope is a unique tool to see extremely tiny features,
+
+ such as single atoms,
+
+" said Sooyeon Hwang,
+
+ a scientist at CFN and a co-author on the paper.
+
+
+
+"Single atoms are usually unstable and tend to aggregate on the support,
+
+" added Dong Su,
+
+ also a CFN scientist and a co-author on the paper.
+
+ "However,
+
+ we found the individual nickel atoms were distributed uniformly,
+
+ which accounted for the excellent performance of the conversion reaction.
+
+"
+
+To analyze the chemical complexity of the material,
+
+ the scientists used beamline 8-ID at the National Synchrotron Light Source II (NSLS-II) -- also a DOE Office of Science User Facility at Brookhaven Lab.
+
+ The ultra-bright x-ray light at NSLS-II enabled the scientists to "see" a detailed view of the material's inner structure.
+
+
+
+"Photons,
+
+ or particles of light,
+
+ interact with the electrons in the nickel atoms to do two things,
+
+" Stavitski said.
+
+ "They send the electrons to higher energy states and,
+
+ by mapping those energy states,
+
+ we can understand the electronic configuration and the chemical state of the material.
+
+ As we increase the energy of the photons,
+
+ they kick the electrons off the atoms and interact with the neighboring elements.
+
+" In essence,
+
+ this provided the scientists with an image of the nickel atoms' local structure.
+
+
+
+Based on the results from the studies at Harvard,
+
+ NSLS-II,
+
+ CFN,
+
+ and additional institutions,
+
+ the scientists discovered single nickel atoms catalyzed the CO2 conversion reaction with a maximal of 97 percent efficiency.
+
+ The scientists say this is a major step toward recycling CO2 for usable energy and chemicals.
+
+
+
+"To apply this technology to real applications in the future,
+
+ we are currently aimed at producing this single atom catalyst in a cheap and large-scale way,
+
+ while improving its performance and maintaining its efficiency,
+
+" said Wang.
+
+
+
+
+@@@
+
+-------------------
+
+-----------------------------
+==============================
+

@@ -1,0 +1,79 @@
+https://phys.org/news/2014-10-oxygen-molecules-carbon-dioxide.html
+
+M-8
+
+==============================[2020年5月11日18:03:13
+(Phys.
+
+org) —A small team of researchers with the University of California has found a way break apart carbon dioxide molecules and get carbon atoms and oxygen molecules instead of carbon monoxide and an oxygen atom.
+
+ In their paper published in the journal Science,
+
+ the team describes how they did it,
+
+ and the implications of their findings.
+
+ Arthur Suits and David Parker offer a perspective piece in the same journal issue that describes in more depth,
+
+ minimum energy path (MEP) where reactants don't always follow the easiest path during chemical reactions and how it pertains to the work done by this group.
+
+
+
+Over the years,
+
+ scientists have developed a theory about the development of life on planet Earth that's known as the "Great Oxidation Event,
+
+" where plants developed and began taking in carbon dioxide and pumping out oxygen.
+
+ In this new effort,
+
+ the researchers believe they have found a way to achieve the same feat using a non-biological approach.
+
+ They've used the shortest wavelength of ultraviolet light,
+
+ aka,
+
+ vacuum ultraviolet light (VUV) to break apart carbon dioxide molecules.
+
+
+
+The VUV was provided in the form of a laser shooting a beam at carbon dioxide molecules to break them apart.
+
+ Another laser was used to ionize the pieces from the broken molecule so that they could be measured by a mass spectrometer.
+
+ The process resulted in just 5 percent of the carbon dioxide molecules splitting into oxygen molecules and carbon atoms (the rest went to carbon monoxide and oxygen atoms) but that was more than enough to show that the process can be used to get molecular oxygen from carbon dioxide—and that might have a far reaching impact.
+
+
+
+The process works,
+
+ the team explains because of MEP reactions and because of that,
+
+ it seems reasonable to conclude that some oxygen in early Earth's atmosphere came about the same way—with all the oxygen in the atmosphere today,
+
+ VUV doesn't penetrate very far but when the atmosphere had far more carbon dioxide in it,
+
+ it follows that some of those molecules could have split into carbon atoms and oxygen molecules.
+
+ That also means that the same process could occur on other planets,
+
+ which means scientists looking for life on other planets would have to look for a lot more than just oxygen in their atmospheres.
+
+
+
+Another possible impact of the findings by the team involves space exploration—if an apparatus could be built that could continually knock oxygen molecules out of the carbon dioxide breathed out by astronauts,
+
+ they wouldn't have to carry oxygen tanks or use plants to do the conversion,
+
+ making the whole process much more efficient.
+
+]18:09:08 
+
+
+@@@
+
+-------------------
+
+-----------------------------
+==============================
+
