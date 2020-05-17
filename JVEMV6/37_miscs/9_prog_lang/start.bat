@@ -117,7 +117,7 @@ REM ===============
 REM 	batch
 REM 	2020”N5ŒŽ4“ú13:12:09
 REM ===============
-pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs
+pushd C:\WORKS_2\shortcuts_docs
 start start_korean.bat
 
 REM ===============
