@@ -1,0 +1,95 @@
+https://www.sciencedaily.com/releases/2018/12/181219075917.htm
+
+M-14
+
+[2020年5月17日18:13:50
+
+Summary:
+Scientists have created a powder that can capture CO2 from factories and power plants.
+
+ The powder can filter and remove CO2 at facilities powered by fossil fuels before it is released into the atmosphere and is twice as efficient as conventional methods.
+
+
+
+Scientists at the University of Waterloo have created a powder that can capture CO2 from factories and power plants.
+
+
+
+The powder,
+
+ created in the lab of Zhongwei Chen,
+
+ a chemical engineering professor at Waterloo,
+
+ can filter and remove CO2 at facilities powered by fossil fuels before it is released into the atmosphere and is twice as efficient as conventional methods.
+
+
+#2
+Chen said the new process to manipulate the size and concentration of pores could also be used to produce optimized carbon powders for applications including water filtration and energy storage,
+
+ the other main strand of research in his lab.
+
+
+#3
+"This will be more and more important in the future,
+
+" said Chen,
+
+ "We have to find ways to deal with all the CO2 produced by burning fossil fuels.
+
+"
+
+CO2 molecules stick to the surface of carbon when they come in contact with it,
+
+ a process known as adsorption.
+
+ Since it is abundant,
+
+ inexpensive and environmentally friendly,
+
+ that makes carbon an excellent material for CO2 capture.
+
+ The researchers,
+
+ who collaborated with colleagues at several universities in China,
+
+ set out to improve adsorption performance by manipulating the size and concentration of pores in carbon materials.
+
+
+#4
+The technique they developed uses heat and salt to extract a black carbon powder from plant matter.
+
+ Carbon spheres that make up the powder have many,
+
+ many pores and the vast majority of them are less than one-millionth of a metre in diameter.
+
+
+
+"The porosity of this material is extremely high,
+
+" said Chen,
+
+ who holds a Tier 1 Canada Research Chair in advanced materials for clean energy.
+
+ "And because of their size,
+
+ these pores can capture CO2 very efficiently.
+
+ The performance is almost doubled.
+
+"
+
+Once saturated with carbon dioxide at large point sources such as fossil fuel power plants,
+
+ the powder would be transported to storage sites and buried in underground geological formations to prevent CO2 release into the atmosphere.
+
+
+
+A paper on the CO2 capture work,
+
+ In-situ ion-activated carbon nanospheres with tunable ultramicroporosity for superior CO2 capture,
+
+ appears in the journal Carbon.
+
+]18:13:55
+
