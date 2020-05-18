@@ -1,0 +1,153 @@
+https://www.sciencedaily.com/releases/2018/03/180329133100.htm
+
+M-15
+
+=========================[2020年5月18日16:22:27
+
+Summary:
+The carbon dioxide (CO2) emitted from power plants each year doesn't have to go into the atmosphere.
+
+ Researchers are optimistic that within the next decade we will be able to affordably capture CO2 waste and convert it into useful molecules for feedstock,
+
+ biofuels,
+
+ pharmaceuticals,
+
+ or renewable fuels.
+
+
+
+
+The thousands of metric tons of carbon dioxide (CO2) emitted from power plants each year doesn't have to go into the atmosphere.
+
+ Researchers are optimistic that within the next decade we will be able to affordably capture CO2 waste and convert it into useful molecules for feedstock,
+
+ biofuels,
+
+ pharmaceuticals,
+
+ or renewable fuels.
+
+#1
+ On March 29 in the journal Joule,
+
+ a team of Canadian and US scientists describe their vision for what we should make with CO2 and how we can make it.
+
+
+
+"Similar to how a plant takes carbon dioxide,
+
+ sunlight,
+
+ and water to make sugars for itself,
+
+ we are interested in using technology to take energy from the sun or other renewable sources to convert CO2 into small building block molecules which can then be upgraded using traditional means of chemistry for commercial use,
+
+" says Phil De Luna,
+
+ a PhD candidate in materials science.
+
+ "We're taking inspiration from nature and doing it faster and more efficiently.
+
+"
+#2
+De Luna is first author on the paper along with postdoctoral fellow Oleksandr Bushuyev,
+
+ both of whom are members of the Edward Sargent Lab at the University of Toronto.
+
+ Sargent,
+
+ the senior author,
+
+ is a professor in the Department of Electrical and Computer Engineering.
+
+
+
+Their analysis identified a series of possible small molecules that make economic sense and could be made by converting captured CO2. For energy storage needs,
+
+ hydrogen,
+
+ methane,
+
+ and ethane could be used in biofuels.
+
+#3
+ Additionally,
+
+ ethylene and ethanol could serve as the building blocks for a range of consumer goods,
+
+ and CO2-derived formic acid could be used by the pharmaceutical industry or as a fuel in fuel cells.
+
+
+
+While current technologies that can capture CO2 waste are still in their infancy,
+
+ with new start-ups currently developing strategies for commercial use,
+
+ the researchers envision that the coming decades will bring major improvement to make CO2 capture and conversion a reality.
+
+ Within 5 to 10 years,
+
+ electrocatalysis -- which stimulates chemical reactions through electricity -- could be a way into this process.
+
+ And 50 years or more down the line,
+
+ molecular machines or nanotechnology could drive conversion.
+
+
+
+"This is still technology for the future,
+
+" says Bushuyev,
+
+ "but it's theoretically possible and feasible,
+
+ and we're excited about its scale up and implementation.
+
+ If we continue to work at this,
+
+ it's a matter of time before we have power plants where CO2 is emitted,
+
+ captured,
+
+ and converted.
+
+"
+#4
+The authors are aware of the %limitations% of carbon capture and conversion.
+
+ First,
+
+ it has been criticized for not being economically feasible,
+
+ particularly because of the cost of electricity to make these chemical reactions take place,
+
+ but this will likely go down as renewable energy becomes widespread over time.
+
+ Second,
+
+ there are few factories with a high carbon footprint that emit pure CO2, which is necessary for conversion,
+
+ but technology that could help with this issue is in development.
+
+
+
+"The motivation to write this piece is that we wanted clear insight into whether this could be economically viable,
+
+ and whether it's worth the time to invest in it,
+
+" De Luna says.
+
+#5
+ "This paper images a pathway for what we can do with carbon dioxide conversion in the coming decades.
+
+"
+
+Many insights for the analysis were developed in collaboration with Ling Tao,
+
+ Genevieve Saur,
+
+ and Jao van de Lagemaat at the US National Renewable Energy Laboratory.
+
+
+]16:39:18

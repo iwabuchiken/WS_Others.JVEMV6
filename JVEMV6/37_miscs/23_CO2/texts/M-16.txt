@@ -1,0 +1,192 @@
+https://www.sciencedaily.com/releases/2020/01/200129174521.htm
+
+M-16
+
+=========================[2020年5月18日16:46:55
+#1
+The production of formate from CO2 is considered an attractive strategy for [#1.1]the long-term storage of solar renewable energy in chemical form.
+
+
+
+Plants take in energy from sunlight to transform atmospheric carbon dioxide (CO2) into sugars and then other materials for growth and metabolic functions.
+
+ Mimicking this photochemical reaction to efficiently convert CO2 into fuels and industrially important chemicals would support a sustainable energy future and reduce greenhouse gas emissions.
+
+
+
+To realize such %artificial photosynthesis%,
+
+ scientists have been studying %catalytic systems% composed of multiple components that work together to drive the %transfer of photo-induced electrons% required to convert CO2 into energy-rich products.
+
+ One such product is %formate%,
+
+ a salt form of formic acid -- a naturally occurring organic chemical made of hydrogen and CO2 molecules.
+
+ The production of formate from CO2 is considered an attractive strategy for the long-term storage of solar renewable energy in chemical form.
+
+
+
+Multicomponent %CO2 conversion systems typically include% a photosensitizer,
+
+ a catalyst,
+
+ and a sacrificial electron donor in solution.
+
+ Upon absorbing light,
+
+ the photosensitizer jumps to an excited state,
+
+ where it accepts electrons from the donor.
+
+ The catalyst -- whose function is to minimize the high energy barrier to activate CO2, a very stable molecule -- then uses these high-energy electrons to complete a series of reactions.
+
+
+
+For many studies on photochemical CO2 conversion using molecular catalysts,
+
+ such as those based on ruthenium and other metal complexes,
+#[WCV]
+ %triethanolamine (TEOA)% is the component donating the electrons.
+
+ Or,
+
+ in some cases,
+
+ TEOA is accepting a %proton% (positively charged hydrogen ion) from a more efficient electron donor to ensure its sacrificial behavior.
+
+#2 
+ Despite the wide use of TEOA,
+
+ much of the research to date has not considered the possibility of this component playing secondary roles,
+
+ such as changing the temporary chemical species (intermediates) generated within the catalytic cycle or increasing the reaction rates.
+
+
+
+A team of chemists from the U.
+
+S.
+
+ Department of Energy's (DOE) Brookhaven National Laboratory and the City University of New York's Baruch College set out to change that.
+
+
+
+"For the last 40 years,
+
+ most studies on CO2 reduction catalysts have focused on analyzing catalytic efficiency and selectivity for the final product,
+
+" said Renato Sampaio,
+
+ a research associate in the Artificial Photosynthesis Group of Brookhaven Lab's Chemistry Division.
+
+ "However,
+
+ it is important to know if and how TEOA interacts with the catalyst during intermediate steps of the catalytic cycle because these interactions may decisively influence the efficiency and selectivity of product formation.
+
+"
+
+Focusing on a well-known catalytic system in an acetonitrile solution consisting of a %ruthenium carbonyl%#[TWX] (carbon atom bonded to oxygen atom) catalyst,
+
+ a ruthenium-based photosensitizer,
+
+ a common electron donor known as %BIH%,
+@@@
+ and TEOA acting as a proton acceptor to promote the sacrificial behavior of BIH,
+
+ the chemists made some surprising discoveries.
+
+ As they reported in a paper published online on Dec.
+
+ 27 in the Journal of the American Chemical Society,
+
+ TEOA fails at its primary intended task of efficiently accepting protons from BIH,
+
+ thus limiting catalytic activity.
+
+ However,
+#3
+ TEOA enhances key steps of the catalytic cycle for the conversion of CO2 to formate,
+
+ the target product.
+
+
+
+For example,
+
+ TEOA acts as a proton source supporting the formation of a metal hydride (ruthenium attached to hydrogen) that subsequently interacts with CO2 to make bound formate (bound to ruthenium).
+
+ Moreover,
+
+ TEOA interacts with CO2 to form a "zwitterionic adduct,
+
+" a molecule containing both positive and negative electrical charges.
+
+ When this adduct is present in solution,
+
+ the metal hydride interacts with CO2 to make bound formate at a rate that is six orders of magnitude faster than that without TEOA.
+
+ The dissociation of bound formate into "free" formate -- which can be captured as the final product -- is also six orders of magnitude faster because of TEOA.
+
+
+
+To make these determinations,
+
+ the team collected both electrochemical and spectroscopic data.
+
+
+
+"The catalytic cycle can generate a large number of reaction intermediates,
+
+" explained co-corresponding author Etsuko Fujita,
+
+ leader of the Artificial Photosynthesis Group.
+
+ "The challenge is characterizing them by spectroscopic or electrochemical techniques.
+
+"
+
+First,
+
+ the team measured the reduction potentials of the catalyst (how easily the catalyst gains an electron) in the presence and absence of TEOA.
+
+ Then,
+
+ they characterized the spectroscopic vibrations of the carbonyl for different forms of the catalyst before and after it receives an electron.
+
+ Following these electrochemistry measurements,
+
+ they conducted time-resolved infrared spectroscopy experiments on nanosecond timescales to monitor the catalytic intermediates in a CO2 atmosphere.
+
+
+
+"The carbonyl that is bound to ruthenium enabled us to study each transient intermediate form of the catalyst,
+
+" explained Sampaio.
+
+ "The carbonyl is a very sensitive infrared spectroscopic reporter that remains bound to ruthenium throughout the catalytic cycle,
+
+ unlike other parts of the catalyst.
+
+ Its vibrational frequency,
+
+ or atomic motion,
+
+ dramatically shifts as the catalyst accepts an electron or undergoes other structural changes.
+
+ We can detect these shifts and view them alongside the electrochemistry measurements to tell which species are present.
+
+"
+
+In future studies,
+
+ the team will explore alternatives to TEOA that maximize the sacrificial ability of BIH while offering similar advantages in enhancing the catalytic cycle.
+
+
+
+"Even though our study focused on a specific class of catalysts,
+
+ we strongly believe that our findings are broadly applicable across other systems and should be taken into consideration when investigating the catalytic reduction of CO2 to formate,
+
+" said Fujita.
+
+]17:21:53
