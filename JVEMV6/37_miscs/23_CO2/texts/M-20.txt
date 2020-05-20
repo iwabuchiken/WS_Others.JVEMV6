@@ -1,0 +1,71 @@
+https://www.researchgate.net/post/Is_there_any_reaction_path_to_split_CO2_Carbon_dioxide_or_CO_Carbon_monooxide_to_produce_Oxygen
+
+
+M-20
+
+=========================[2020年5月20日14:04:52
+#1	Solar thermochemical splitting of CO2
+
+#2
+I should say this is a very interesting topic and I have the same idea a few years ago.
+
+ However,
+
+ but now I think it would be better to split CO2 to CO and O2, rather than carbon and O2. You may find in catalysis reactions,
+
+ once solid product is involved,
+
+ the reaction may turn into a disaster due to the transportation problems,
+
+ that is why CO may be better and recently I have read a paper just published recently doing this thing with photocatalysis,
+
+ simply Google to find the paper,
+
+ sorry I can't remember the paper details.
+
+ 
+ Targeting carbon as product is not a good idea,
+
+ one good example is decomposition of CH4 to get H2, lots of efforts has to be done to separate carbon from the catalyst.
+
+	]14:10:48
+
+#3 CO2 based F-T synthesis
+
+#4
+The following reaction ― known as %'Sabatier' reaction% ― looks particularly interesting (i): CO2 + 4 H2 → CH4 + 2 H2O.
+
+ It can be coupled with water-splitting into its H2 and O2 components (ii): 4 H2O → 4 H2 + 2 O2. The net result of adding both reactions is (iii): CO2 + 2 H2O → CH4 + 2 O2. Although trying to mimic mother nature by efficiently splitting water by photolysis (harvesting sunlight energy) still seems quite challenging for today's current technology; use of electrolysis combined with photovoltaic solar cells,
+
+ brings water-splitting rather amenable by present-day technology.
+
+ More effort seems needed to develop the 'Sabatier' reaction process technologically,
+
+ and to conveniently integrate both processes.
+
+
+#4.1 
+Also interesting is that,
+
+ from sea water,
+
+ Cl2 and NaOH can be produced from the dissolved salt,
+
+ by the %chlor-alkali process%.
+
+ It is possible to capture CO by promoting its reaction with NaOH,
+
+ to generate sodium formate (iv): CO + NaOH → HCOONa.
+
+ The last can be decomposed (by heating) into sodium oxalate and H2 (v): 2 HCOONa → (COO)2Na2 + H2. The net result from last reactions can be given as (vi): 2 CO + 2 NaOH → (COO)2Na2 + H2.
+
+	]14:32:07
+
+#5
+Use the concentrated sunlight to split CO2 in to CO and O2 - solar thermochemical CO2 splitting. You can find this pioneering work done by Steinfeld A' group from ETH.(Science, 2010, 330, 1797-1801)  
+	
+	]14:34:13
+
+]14:34:36
+
+@@@
