@@ -1,0 +1,72 @@
+https://www.popularmechanics.com/science/green-tech/news/a27412/catalyst-turn-co2-into-methane/
+
+M-24
+
+=========================[2020年5月23日18:06:16
+Carbon dioxide in our atmosphere is at an all-time high,
+
+ and it's not enough for us to simply stop emitting more.
+
+ In order to avoid the worst effects of climate change,
+
+ we'll have to start taking lots of CO2 out of the atmosphere and store it someplace.
+
+
+
+One group of scientists from Paris Diderot University believe they've found a way to do that,
+
+ by inventing a catalyst that can turn CO2 into methane.
+
+ Their new catalyst could be used either to create new fuels to burn—recycling the CO2 already in the air—or by turning the CO2 into a chemical that's easier to store.
+
+
+
+The catalyst the researchers discovered is similar to the chlorophyll in a plant,
+
+ only instead of turning CO2 into oxygen it turns it into methane.
+
+ The molecule uses energy from the sun to break up the CO2 molecule into carbon and oxygen atoms,
+
+ which then combine with hydrogen to form methane and water.
+
+
+
+The team was initially trying to turn CO2 into carbon monoxide,
+
+ which is easier and more commonly done.
+
+ They succeeded,
+
+ but noticed their catalyst was also producing methane.
+
+ After a series of experiments they realized that not only could their catalyst turn CO2 into carbon monoxide,
+
+ it could then turn that carbon monoxide into methane.
+
+
+
+This is useful because right now there are many different catalysts that can produce carbon monoxide from CO2, but pure carbon monoxide isn't useful for much.
+
+ The new catalyst can turn an otherwise useless gas into something far more useful.
+
+
+
+The researchers still have a long way to go before their new catalyst is used commercially.
+
+ The team hopes to make the process faster and more efficient by powering it directly with electricity instead of simply exposing it to sunlight,
+
+ and chain it to a different catalyst that can produce the necessary carbon monoxide.
+
+
+
+If this catalyst can become even slightly more efficient,
+
+ in the near future we could be producing cheap methane literally out of thin air.
+
+
+
+Source: Ars Technica
+
+]2020年5月23日18:13:18
+
+@@@
