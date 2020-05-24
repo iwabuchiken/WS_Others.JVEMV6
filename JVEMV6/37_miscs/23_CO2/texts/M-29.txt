@@ -1,0 +1,98 @@
+https://www.sciencedaily.com/releases/2018/08/180813100246.htm
+
+
+M-29
+
+=========================[2020”N5ŒŽ24“ú18:32:58
+Converting carbon dioxide into methane or ethane selectively
+
+Researchers have developed high-efficiency %photocatalysts% that convert carbon dioxide into methane or ethane with %graphene-covered reduced titanium dioxide%.
+
+ The finding is expected to be utilized in the carbon dioxide reduction and recycling industries.
+
+
+
+A research team led by Professor Su-Il In from Department of Energy Science and Engineering had succeeded in developing photo catalysts that can convert carbon dioxide into usable energy such as methane or ethane.
+
+
+
+As carbon dioxide emissions increase,
+
+ the Earth's temperature rises and interest in reducing carbon dioxide,
+
+ the main culprit of global warming,
+
+ has been increasing.
+
+ In addition,
+
+ the shift to reusable fuel for existing resources due to energy depletion is also drawing attention.
+
+ In order to solve trans-national environmental problems,
+
+ research on photocatalysts,
+
+ which are essential in converting carbon dioxide and water into hydrocarbon fuels,
+
+ is gaining attention.
+
+
+
+Although many semiconductor materials with large band gaps are often used in photocatalyst studies,
+
+ they are limited in absorbing solar energy in various areas.
+
+ Thus,
+
+ photocatalyst studies focusing on improving the photocatalyst structure and surface to increase solar energy absorption areas or utilizing two-dimensional materials with excellent electron transmission are under way.
+
+
+
+Professor In's research team developed a high-efficiency photocatalyst that can convert carbon dioxide into methane (CH4) or ethane (C2H6) by placing graphene on reduced titanium dioxide in a stable and efficient way.
+
+
+
+The photocatalyst developed by the research team can selectively convert carbon dioxide from a gas to methane or ethane.
+
+ The results showed that its generation volume is 259umol/g and 77umol/g of methane and ethane respectively and its conversion rate is 5.2% and 2.7% higher than conventional reduced titanium dioxide photocatalysts.
+
+ In terms of ethane generation volume,
+
+ this result shows the world's highest efficiency under similar experimental conditions.
+
+
+
+In addition,
+
+ the research team proved for the first time that the pore moves toward graphene due to %band bending phenomena% visible from titanium dioxide and graphene interfaces through the international joint research conducted with the research team led by James R.
+
+ Durrant at the Department of Chemistry of Imperial College London (ICL),
+
+ UK using photoelectron spectroscopy.
+
+
+
+The movement of the pore towards graphene activates reactions by causing electrons to gather on the surface of the reduced titanium dioxide and forms a large amount of %radical methane% (CH3) as polyelectrons engage in the reactions.
+
+ The research team identified a mechanism for producing methane if this formed radical methane reacts with hydrogen ions and for producing ethane if the radical methane reacts with each other.
+
+
+
+The catalyst material developed by the research team is expected to be applied to a variety of areas such as high-value-added material production in the future and be used to solve global warming problems and energy resource depletion issues by selectively producing higher levels of hydrocarbon materials using sunlight.
+
+
+
+Professor In said,
+
+ "The %reduced titanium dioxide photocatalyst% with graphene that has been developed this time has the advantage of being able to selectively produce CO2 as a usable chemical element such as methane or ethane.
+
+ By conducting follow-up research that increases the conversation rate so that it can be commercialized,
+
+ we will contribute to the development of technology for reducing carbon dioxide and turning it into a resource.
+
+"
+
+]18:41:17
+
+
+@@@
