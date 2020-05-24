@@ -1,0 +1,41 @@
+https://www.sciencedirect.com/science/article/abs/pii/S1385894718318795
+
+M-27
+
+=========================[2020年5月24日13:11:37
+Selective conversion of carbon dioxide into methane with a 98%- yield on an in situ formed %Ni nanoparticle% catalyst in water
+
+A simple and highly-efficient way to convert CO2 to methane with yield over 98%.
+
+
+In situ formed %Ni nano-catalyst% shows excellent activity and stability.
+
+Hot water acts as both a reaction medium and a hydrogen source for CO2 reduction.
+
+Catalyst synthesis,
+
+ hydrogen generation,
+
+ and CO2 hydrogenation in one step.
+
+
+
+Abstract
+Developing simple and highly efficient technologies for CO2 conversion to chemical fuels is always of great interest.
+
+ In this work,
+
+ we report a new and simple method of CO2 conversion into methane in water with an in situ synthesized Ni nanoparticle catalyst,
+
+ in which the water is used as a hydrogen source and earth-abundant metals (Zn or Fe) are used as re-generable reductants.
+
+ An excellent 98%- yield of methane from either CO2 or HCO3− was obtained at %300 °C%,
+
+ and the in situ formed Ni nanoparticle catalyst exhibits not only extraordinary catalytic activity but also stability.
+
+ Mechanistic studies suggest that the formation of methane from HCO3− or CO2 follows the pathway of HCO3− → CO2 → HCOOH → CH4. This work demonstrates a simple approach for highly efficient conversion of CO2 to methane with earth-abundant materials.
+
+
+]13:42:53
+
+@@@
