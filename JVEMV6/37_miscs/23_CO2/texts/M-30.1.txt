@@ -1,0 +1,163 @@
+https://news.liverpool.ac.uk/2017/10/06/breakthrough-in-direct-activation-of-co2-and-ch4-into-liquid-fuels-and-chemicals-2/
+
+M-30.1
+
+=========================[2020îN5åé26ì˙13:48:37
+#1
+Breakthrough in direct activation of CO2 and CH4 into liquid fuels and chemicals
+
+Researchers from the University of Liverpool have made a significant breakthrough in the direct conversion of %carbon dioxide (CO2) and methane (CH4)% into liquid fuels and chemicals which could help industry to reduce greenhouse gas emissions whilst producing valuable chemical feedstocks.
+
+
+
+In a paper published in chemistry journal Angewandte Chemie they report a very unique %plasma synthesis process% for the direct,
+
+ one-step activation of carbon dioxide and methane into higher value liquid fuels and chemicals (e.
+
+g.
+
+ acetic acid,
+
+ methanol,
+
+ ethanol and formaldehyde) with high selectivity at ambient conditions (room temperature and atmospheric pressure).
+
+
+#2
+This is the first time this process has been shown,
+
+ as it is a significant challenge to directly convert these two stable and inert molecules into liquid fuels or chemicals using any single-step conventional (e.
+
+g.
+
+ catalysis) processes bypassing high temperature,
+
+ energy intensive syngas production process and high pressure syngas processing for chemical synthesis.
+
+
+
+The one-step room-temperature synthesis of liquid fuels and chemicals from the direct reforming of CO2 with CH4 was achieved by using a novel atmospheric-pressure non-thermal %plasma reactor% with a %water electrode% and a low energy input.
+
+
+
+Dr.
+
+ Xin Tu,
+
+ from the UniversityÅfs Department of Electrical Engineering and Electronics,
+
+ said: ÅgThese results clearly show that non-thermal plasmas offer a promising solution to overcome the thermodynamic barrier for the direct transformation of CH4 and CO2 into a range of strategically important platform chemicals and synthetic fuels at ambient conditions.
+
+ Introducing a catalyst into the plasma chemical process,
+
+ known as plasma-catalysis,
+
+ could tune the selectivity of target chemicals.
+
+ Åh
+
+ÅgThis is a major breakthrough technology that has great potential to deliver a step-change in future methane activation,
+
+ CO2 conversion and utilisation and chemical energy storage,
+
+ which is also of huge relevance to the energy & chemical industry and could help to tackle the challenges of global warming and greenhouse gas effect.
+
+Åh
+
+Methane and carbon dioxide emissions are considered greenhouse gases which contribute to global warming and climate change.
+
+ The largest source of CO2 emissions is from burning fossil fuels for electricity,
+
+ heat,
+
+ and transportation,
+
+ while methane is mainly emitted during the production,
+
+ processing,
+
+ transportation and storage of natural gas and crude oils.
+
+
+
+The UK emits more than 470 million tonnes of CO2 per year and of this 39% is emitted by the energy and chemistry sectors.
+
+
+
+In order to tackle the global energy challenges resulting from greenhouse gases,
+
+ new and emerging technologies are being developed at an accelerating pace.
+
+ Plasma,
+
+ the fourth state of matter,
+
+ an electrically charged gas mixture,
+
+ offers a promising and attractive alternative for the synthesis of fuels and chemicals,
+
+ providing a unique way to enable thermodynamically unfavourable reactions to take place at ambient conditions.
+
+
+
+In non-thermal plasmas,
+
+ the gas temperature remains low (as low as room temperature),
+
+ while the electrons are highly energetic with a typical electron temperature of 1-10 eV,
+
+ which is sufficient to activate inert molecules (e.
+
+g.
+
+ CO2 and CH4) present and produce a variety of chemically reactive species including radicals,
+
+ excited atoms,
+
+ molecules and ions.
+
+
+
+These energetic species,
+
+ which are produced at a relatively low temperature,
+
+ are capable of initiating a variety of different reactions.
+
+ Plasma systems have the flexibility to be scaled up and down.
+
+ In addition,
+
+ high reaction rate and fast attainment of steady state in a plasma process allows rapid start-up and shutdown of the plasma process compared to other thermal processes,
+
+ which significantly reduces the overall energy cost and offers a promising route for the plasma process powered by renewable energy (e.
+
+g.
+
+ wind and solar power) to act as an efficient chemical energy storage localised or distributed system.
+
+
+
+The highly attractive process could also provide a promising solution to end gas flaring from oil and gas wells through the conversion of flared methane into valuable liquid fuels and chemicals which can be easily stored and transported.
+
+ Around 3.5% (~150 billion cubic meter gas) of the worldÅfs natural-gas supply was wastefully burned,
+
+ or ÅeflaredÅf,
+
+ at oil and gas fields,
+
+ emitted more than 350 million tonnes of CO2.
+
+The paper ÅeOne-Step Reforming of CO2 and CH4 into High-Value Liquid Chemicals and Fuels at Room Temperature by Plasma-Driven CatalysisÅf (DOI: 10.1002/ange.
+
+201707131) is published in Angewandte Chemie.
+
+
+
+
+
+
+
+]XXX
+
+@@@
