@@ -1,9 +1,0 @@
-* C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\25_electronics\1_LTSpice\5_\25.1_5.(3).asc
-V2 +V 0 15V
-V3 0 -V 15V
-V1 +V2 -V2 15V
-R1 +V2 0 10k
-R2 0 -V2 10k
-.tran 0 1m 0 5
-.backanno
-.end
