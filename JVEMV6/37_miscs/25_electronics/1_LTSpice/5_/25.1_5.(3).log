@@ -1,0 +1,22 @@
+Circuit: * C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\25_electronics\1_LTSpice\5_\25.1_5.(3).asc
+
+WARNING: Less than two connections to node +V.  This node is used by V2.
+WARNING: Less than two connections to node -V.  This node is used by V3.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jun 04 17:01:20 2020
+Total elapsed time: 0.032 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 45
+traniter = 42
+tranpoints = 22
+accept = 22
+rejected = 0
+matrix size = 7
+fillins = 1
+solver = Normal
+Matrix Compiler1: 160 bytes object code size
+Matrix Compiler2: 345 bytes object code size

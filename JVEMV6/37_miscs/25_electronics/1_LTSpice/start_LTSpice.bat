@@ -27,4 +27,4 @@ REM 	2020”N5ŒŽ30“ú16:20:40
 REM ===========================
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\25_electronics\1_LTSpice
 
-pause
+REM pause
