@@ -1,0 +1,49 @@
+(ExpressProject "opa1622 test circuit"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\opa1622.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\opa1622 test circuit.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile
+         ".\opa1622 test circuit-pspicefiles\schematic1\test circuit tran.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\opa1622 test circuit-pspicefiles\schematic1\test circuit tran.sim"
+        (DisplayName "SCHEMATIC1-test circuit tran")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\opa1622.lib"
+        (Type "PSpice Profile")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (OPA1622
+      (FullPartName "OPA1622.Normal")
+      (LibraryName ".\OPA1622.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 269 0 292"))
+      (Tab 0)))
+  (MPSSessionName "x0281195")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\x0272722\Desktop\OPA1662\05_Release_Sankalp\PSPICE\OPA1622_PSPICE_AIO"))
