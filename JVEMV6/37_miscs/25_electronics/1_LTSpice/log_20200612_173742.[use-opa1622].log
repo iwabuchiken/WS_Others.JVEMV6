@@ -1,0 +1,26 @@
+2020年6月12日17:35:32
+
+	copy
+		C:\Users\iwabuchiken\Documents\LTspiceXVII\lib\sub\mylib
+		to : C:\Users\iwabuchiken\Documents\LTspiceXVII\lib
+	TRY : 25.1_9.(1)_inverting.asc ==> Run
+		==> "could not open"
+	TRY : asc file ==> symbol attribute editor
+			==> ModelFile --> "OPA1622.lib" (extension)
+		==> asc file ==> symbol attribute editor
+			==> ModelFile --> "OPA1622.LIB" (capital)
+		==> N/C
+	TRY : re-start spice
+		==> PASSED
+	TRY : delete "mylib" folder
+		from : C:\Users\iwabuchiken\Documents\LTspiceXVII\lib\sym\Opamps
+			==> PASSED
+		from : C:\Users\iwabuchiken\Documents\LTspiceXVII\lib
+			==> same
+		from : C:\Users\iwabuchiken\Documents\LTspiceXVII\lib\sub
+			==> "could not open"
+		restore "mylib"
+			==> OK
+
+@@@ ::]17:46:57
+
