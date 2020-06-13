@@ -1,0 +1,22 @@
+Circuit: * C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\25_electronics\1_LTSpice\25.1_10.(1-1)_transcient_R1=200k.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jun 13 17:46:24 2020
+Total elapsed time: 0.656 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 24816
+traniter = 24811
+tranpoints = 5985
+accept = 4558
+rejected = 1427
+matrix size = 145
+fillins = 177
+solver = Normal
+Thread vector: 13.1/8.2[2] 4.3/2.9[2] 2.9/1.8[2] 1.9/2.2[1]  2592/500
+Matrix Compiler1: 17.29 KB object code size  9.1/6.6/[2.5]
+Matrix Compiler2: 15.20 KB object code size  4.2/5.1/[2.3]
+
