@@ -36,7 +36,8 @@ REM =================================
 REM 	log dir
 REM 	2020/01/22 17:44:47
 REM =================================
-start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+REM start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Tester
 
 REM =================================
 REM 	git
