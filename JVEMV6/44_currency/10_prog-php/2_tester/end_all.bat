@@ -2,6 +2,8 @@
 
 echo param is '%1'
 
+echo all params are : '%*'
+
 set param=%1
 
 REM ==================================
@@ -16,15 +18,56 @@ if "%param%"=="" (
 )
 
 REM ==================================
-REM 	git push
+REM 	git push : C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11
+REM ==================================
+
+rem @echo on
+
+echo setting param...
+
+rem set param="%1"
+set param="%*"
+
+rem goto end
+
+echo executing commands...
+
+echo "C:\WORKS_2\a.bat && r c && git add -A && git commit -m %param% && e && p"
+
+rem goto end
+
+C:\WORKS_2\a.bat && r c && git add -A && git commit -m %param% && e && p
+
+rem @echo off
+
+
+
+REM ==================================
+REM 	git push : C:\WORKS_2\WS\WS_Others.JVEMV6
 REM ==================================
 rem C:\WORKS_2\a.bat && r oj && git add -A && git commit -m "%param%" && e && p
-C:\WORKS_2\a.bat && r oj && git add -A && git commit -m ^"%param%^" && e && p
+
+echo executing commands...
+
+echo "C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p"
+
+rem goto end
+
+C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p
+
+rem C:\WORKS_2\a.bat && r oj && git add -A && git commit -m ^"%param%^" && e && p
 
 rem C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %1 && e && p
 
 rem C:\WORKS_2\a.bat && r oj && e && p && r c && e && p && C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\12_programming\3_fx-log-file\end_apps.bat
 
+
+rem goto end
+
+REM ==================================
+REM 	closing
+REM ==================================
+echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_44_10_2.[fx-php-tester].bat
 
 goto end
 
