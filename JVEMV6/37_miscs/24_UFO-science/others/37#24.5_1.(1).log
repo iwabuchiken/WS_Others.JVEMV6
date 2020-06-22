@@ -1,0 +1,193 @@
+Circuit: * C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\24_UFO-science\others\37#24.5_1.(1).asc
+
+WARNING: Node N004 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Terminal Gmin changed to 1e-014
+vernier = 0.5
+Gmin = 7.8867e-014
+vernier = 0.25
+vernier = 0.333333
+vernier = 0.166667
+Gmin = 6.03873e-014
+vernier = 0.0833333
+vernier = 0.111111
+Gmin = 4.88444e-014
+vernier = 0.0555555
+vernier = 0.074074
+vernier = 0.037037
+vernier = 0.0185185
+Gmin = 4.60038e-014
+vernier = 0.00925925
+vernier = 0.00462963
+Gmin = 4.55274e-014
+vernier = 0.00617283
+vernier = 0.00823044
+vernier = 0.00411522
+Gmin = 4.49693e-014
+vernier = 0.00205761
+vernier = 0.00102881
+Gmin = 4.48192e-014
+vernier = 0.00137174
+vernier = 0.00182899
+Gmin = 4.46454e-014
+vernier = 0.00243865
+vernier = 0.00325153
+Gmin = 4.43696e-014
+vernier = 0.00162576
+vernier = 0.000812882
+Gmin = 4.42526e-014
+vernier = 0.00108384
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 4.41942e-014
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 6.4897%
+Source Step = 6.51929%
+Source Step = 6.54889%
+Source Step = 6.57848%
+Source Step = 6.60807%
+Source Step = 6.63767%
+vernier = 0.00146484
+Source Step = 6.6717%
+Source Step = 6.71609%
+Source Step = 6.76048%
+Source Step = 6.80487%
+Source Step = 6.84925%
+Source Step = 6.89364%
+Source Step = 6.93803%
+vernier = 0.00219727
+Source Step = 6.99796%
+Source Step = 7.06454%
+Source Step = 7.13113%
+Source Step = 7.19771%
+Source Step = 7.26429%
+Source Step = 7.33088%
+Source Step = 7.39746%
+vernier = 0.0032959
+Source Step = 7.48402%
+Source Step = 7.5839%
+Source Step = 7.68377%
+Source Step = 7.78365%
+Source Step = 7.88352%
+vernier = 0.00494385
+Source Step = 8.00837%
+Source Step = 8.15818%
+Source Step = 8.30799%
+Source Step = 8.45781%
+Source Step = 8.60762%
+vernier = 0.00741577
+Source Step = 8.7874%
+Source Step = 9.01212%
+Source Step = 9.23684%
+Source Step = 9.46156%
+Source Step = 9.68628%
+vernier = 0.0111237
+Source Step = 9.94471%
+Source Step = 10.2818%
+Source Step = 10.6189%
+Source Step = 10.9559%
+Source Step = 11.293%
+vernier = 0.0166855
+Source Step = 11.6638%
+vernier = 0.00417137
+Source Step = 11.6701%
+Source Step = 11.7017%
+Source Step = 11.7333%
+Source Step = 11.7649%
+Source Step = 11.7965%
+Source Step = 11.8281%
+Source Step = 11.8597%
+vernier = 0.00156426
+Source Step = 11.9008%
+Source Step = 11.9482%
+Source Step = 11.9956%
+Source Step = 12.043%
+Source Step = 12.0904%
+vernier = 0.0023464
+Source Step = 12.1497%
+Source Step = 12.2208%
+Source Step = 12.2919%
+Source Step = 12.363%
+Source Step = 12.4341%
+Source Step = 12.5052%
+Source Step = 12.5763%
+Source Step = 12.6474%
+Source Step = 12.7185%
+Source Step = 12.7896%
+vernier = 0.00351959
+Source Step = 12.882%
+Source Step = 12.9887%
+Source Step = 13.0954%
+Source Step = 13.202%
+Source Step = 13.3087%
+vernier = 0.00527939
+Source Step = 13.442%
+Source Step = 13.602%
+Source Step = 13.7619%
+Source Step = 13.9219%
+Source Step = 14.0819%
+vernier = 0.00791909
+Source Step = 14.2739%
+Source Step = 14.5139%
+Source Step = 14.7538%
+Source Step = 14.9938%
+Source Step = 15.2338%
+vernier = 0.0118786
+Source Step = 15.5097%
+Source Step = 15.8697%
+Source Step = 15.9777%
+Source Step = 16.0677%
+Source Step = 16.1577%
+Source Step = 16.2477%
+Source Step = 16.3377%
+vernier = 0.00445449
+Source Step = 16.4411%
+Source Step = 16.5761%
+Source Step = 16.7111%
+Source Step = 16.8461%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 25.7576%
+vernier = 0.0625
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 268.44 ms.
+
+Date: Mon Jun 22 16:00:21 2020
+Total elapsed time: 0.250 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17814
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 34
+matrix size = 8
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.04 KB object code size  0.2/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.4/0.6
+

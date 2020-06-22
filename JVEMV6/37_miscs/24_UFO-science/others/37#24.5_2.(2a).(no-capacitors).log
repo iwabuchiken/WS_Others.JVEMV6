@@ -1,0 +1,21 @@
+Circuit: * C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\24_UFO-science\others\37#24.5_2.(2a).(no-capacitors).asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jun 22 17:07:50 2020
+Total elapsed time: 0.042 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2099
+traniter = 2096
+tranpoints = 1049
+accept = 1049
+rejected = 0
+matrix size = 2
+fillins = 0
+solver = Normal
+Matrix Compiler1:       2 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.1/0.1
+
