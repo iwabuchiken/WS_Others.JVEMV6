@@ -30,7 +30,9 @@ set param="%*"
 
 
 echo executing...
-C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p && echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_37#23.[CO2].bat
+rem C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p && echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_37#23.[CO2].bat
+C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p && cd C:\WORKS_2\WS\FM_2_20171104_225946 && git add -A && git commit -m %param% && e && p && echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_37#23.[CO2].bat
+
 
 goto end
 
