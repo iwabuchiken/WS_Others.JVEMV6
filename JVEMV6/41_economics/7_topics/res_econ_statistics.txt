@@ -1,0 +1,28 @@
+2020年7月7日15:16:06
+
+	https://www.j-credit.or.jp/information/statistics/
+		
+	
+	<thoughts>
+	ショッピングクレジットの減少は、例えば、スーパーの売上の減少に、先行するか？
+		あるいは、企業間物価指数の、減少に、do ?
+	
+	]15:22:06
+	
+	[15:22:09
+	国際収支 統計 日本
+	
+	https://www.stat-search.boj.or.jp/index.html
+	
+		https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$graphwnd
+	
+	next
+		クレジット統計、資料　=>　保存
+		国際収支　データ
+			前年比、２０１８年度比　=>　作成
+	]15:49:11
+
+
+=====================================
+
+r oj && git add . && git commit -m "(WS_Others.JVEMV6 : 41. economics : 7. topics : econ-statistics) periodical updates" && e && git push origin master
