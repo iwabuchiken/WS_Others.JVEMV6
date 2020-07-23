@@ -1,0 +1,44 @@
+2020/01/03 09:21:30
+
+	https://zhidao.baidu.com/search?lm=0&rn=10&pn=0&fr=search&ie=gbk&word=%BA%CF%B3%C9+%D6%87%D5%60
+	https://zhidao.baidu.com/question/1495837590695905059.html?fr=iks&word=%BA%CF%B3%C9+%D6%87%D5%60&ie=gbk
+	https://zh.wikipedia.org/wiki/合成_(謬誤)
+	https://zh.wikipedia.org/wiki/逆偶例謬誤
+	https://zhidao.baidu.com/question/1495837590695905059.html?fr=iks&word=%BA%CF%B3%C9+%D6%87%D5%60&ie=gbk
+	https://zh.wikipedia.org/wiki/以偏概全
+	
+2020/01/03 15:09:57
+
+	https://ko.wikipedia.org/wiki/분류:비형식적_오류
+	https://ko.wikipedia.org/wiki/분류:동조
+	https://ko.wikipedia.org/wiki/결과에_호소하는_논증
+	https://ko.wikipedia.org/wiki/힘에_호소하는_논증
+	http://drsimpson.egloos.com/361353
+	https://www.ahnsamo.kr/column/830466
+	https://duckduckgo.com/?ia=web 힘에 호소
+	
+	https://zh.wikipedia.org/wiki/%E5%BE%8C%E6%AD%A4%E8%AC%AC%E8%AA%A4
+	
+	
+	next "박근혜의 당선이 정권교체라는 환상" https://www.ahnsamo.kr/column/830466
+	
+	further
+	https://ko.wikipedia.org/wiki/권위에_호소하는_논증
+
+2020年1月4日23:16:35
+
+	"박근혜의 당선이 정권교체라는 환상" https://www.ahnsamo.kr/column/830466
+		==> DROP 23:22:51
+	
+	https://ko.wikipedia.org/wiki/권위에_호소하는_논증
+	
+	next https://ko.wikipedia.org/wiki/권위에_호소하는_논증#형식
+
+2020年1月5日23:15:01
+
+	https://ko.wikipedia.org/wiki/권위에_호소하는_논증#형식
+	
+	next "12세기부터 15세기에"
+
+=================== EOF ===================
+r oj && git add . && git commit -m "(JVE_37#23: 4JEE : logic) periodical updates" && e && git push origin master
