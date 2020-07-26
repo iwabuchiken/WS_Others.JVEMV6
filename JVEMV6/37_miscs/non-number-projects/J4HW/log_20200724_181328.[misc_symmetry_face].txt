@@ -1,0 +1,14 @@
+2020年7月24日18:08:29
+
+	DL
+	https://otonasalone.jp/wp-content/uploads/2018/03/IMG_0048-1600x1200.jpg
+	https://yandex.com/images/search?text=女性 顔&from=tabbar&pos=9&img_url=https://otonasalone.jp/wp-content/uploads/2018/03/IMG_0048-1600x1200.jpg&rpt=simage
+	
+	gimp
+	open as layer
+	DUP : layer ==> L-1
+	save project
+		==> IMG_0048-1600x1200.xcf
+			// C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\non-number-projects\J4HW
+	
+	
