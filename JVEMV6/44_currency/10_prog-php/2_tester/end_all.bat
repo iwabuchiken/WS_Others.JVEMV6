@@ -30,7 +30,9 @@ set param="%*"
 
 
 echo executing...
-C:\WORKS_2\a.bat && r c && git add -A && git commit -m %param% && e && p && C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p && echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_44_10_2.[fx-php-tester].bat
+rem C:\WORKS_2\a.bat && r c && git add -A && git commit -m %param% && e && p && C:\WORKS_2\a.bat && r oj && git add -A && git commit -m %param% && e && p && echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_44_10_2.[fx-php-tester].bat
+
+C:\WORKS_2\a.bat && r c && git add . && git commit -m %param% && e && p && C:\WORKS_2\a.bat && r oj && git add . && git commit -m %param% && e && p && echo.>> C:\WORKS_2\shortcuts_docs\start_log_JVE_44_10_2.[fx-php-tester].bat
 
 goto end
 
