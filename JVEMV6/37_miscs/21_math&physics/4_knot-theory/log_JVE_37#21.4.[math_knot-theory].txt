@@ -1,0 +1,61 @@
+2020年6月19日14:23:40
+
+M-1
+	invariants :w
+	
+	next : #2 6) Close cousins 
+
+]15:36:17
+
+===============================
+2020年8月4日16:13:16
+
+	https://ja.wikipedia.org/wiki/もやい結び	:d-1
+	
+	http://www4.kcn.ne.jp/~goluvill/rope/rope.html
+	https://blog.goo.ne.jp/tanren_saijo/e/28db3127393f6d27e2efa390853776b2
+	
+
+===============================
+2020年8月10日16:50:26
+
+	http://www4.kcn.ne.jp/~goluvill/rope/rope.html	:d-1
+		ふた結び：ロープを木や柱などに結ぶ基本的な結び方です。	:#1
+		
+
+===============================
+2020年8月13日17:26:00
+
+	==> see memo
+
+===============================
+2020年8月14日13:04:21
+	
+	==> see memo
+
+===============================
+
+
+===============================
+
+
+===============================
+
+
+===============================
+
+
+
+[docs] ------------------------------------------------
+1	http://sites.oglethorpe.edu/knottheory/introduction/
+		#1 Knots have some properties 
+		#2 6) Close cousins 
+2	http://pi.math.cornell.edu/~mec/2008-2009/HoHonLeung/page1_knots.htm
+3	https://mathlyblog.wordpress.com/2015/11/21/매듭이론knot-theory/
+4	https://ja.wikipedia.org/wiki/もやい結び
+5	http://www4.kcn.ne.jp/~goluvill/rope/rope.html
+		ロープ同士をつなぎ合わせる	#1
+
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master
