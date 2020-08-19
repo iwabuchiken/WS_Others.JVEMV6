@@ -34,12 +34,51 @@ M-1
 	==> see memo
 
 ===============================
+2020年8月15日14:50:29
 
+	:M-5,#2
+	
+	next
+		#3
+	
+]15:55:50
+
+
+===============================
+2020年8月16日14:19:40
+
+	M-5, #3
+	
+	next : #5
+
+]16:00:51
+
+===============================
+2020年8月17日13:01:41
+
+	#M-5 / #5
+	
+2	M-9
+	M-9.3
+		#1	容易に解く
+
+		further
+			M-9.3 "連続8の字結び・8の字続き結び" ==> s:
+		s: ８の字結び 箱
+
+===============================
+2020年8月18日13:32:40
+
+	==> ok
+
+]15:04:56
 
 ===============================
 
 
+
 ===============================
+
 
 
 ===============================
@@ -55,6 +94,24 @@ M-1
 4	https://ja.wikipedia.org/wiki/もやい結び
 5	http://www4.kcn.ne.jp/~goluvill/rope/rope.html
 		ロープ同士をつなぎ合わせる	#1
+		対象物に直接結び付けずに、	#2
+		ロープの末端同士を結びます	#3
+		棒を十字に結ぶ				#4
+		新聞を束ねる				#5
+6	https://ja.wikipedia.org/wiki/Category:結び目
+7	https://web.archive.org/web/20080204085825/http://www.animatedknots.com/rollinghitchboating/index.php?LogoImage=LogoGrog.jpg&Website=www.animatedknots.com
+8	https://zh.wikipedia.org/zh-cn/稱人結
+9	https://zh.wikipedia.org/wiki/八字結
+	.1	https://de.wikipedia.org/wiki/Achtknoten
+	.2	https://pl.wikipedia.org/wiki/Ósemka_(węzeł)
+	.3	https://ja.wikipedia.org/wiki/8の字結び
+10	https://news.livedoor.com/article/detail/10616830/ 自在結び
+	s: https://duckduckgo.com/?q=８の字結び&iar=images&iax=images&ia=images&iai=http://www.machida-ito.co.jp/school/images/les01_map03.jpg
+		自在結び／知っていると	#1
+		トラッカーズヒッチ／ここまで	#2
+		ひとつえつぎ結び／困った		#3
+		
+11	https://zh.wikipedia.org/wiki/雙套結
 
 
 ===============================
