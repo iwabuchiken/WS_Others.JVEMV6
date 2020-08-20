@@ -74,8 +74,11 @@ M-1
 ]15:04:56
 
 ===============================
+2020年8月19日15:52:12
 
+	==> memo
 
+]17:57:52
 
 ===============================
 
@@ -112,7 +115,16 @@ M-1
 		ひとつえつぎ結び／困った		#3
 		
 11	https://zh.wikipedia.org/wiki/雙套結
+12	https://de.wikipedia.org/wiki/Liste_von_Knoten	2020年8月19日16:35:26
+13	https://de.wikipedia.org/wiki/Wurfknoten	2020年8月19日16:35:59
+14	https://de.wikipedia.org/wiki/Überhandknoten	2020年8月19日16:47:20
+15	https://de.wikipedia.org/wiki/Ashley-Stopperknoten	2020年8月19日16:49:40
+16	https://de.wikipedia.org/wiki/Türkischer_Bund	2020年8月19日17:07:37
+17	https://de.wikipedia.org/wiki/Diamantknoten	2020年8月19日17:09:51
+18	
+19	
+
 
 
 ===============================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat

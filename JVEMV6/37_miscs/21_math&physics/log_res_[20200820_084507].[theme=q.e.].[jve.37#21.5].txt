@@ -1,0 +1,32 @@
+===============================
+2020年8月20日8:48:21
+
+	search docs
+
+]9:03:43
+
+===============================
+
+
+===============================
+
+
+===============================
+
+
+=============================== MATERIALS
+1	https://kikyousan.com/physics/electromagnetism/dipolemoment	電気双極子モーメント	2020年8月20日8:48:51
+	s: https://duckduckgo.com/?q=電気双極子モーメントベクトル&t=hk&ia=web
+	
+	.1	http://physics.thick.jp/Electromagnetics/Section1/1-16.html	2020年8月20日8:49:38
+	
+	.2 http://physics.thick.jp/Electromagnetics/Section1/1-2.html	ミリカンの実験	2020年8月20日8:58:52
+	
+	.3 https://eman-physics.net/quantum/angular.html	角運動量の演算子	2020年8月20日8:59:30
+2	
+3	
+4	
+5	
+
+===============================
+C:\WORKS_2\a.bat && r oj && git add . && git commit -m "(shortcuts : res : [theme=q.e.].[jve.37#21.5]) periodical updates" && e && git push origin master
