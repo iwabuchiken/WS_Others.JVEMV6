@@ -81,6 +81,22 @@ M-1
 ]17:57:52
 
 ===============================
+2020年8月20日14:33:59
+
+	==> memo
+
+]15:46:43
+
+
+===============================
+
+
+
+===============================
+
+
+
+===============================
 
 
 
@@ -89,6 +105,7 @@ M-1
 
 
 [docs] ------------------------------------------------
+=========================================== MATERIALS
 1	http://sites.oglethorpe.edu/knottheory/introduction/
 		#1 Knots have some properties 
 		#2 6) Close cousins 
@@ -116,11 +133,19 @@ M-1
 		
 11	https://zh.wikipedia.org/wiki/雙套結
 12	https://de.wikipedia.org/wiki/Liste_von_Knoten	2020年8月19日16:35:26
-13	https://de.wikipedia.org/wiki/Wurfknoten	2020年8月19日16:35:59
-14	https://de.wikipedia.org/wiki/Überhandknoten	2020年8月19日16:47:20
-15	https://de.wikipedia.org/wiki/Ashley-Stopperknoten	2020年8月19日16:49:40
-16	https://de.wikipedia.org/wiki/Türkischer_Bund	2020年8月19日17:07:37
-17	https://de.wikipedia.org/wiki/Diamantknoten	2020年8月19日17:09:51
+13	https://de.wikipedia.org/wiki/Knoten_(Knüpfen)	2020年8月20日15:00:54
+	.1	https://de.wikipedia.org/wiki/Wurfknoten	2020年8月19日16:35:59
+	.2	https://de.wikipedia.org/wiki/Überhandknoten	2020年8月19日16:47:20
+	.3	https://de.wikipedia.org/wiki/Ashley-Stopperknoten	2020年8月19日16:49:40
+	.4	https://de.wikipedia.org/wiki/Türkischer_Bund	2020年8月19日17:07:37
+	.5	https://de.wikipedia.org/wiki/Diamantknoten	2020年8月19日17:09:51
+	.6	https://de.wikipedia.org/wiki/Roringstek	2020年8月20日15:01:53
+	.7	https://de.wikipedia.org/wiki/Arborknoten	2020年8月20日15:20:57
+	.8	https://de.wikipedia.org/wiki/Auf_Slip_legen	2020年8月20日15:34:24
+		.1	https://de.wikipedia.org/wiki/Slipstek	2020年8月20日15:35:09
+	.9	
+	.10	
+	.11	
 18	
 19	
 
