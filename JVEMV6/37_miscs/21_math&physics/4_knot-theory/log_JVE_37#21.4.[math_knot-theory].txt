@@ -89,8 +89,11 @@ M-1
 
 
 ===============================
+2020年8月22日18:03:53
 
-
+	==> memo
+	
+]18:30:45
 
 ===============================
 
@@ -143,9 +146,14 @@ M-1
 	.7	https://de.wikipedia.org/wiki/Arborknoten	2020年8月20日15:20:57
 	.8	https://de.wikipedia.org/wiki/Auf_Slip_legen	2020年8月20日15:34:24
 		.1	https://de.wikipedia.org/wiki/Slipstek	2020年8月20日15:35:09
-	.9	
-	.10	
-	.11	
+	.9	https://de.wikipedia.org/wiki/Fenderstek	2020年8月22日18:07:43
+	.10	https://de.wikipedia.org/wiki/Webeleinenstek#Fenderknoten_(Webeleinenstek_auf_Slip)	2020年8月22日18:29:51
+	.11	https://de.wikipedia.org/wiki/Rundtörn_mit_zwei_halben_Schlägen	2020年8月22日18:30:20
+	
+	.12	
+	.13	
+	.14	
+	.15	
 18	
 19	
 
