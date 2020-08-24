@@ -96,7 +96,20 @@ M-1
 ]18:30:45
 
 ===============================
+2020年8月23日13:52:27
 
+	==> no memo
+
+	up to : https://de.wikipedia.org/wiki/Datei:Barb._Fallreepsknoten_10.jpg
+	
+	
+	next : continue
+		https://de.wikipedia.org/wiki/Fallreepsknoten
+		order, M-19.2
+	
+]15:49:11
+
+	@@@
 
 
 ===============================
@@ -146,6 +159,11 @@ M-1
 	.7	https://de.wikipedia.org/wiki/Arborknoten	2020年8月20日15:20:57
 	.8	https://de.wikipedia.org/wiki/Auf_Slip_legen	2020年8月20日15:34:24
 		.1	https://de.wikipedia.org/wiki/Slipstek	2020年8月20日15:35:09
+		.2	https://de.wikipedia.org/wiki/Schotstek	2020年8月23日14:16:29
+		.3	https://de.wikipedia.org/wiki/Stopperstek	2020年8月23日14:16:41
+		.4	https://de.wikipedia.org/wiki/Anbindeknoten	2020年8月23日14:17:49
+			https://nl.wikipedia.org/wiki/Paardenknoop	2020年8月23日14:40:26
+		.5	
 	.9	https://de.wikipedia.org/wiki/Fenderstek	2020年8月22日18:07:43
 	.10	https://de.wikipedia.org/wiki/Webeleinenstek#Fenderknoten_(Webeleinenstek_auf_Slip)	2020年8月22日18:29:51
 	.11	https://de.wikipedia.org/wiki/Rundtörn_mit_zwei_halben_Schlägen	2020年8月22日18:30:20
@@ -154,10 +172,16 @@ M-1
 	.13	
 	.14	
 	.15	
-18	
-19	
-
-
-
+18	https://de.wikipedia.org/wiki/Knotenkunde	2020年8月23日15:02:16
+	
+19	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
+	.1	https://de.wikipedia.org/wiki/Fallreepsknoten	2020年8月23日15:44:25
+	.2	https://de.wikipedia.org/wiki/Kronenknoten	2020年8月23日15:44:00
+	.3	
+	.4	
+20	
+21	
+22	
+23	
 ===============================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
