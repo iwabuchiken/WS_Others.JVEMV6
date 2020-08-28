@@ -131,8 +131,11 @@ M-1
 @@@
 
 ===============================
+2020年8月26日16:58:41
 
+	==> m.
 
+]18:07:01
 
 ===============================
 
@@ -199,8 +202,15 @@ M-1
 18	https://de.wikipedia.org/wiki/Knotenkunde	2020年8月23日15:02:16
 	.1	https://de.wikipedia.org/wiki/Palstek	2020年8月24日15:30:16
 	.2	https://de.wikipedia.org/wiki/Rundtörn_mit_zwei_halben_Schlägen	2020年8月24日15:57:39
-	.3	
+	.3	https://de.wikipedia.org/wiki/Belegen	2020年8月26日17:08:41
+		.1	https://en.wikipedia.org/wiki/Cleat_(nautical)	2020年8月26日17:31:07
+			#1	"A line tied with a cleat "
+		.2	https://duckduckgo.com/?q=Belegen+auf+dem+Poller&iar=images&iax=images&ia=images	2020年8月26日17:59:17
+			.1	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	Pollerstek	2020年8月26日17:59:20
 	.4	
+	.5	
+	.6	
+	.7	
 19	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
 	.1	https://de.wikipedia.org/wiki/Fallreepsknoten	2020年8月23日15:44:25
 	.2	https://de.wikipedia.org/wiki/Kronenknoten	2020年8月23日15:44:00
