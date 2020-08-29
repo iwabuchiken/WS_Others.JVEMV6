@@ -146,8 +146,11 @@ M-1
 
 
 ===============================
+2020年8月29日13:25:47
 
+	==> m.
 
+]14:19:40
 
 ===============================
 
@@ -227,8 +230,11 @@ M-1
 	.4	https://de.wikipedia.org/wiki/Doppelter_Schotstek	2020年8月28日15:38:13
 	.5	https://de.wikipedia.org/wiki/Doppelter_Palstek	2020年8月28日15:45:44
 		.1	http://www.schlauesbuch.de/wiki/Doppelter_Palstek	2020年8月28日16:00:33
-	.6	
-	.7	
+	.6	https://de.wikipedia.org/wiki/Halbmastwurf	2020年8月29日13:47:12
+	.7	https://de.wikipedia.org/wiki/Prusikknoten	2020年8月29日14:06:58
+	.8	
+	.9	
+	
 19	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
 	.1	https://de.wikipedia.org/wiki/Fallreepsknoten	2020年8月23日15:44:25
 	.2	https://de.wikipedia.org/wiki/Kronenknoten	2020年8月23日15:44:00
