@@ -128,7 +128,7 @@ M-1
 ]18:30:44
 
 
-@@@
+
 
 ===============================
 2020年8月26日16:58:41
@@ -138,12 +138,26 @@ M-1
 ]18:07:01
 
 ===============================
+2020年8月28日14:53:01
+
+	==> m.
+	
+]16:33:29
+
+
+===============================
 
 
 
 ===============================
 
 
+
+===============================
+
+
+
+@@@
 
 [docs] ------------------------------------------------
 =========================================== MATERIALS
@@ -207,8 +221,12 @@ M-1
 			#1	"A line tied with a cleat "
 		.2	https://duckduckgo.com/?q=Belegen+auf+dem+Poller&iar=images&iax=images&ia=images	2020年8月26日17:59:17
 			.1	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	Pollerstek	2020年8月26日17:59:20
-	.4	
-	.5	
+				.1	Pützenstek	2020年8月28日15:17:59
+				.2	Balkenstek	2020年8月28日15:22:45
+
+	.4	https://de.wikipedia.org/wiki/Doppelter_Schotstek	2020年8月28日15:38:13
+	.5	https://de.wikipedia.org/wiki/Doppelter_Palstek	2020年8月28日15:45:44
+		.1	http://www.schlauesbuch.de/wiki/Doppelter_Palstek	2020年8月28日16:00:33
 	.6	
 	.7	
 19	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
@@ -216,7 +234,13 @@ M-1
 	.2	https://de.wikipedia.org/wiki/Kronenknoten	2020年8月23日15:44:00
 	.3	https://de.wikipedia.org/wiki/Wandknoten	2020年8月24日14:48:38
 	.4	
-20	
+20	interessante Seiten
+	.1	http://www.schiffsmodellbaufreunde.de/Lexikon/Knoten/Knoten.htm	2020年8月28日15:15:37
+	.2	https://knoten-knuepfen.de/	2020年8月28日15:59:17
+	.3	http://trucktorack.blog.fc2.com/blog-entry-602.html	2020年8月28日16:00:59	軽トラックのロープワークの種類や結び方 
+	.4	https://duckduckgo.com/?q=バケツ+結び&iar=images&iax=images&ia=images&iai=https://i.ytimg.com/vi/qGsWJHIe5m0/hqdefault.jpg	2020年8月28日16:01:36
+	.5	https://www.youtube.com/watch?v=qaWi03q4ziU	2020年8月28日16:29:08	Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik
+	.6	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	2020年8月28日16:36:46
 21	
 22	
 23	
