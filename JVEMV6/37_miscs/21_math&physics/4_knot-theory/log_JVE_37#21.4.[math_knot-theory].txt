@@ -153,10 +153,28 @@ M-1
 ]14:19:40
 
 ===============================
+2020年8月30日12:54:00
+
+	
+	n:
+		https://de.wikipedia.org/wiki/Auf_Slip_legen
+		order, https://de.wikipedia.org/wiki/Liste_von_Knoten ==> sort by "Basisknoten"
+		order, review ==> basics
+			palstek. usw. --> https://de.wikipedia.org/wiki/Knotenkunde#Prüfung
+
+
+]15:25:48
+
+===============================
 
 
 
 ===============================
+
+
+
+===============================
+
 
 
 
@@ -232,7 +250,11 @@ M-1
 		.1	http://www.schlauesbuch.de/wiki/Doppelter_Palstek	2020年8月28日16:00:33
 	.6	https://de.wikipedia.org/wiki/Halbmastwurf	2020年8月29日13:47:12
 	.7	https://de.wikipedia.org/wiki/Prusikknoten	2020年8月29日14:06:58
-	.8	
+	.8	Sackstich
+		.1	http://www.schlauesbuch.de/wiki/Sackstich	2020年8月30日13:18:02
+		.2	https://de.wikipedia.org/wiki/Sackstich	2020年8月30日13:18:10
+		.3	https://de.wikibooks.org/wiki/Knotenkunde_–_Knotenfibel_für_Outdoor-Aktivitäten#Sackstich	2020年8月30日13:57:34
+		
 	.9	
 	
 19	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
@@ -244,9 +266,20 @@ M-1
 	.1	http://www.schiffsmodellbaufreunde.de/Lexikon/Knoten/Knoten.htm	2020年8月28日15:15:37
 	.2	https://knoten-knuepfen.de/	2020年8月28日15:59:17
 	.3	http://trucktorack.blog.fc2.com/blog-entry-602.html	2020年8月28日16:00:59	軽トラックのロープワークの種類や結び方 
+		.1	南京結び(トラック結び) 	2020年8月30日14:24:41
+			.1	https://duckduckgo.com/?q=南京結び&iar=images&iax=images&ia=images&iai=https://rentacar.carlifestadium.com/blog/wp-content/uploads/2019/09/rope_knotting-2.jpg	2020年8月30日14:25:29
+			.2	https://www.youtube.com/watch?v=rw3F3-50XIs	2020年8月30日14:39:41	studio performance
+			.3	https://www.youtube.com/watch?v=ixW4fVRQXZU	2020年8月30日14:39:38	actual performance, not fully proceeded
+		.2	外科結び
+			.1	https://duckduckgo.com/?q=外科結び&iar=images&iax=images&ia=images	2020年8月30日14:53:02
+			.2	https://www.wholenotism.com/blog/2019/03/how-to-use-dental-floss.html	2020年8月30日14:57:28
+			.3	https://blog.goo.ne.jp/equinedoc/e/63394836f81c8f90ea8d0a3ebbf29c43	2020年8月30日15:20:35	必要のないときは外科結びしない方が良い
+			
 	.4	https://duckduckgo.com/?q=バケツ+結び&iar=images&iax=images&ia=images&iai=https://i.ytimg.com/vi/qGsWJHIe5m0/hqdefault.jpg	2020年8月28日16:01:36
 	.5	https://www.youtube.com/watch?v=qaWi03q4ziU	2020年8月28日16:29:08	Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik
 	.6	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	2020年8月28日16:36:46
+	.7	https://duckduckgo.com/?q=自転車+荷台+結び方&iar=images&iax=images&ia=images	2020年8月30日15:21:56
+	
 21	
 22	
 23	
