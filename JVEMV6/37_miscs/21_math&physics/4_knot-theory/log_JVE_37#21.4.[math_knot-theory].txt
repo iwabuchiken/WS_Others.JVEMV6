@@ -280,7 +280,9 @@ M-1
 	.6	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	2020年8月28日16:36:46
 	.7	https://duckduckgo.com/?q=自転車+荷台+結び方&iar=images&iax=images&ia=images	2020年8月30日15:21:56
 	
-21	
+21	discrete selections
+	.1	https://ko.wikipedia.org/wiki/고리_(매듭)	2020年8月31日8:48:47
+	.2	https://ko.wikipedia.org/wiki/교수인의_매듭	2020年8月31日9:18:38
 22	
 23	
 ===============================
