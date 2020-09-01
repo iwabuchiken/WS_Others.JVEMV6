@@ -166,7 +166,24 @@ M-1
 ]15:25:48
 
 ===============================
+2020年8月31日13:57:06
 
+	rev: https://de.wikipedia.org/wiki/Knotenkunde#Prüfung
+		#palstek	https://de.wikipedia.org/wiki/Palstek
+		#schotstek	https://de.wikipedia.org/wiki/Schotstek
+		#Webeleinenstek	https://de.wikipedia.org/wiki/Webeleinenstek
+			#1.	um einen runden Gegenstand 
+			#2.	Mit halbem Schlag um Stamm gesichert 
+			#3.	Gesichert mit zwei halben Schlägen um das Seil 
+			#4.	Legen am Pfahl 
+		#Belegen auf der Klampe	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php#poll
+		
+	
+	n:
+		rev (this time)
+		or, other new knoten
+
+]15:10:43
 
 
 ===============================
@@ -244,6 +261,7 @@ M-1
 			.1	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	Pollerstek	2020年8月26日17:59:20
 				.1	Pützenstek	2020年8月28日15:17:59
 				.2	Balkenstek	2020年8月28日15:22:45
+		.3	https://deacademic.com/dic.nsf/dewiki/152524	2020年8月31日14:46:29	<== visual
 
 	.4	https://de.wikipedia.org/wiki/Doppelter_Schotstek	2020年8月28日15:38:13
 	.5	https://de.wikipedia.org/wiki/Doppelter_Palstek	2020年8月28日15:45:44
@@ -278,6 +296,7 @@ M-1
 	.4	https://duckduckgo.com/?q=バケツ+結び&iar=images&iax=images&ia=images&iai=https://i.ytimg.com/vi/qGsWJHIe5m0/hqdefault.jpg	2020年8月28日16:01:36
 	.5	https://www.youtube.com/watch?v=qaWi03q4ziU	2020年8月28日16:29:08	Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik
 	.6	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	2020年8月28日16:36:46
+		.1	Pollerstek	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php#poll	2020年8月31日14:41:35
 	.7	https://duckduckgo.com/?q=自転車+荷台+結び方&iar=images&iax=images&ia=images	2020年8月30日15:21:56
 	
 21	discrete selections
