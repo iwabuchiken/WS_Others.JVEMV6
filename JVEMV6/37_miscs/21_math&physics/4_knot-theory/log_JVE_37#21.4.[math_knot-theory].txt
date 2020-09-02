@@ -187,6 +187,44 @@ M-1
 
 
 ===============================
+2020年9月1日14:43:10
+
+	#rev: https://de.wikipedia.org/wiki/Knotenkunde#Prüfung
+		palstek	https://de.wikipedia.org/wiki/Palstek
+		schotstek	https://de.wikipedia.org/wiki/Schotstek
+		Webeleinenstek	https://de.wikipedia.org/wiki/Webeleinenstek
+			1.	um einen runden Gegenstand 
+			2.	Mit halbem Schlag um Stamm gesichert 
+			3.	Gesichert mit zwei halben Schlägen um das Seil 
+			4.	Legen am Pfahl 
+		Belegen auf der Klampe	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php#poll
+	
+	#~rev:
+		南京結び
+		
+	
+	#new:
+		https://de.wikipedia.org/wiki/Palstek#Knüpfvariante	2020年9月1日15:36:33	==> M-18.1.1
+		
+		https://de.wikipedia.org/wiki/Palstek#Abwandlungen
+			Wasserpalstek
+				https://www.skipperguide.de/wiki/Wasserpalstek
+			
+	
+	n:
+		南京結び
+		https://de.wikipedia.org/wiki/Palstek#Abwandlungen
+		ANY
+	
+	:2020年9月1日
+
+
+
+===============================
+
+
+
+===============================
 
 
 
@@ -253,6 +291,8 @@ M-1
 	.15	
 18	https://de.wikipedia.org/wiki/Knotenkunde	2020年8月23日15:02:16
 	.1	https://de.wikipedia.org/wiki/Palstek	2020年8月24日15:30:16
+		.1	https://de.wikipedia.org/wiki/Palstek#Knüpfvariante	2020年9月1日15:35:09
+		.2	https://www.skipperguide.de/wiki/Wasserpalstek	2020年9月1日16:00:47
 	.2	https://de.wikipedia.org/wiki/Rundtörn_mit_zwei_halben_Schlägen	2020年8月24日15:57:39
 	.3	https://de.wikipedia.org/wiki/Belegen	2020年8月26日17:08:41
 		.1	https://en.wikipedia.org/wiki/Cleat_(nautical)	2020年8月26日17:31:07
