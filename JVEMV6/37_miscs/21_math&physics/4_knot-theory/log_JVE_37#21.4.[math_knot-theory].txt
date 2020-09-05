@@ -249,6 +249,23 @@ M-1
 ]15:20:24
 
 ===============================
+2020年9月4日13:28:32
+	
+	#南京結び	M-21.4.3
+	https://www.youtube.com/watch?v=drkcOzCjuuU
+	
+	
+	n: バケツ結び	20.4	https://duckduckgo.com/?q=バケツ+結び&iar=images
+
+]15:10:22
+
+===============================
+
+
+
+
+===============================
+
 
 
 
@@ -371,12 +388,16 @@ M-1
 				4:24 二重南京結び
 		
 		.3	https://www.youtube.com/watch?v=drkcOzCjuuU	2020年9月2日16:38:07
+			0:45	clove hitch
+			1:20 truckie's hitch
+			
 		.4	https://www.youtube.com/watch?v=zcwYwmBWD7Y	2020年9月2日16:38:19
 		.5	
 22	
 23	
 =============================== closing : 2020年9月2日17:00:14
 1.	git
+2.	photo	==> memo
 2.	close
 	1. image file
 	2. browser pages
