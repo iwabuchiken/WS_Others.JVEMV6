@@ -414,4 +414,4 @@ M-1
 
 
 ===============================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+r oj && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat

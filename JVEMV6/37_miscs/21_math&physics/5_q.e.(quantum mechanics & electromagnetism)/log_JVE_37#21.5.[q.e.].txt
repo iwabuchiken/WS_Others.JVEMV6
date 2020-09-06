@@ -1,0 +1,51 @@
+===============================
+2020年9月6日14:47:47
+	
+	37#21.5_2
+
+	M-1
+	
+	n: M-1 / #4 https://en.wikipedia.org/wiki/Quantum_superposition#Theory
+
+]15:19:21
+
+
+===============================
+
+
+
+
+=============================== MATERIALS 2020年9月6日14:53:05
+1.	https://en.wikipedia.org/wiki/Quantum_superposition		
+		
+		#1	~: more other distinct states.
+		#1.1	~: to classical logic by a measurement. "
+		#2	Contrary to a classical bit
+		#3	The principle of quantum superposition states
+		#3.1	The principle was described
+		#3.2	The non-classical nature of the
+		#3.3	he superposition of amplitudes
+		
+		#4	https://en.wikipedia.org/wiki/Quantum_superposition#Theory	2020年9月6日15:19:12
+2.	
+3.	
+4.	
+5.	
+6.	
+
+
+
+
+
+=============================== closing : 2020年9月2日17:00:14
+1.	git
+2.	photo	==> memo
+2.	close
+	1. image file
+	2. browser pages
+	3. folders
+	4. this
+
+
+===============================
+r oj && git add . && git commit -m "(WS_Others.JVEMV6 : JVE_37#21.5.[q.e.]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
