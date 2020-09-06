@@ -270,6 +270,30 @@ M-1
 ]18:14:46
 	
 ===============================
+2020年9月6日16:39:47
+
+	m.
+
+	n: 
+		1. knoten-related
+		2. 飾り結び
+
+]16:41:55
+
+===============================
+
+
+
+
+
+===============================
+
+
+
+
+
+===============================
+
 
 
 
@@ -279,26 +303,26 @@ M-1
 
 [docs] ------------------------------------------------
 =========================================== MATERIALS
-1	http://sites.oglethorpe.edu/knottheory/introduction/
+1.	http://sites.oglethorpe.edu/knottheory/introduction/
 		#1 Knots have some properties 
 		#2 6) Close cousins 
-2	http://pi.math.cornell.edu/~mec/2008-2009/HoHonLeung/page1_knots.htm
-3	https://mathlyblog.wordpress.com/2015/11/21/매듭이론knot-theory/
-4	https://ja.wikipedia.org/wiki/もやい結び
-5	http://www4.kcn.ne.jp/~goluvill/rope/rope.html
+2.	http://pi.math.cornell.edu/~mec/2008-2009/HoHonLeung/page1_knots.htm
+3.	https://mathlyblog.wordpress.com/2015/11/21/매듭이론knot-theory/
+4.	https://ja.wikipedia.org/wiki/もやい結び
+5.	http://www4.kcn.ne.jp/~goluvill/rope/rope.html
 		ロープ同士をつなぎ合わせる	#1
 		対象物に直接結び付けずに、	#2
 		ロープの末端同士を結びます	#3
 		棒を十字に結ぶ				#4
 		新聞を束ねる				#5
-6	https://ja.wikipedia.org/wiki/Category:結び目
-7	https://web.archive.org/web/20080204085825/http://www.animatedknots.com/rollinghitchboating/index.php?LogoImage=LogoGrog.jpg&Website=www.animatedknots.com
-8	https://zh.wikipedia.org/zh-cn/稱人結
-9	https://zh.wikipedia.org/wiki/八字結
+6.	https://ja.wikipedia.org/wiki/Category:結び目
+7.	https://web.archive.org/web/20080204085825/http://www.animatedknots.com/rollinghitchboating/index.php?LogoImage=LogoGrog.jpg&Website=www.animatedknots.com
+8.	https://zh.wikipedia.org/zh-cn/稱人結
+9.	https://zh.wikipedia.org/wiki/八字結
 	.1	https://de.wikipedia.org/wiki/Achtknoten
 	.2	https://pl.wikipedia.org/wiki/Ósemka_(węzeł)
 	.3	https://ja.wikipedia.org/wiki/8の字結び
-10	https://news.livedoor.com/article/detail/10616830/ 自在結び
+10.	https://news.livedoor.com/article/detail/10616830/ 自在結び
 	s: https://duckduckgo.com/?q=８の字結び&iar=images&iax=images&ia=images&iai=http://www.machida-ito.co.jp/school/images/les01_map03.jpg
 		自在結び／知っていると	#1
 		トラッカーズヒッチ／ここまで	#2
@@ -306,9 +330,9 @@ M-1
 	
 	.1	https://ja.wikipedia.org/wiki/自在結び	2020年8月25日18:30:03
 	
-11	https://zh.wikipedia.org/wiki/雙套結
-12	https://de.wikipedia.org/wiki/Liste_von_Knoten	2020年8月19日16:35:26
-13	https://de.wikipedia.org/wiki/Knoten_(Knüpfen)	2020年8月20日15:00:54
+11.	https://zh.wikipedia.org/wiki/雙套結
+12.	https://de.wikipedia.org/wiki/Liste_von_Knoten	2020年8月19日16:35:26
+13.	https://de.wikipedia.org/wiki/Knoten_(Knüpfen)	2020年8月20日15:00:54
 	.1	https://de.wikipedia.org/wiki/Wurfknoten	2020年8月19日16:35:59
 	.2	https://de.wikipedia.org/wiki/Überhandknoten	2020年8月19日16:47:20
 	.3	https://de.wikipedia.org/wiki/Ashley-Stopperknoten	2020年8月19日16:49:40
@@ -331,7 +355,7 @@ M-1
 	.13	
 	.14	
 	.15	
-18	https://de.wikipedia.org/wiki/Knotenkunde	2020年8月23日15:02:16
+18.	https://de.wikipedia.org/wiki/Knotenkunde	2020年8月23日15:02:16
 	.1	https://de.wikipedia.org/wiki/Palstek	2020年8月24日15:30:16
 		.1	https://de.wikipedia.org/wiki/Palstek#Knüpfvariante	2020年9月1日15:35:09
 		.2	https://www.skipperguide.de/wiki/Wasserpalstek	2020年9月1日16:00:47
@@ -357,19 +381,19 @@ M-1
 		
 	.9	
 	
-19	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
+19.	https://de.wikipedia.org/wiki/Stopperknoten	2020年8月23日15:42:13
 	.1	https://de.wikipedia.org/wiki/Fallreepsknoten	2020年8月23日15:44:25
 	.2	https://de.wikipedia.org/wiki/Kronenknoten	2020年8月23日15:44:00
 	.3	https://de.wikipedia.org/wiki/Wandknoten	2020年8月24日14:48:38
 	.4	
-20	interessante Seiten
+20.	interessante Seiten
 	.1	http://www.schiffsmodellbaufreunde.de/Lexikon/Knoten/Knoten.htm	2020年8月28日15:15:37
 	.2	https://knoten-knuepfen.de/	2020年8月28日15:59:17
 	.3	http://trucktorack.blog.fc2.com/blog-entry-602.html	2020年8月28日16:00:59	軽トラックのロープワークの種類や結び方 
-		.1	南京結び(トラック結び) 	2020年8月30日14:24:41
-			.1	https://duckduckgo.com/?q=南京結び&iar=images&iax=images&ia=images&iai=https://rentacar.carlifestadium.com/blog/wp-content/uploads/2019/09/rope_knotting-2.jpg	2020年8月30日14:25:29
-			.2	https://www.youtube.com/watch?v=rw3F3-50XIs	2020年8月30日14:39:41	studio performance
-			.3	https://www.youtube.com/watch?v=ixW4fVRQXZU	2020年8月30日14:39:38	actual performance, not fully proceeded
+		#.1	南京結び(トラック結び) 	2020年8月30日14:24:41
+			#.1	https://duckduckgo.com/?q=南京結び&iar=images&iax=images&ia=images&iai=https://rentacar.carlifestadium.com/blog/wp-content/uploads/2019/09/rope_knotting-2.jpg	2020年8月30日14:25:29
+			#.2	https://www.youtube.com/watch?v=rw3F3-50XIs	2020年8月30日14:39:41	studio performance
+			#.3	https://www.youtube.com/watch?v=ixW4fVRQXZU	2020年8月30日14:39:38	actual performance, not fully proceeded	"万力結び（南京結び）の解説　　株式会社栄興運"
 		.2	外科結び
 			.1	https://duckduckgo.com/?q=外科結び&iar=images&iax=images&ia=images	2020年8月30日14:53:02
 			.2	https://www.wholenotism.com/blog/2019/03/how-to-use-dental-floss.html	2020年8月30日14:57:28
@@ -377,32 +401,51 @@ M-1
 			
 	.4	https://duckduckgo.com/?q=バケツ+結び&iar=images&iax=images&ia=images&iai=https://i.ytimg.com/vi/qGsWJHIe5m0/hqdefault.jpg	2020年8月28日16:01:36
 		.1	https://www.youtube.com/watch?v=zVRKbpYri1g	2020年9月5日17:34:53
-		.2	https://www.youtube.com/watch?v=qGsWJHIe5m0	2020年9月5日17:39:41	"ロープ 結び方　引きとけ結び　(ロープワーク講座)"
+		#.2	https://www.youtube.com/watch?v=qGsWJHIe5m0	2020年9月5日17:39:41	"ロープ 結び方　引きとけ結び　(ロープワーク講座)"
 	.5	https://www.youtube.com/watch?v=qaWi03q4ziU	2020年8月28日16:29:08	Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik
 	.6	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php	2020年8月28日16:36:46
 		.1	Pollerstek	https://www.wassersportzentrum-oranienburg.de/schule/knoten/schule_knoten.php#poll	2020年8月31日14:41:35
 	.7	https://duckduckgo.com/?q=自転車+荷台+結び方&iar=images&iax=images&ia=images	2020年8月30日15:21:56
 	
-21	discrete selections
-	.1	https://ko.wikipedia.org/wiki/고리_(매듭)	2020年8月31日8:48:47
-	.2	https://ko.wikipedia.org/wiki/교수인의_매듭	2020年8月31日9:18:38
+21.	discrete selections
+	#.1	https://ko.wikipedia.org/wiki/고리_(매듭)	2020年8月31日8:48:47
+	#.2	https://ko.wikipedia.org/wiki/교수인의_매듭	2020年8月31日9:18:38
 	.3	at youtube
-		.1	https://www.youtube.com/watch?v=rXZ3JyeS5F8	2020年9月2日15:57:44	"知っておくと便利！結束結び！紹介します"
+		#.1	https://www.youtube.com/watch?v=rXZ3JyeS5F8	2020年9月2日15:57:44	"知っておくと便利！結束結び！紹介します"
+		.2	https://www.youtube.com/watch?v=3i3Ff3gY10M	"叶結び　飾り結び"	2020年9月6日16:21:12
+			0:39
+			~3:10	2020年9月6日16:39:30
+			
+		.3	https://www.youtube.com/watch?v=SJVJJVHLSSQ	2020年9月6日16:21:33	"クローバーノット　飾り結び"
+		.4	
+		.5
+		
 	.4	南京結び
 		#.1	https://www.youtube.com/watch?v=ixW4fVRQXZU	2020年9月2日16:37:36
 		#.2	https://www.youtube.com/watch?v=N40DqZP1gIc	2020年9月2日16:38:00
 				2:00~
 				4:24 二重南京結び
 		
-		.3	https://www.youtube.com/watch?v=drkcOzCjuuU	2020年9月2日16:38:07
+		#.3	https://www.youtube.com/watch?v=drkcOzCjuuU	2020年9月2日16:38:07
 			0:45	clove hitch
 			1:20 truckie's hitch
 			
-		.4	https://www.youtube.com/watch?v=zcwYwmBWD7Y	2020年9月2日16:38:19
+		#.4	https://www.youtube.com/watch?v=zcwYwmBWD7Y	2020年9月2日16:38:19
 		.5	
 	.5	https://www.youtube.com/watch?v=HLNMqKWkW7U	2020年9月5日18:14:16	"星の形が作れるひもの結び方 　スターノット　飾り結び　パラコード"
-22	
-23	
+		0:40~
+		~1:38	一くぐり目
+		~2:33 4つ目まで
+		3:12	2本目
+		~14.23
+22.	飾り結び
+	.1	https://www.youtube.com/watch?v=dI8j_GrQ7SE	2020年9月6日16:41:07	"受用一生的13种绳结技巧，用于连接粗绳细线都很牢固，赶紧学起来"
+	.2	
+	.3	
+	.4	
+	.5	
+	.6	
+23.	
 =============================== closing : 2020年9月2日17:00:14
 1.	git
 2.	photo	==> memo
