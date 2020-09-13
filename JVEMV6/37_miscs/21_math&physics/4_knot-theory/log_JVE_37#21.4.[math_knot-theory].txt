@@ -632,7 +632,8 @@ JVEMV6 37#21.4_54
 	1. image file
 	2. browser pages
 	3. folders
-	4. this
+	4. freemind
+	5. this
 
 
 ===============================
