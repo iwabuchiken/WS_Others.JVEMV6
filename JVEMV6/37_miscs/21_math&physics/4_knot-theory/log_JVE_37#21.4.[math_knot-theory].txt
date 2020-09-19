@@ -471,10 +471,17 @@ JVEMV6 37#21.4_54
 
 @@@
 ===============================
+2020年9月19日13:07:17
 
+	1. Kreuzbund https://de.wikipedia.org/wiki/Liste_von_Knoten#Die_sortierbare_Liste_der_Knoten
+			==> mm : 11.1
+			==> : 13.1.2	<= this
 
+	n:
+		list mm:11.1 ==> "Bund" --> further
+		also, mm:13.1.2-3 ==> links
 
-
+]14:04:24
 
 
 ===============================
