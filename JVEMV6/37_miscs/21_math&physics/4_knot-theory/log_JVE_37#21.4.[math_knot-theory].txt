@@ -571,6 +571,23 @@ JVEMV6 37#21.4_54
 
 @@@
 ===============================
+2020年9月27日16:03:23
+
+	#1. rev : もやい結び：片手	7.1.4.1
+	
+	2. rev : ドックヒッチ	7.2.1 ==> 重量物を吊ったり引き摺り出したりするときに便利なドック･ヒッチ (Masaos Dock Hitch) <https://www.youtube.com/watch?v=j5CxCgIf6vY>
+		
+		#左から通し
+		#右から゛
+	
+	3. new : 11.2.1
+		1. 8 Essential Camp Knots and Hitches That You Need to Know <https://www.youtube.com/watch?v=eJFxLzZepRY&list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf&index=1>
+	
+	
+	n:
+		1. 11.2.1 : 3:24~
+			8 Essential Camp Knots and Hitches That You Need to Know <https://www.youtube.com/watch?v=eJFxLzZepRY&list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf&index=1>
+		
 
 
 
