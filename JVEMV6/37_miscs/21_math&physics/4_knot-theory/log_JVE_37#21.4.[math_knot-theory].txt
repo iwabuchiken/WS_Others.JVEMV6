@@ -617,6 +617,40 @@ JVEMV6 37#21.4_54
 
 
 ===============================
+2020年9月30日13:16:01
+
+	1. rev	11.2.1 : 6:36~	jam knot
+		8 Essential Camp Knots and Hitches That You Need to Know <https://www.youtube.com/watch?v=eJFxLzZepRY&list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf&index=1>
+	
+	2. 11.2.3
+		3. My Hitches Lashes and Knots Part 1 <https://www.youtube.com/watch?v=8YNugDqi6ik&list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf&index=3>
+		
+		2:45~
+		
+		3:29 trucker's hitch
+
+	n:
+		4:40~
+
+]14:12:21
+
+===============================
+
+
+
+
+
+
+
+===============================
+
+
+
+
+
+
+
+===============================
 
 
 
@@ -852,4 +886,4 @@ JVEMV6 37#21.4_54
 
 
 ===============================
-r oj && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && r oj && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
