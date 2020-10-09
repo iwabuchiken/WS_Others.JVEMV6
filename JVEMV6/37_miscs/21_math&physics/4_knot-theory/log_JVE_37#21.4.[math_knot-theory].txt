@@ -701,7 +701,7 @@ JVEMV6 37#21.4_54
 		2. hammocks <https://www.youtube.com/playlist?list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ>
 
 
-@@@
+
 ===============================
 2020年10月8日17:05:03
 
@@ -714,6 +714,21 @@ JVEMV6 37#21.4_54
 ]18:23:45
 
 ===============================
+2020年10月9日17:37:52
+
+	1. hammocks <https://www.youtube.com/playlist?list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ>
+	
+		7:07 prusik
+
+	2. 2. The Shelter-Half Hammock <https://www.youtube.com/watch?v=N0G7RJRMzF4&list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&index=8>		:mm-11.2.4.2.2
+	
+	
+	n:
+		3. The Emergency Stretcher <https://www.youtube.com/watch?v=Y-W-W_EIVLQ&list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&index=9>
+
+]18:33:04
+
+===============================
 
 
 
@@ -726,8 +741,13 @@ JVEMV6 37#21.4_54
 
 
 
+===============================
 
 
+
+
+
+@@@
 [docs] ------------------------------------------------
 =========================================== MATERIALS
 1.	http://sites.oglethorpe.edu/knottheory/introduction/
