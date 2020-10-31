@@ -5,6 +5,20 @@
 
 
 ================================ 
+2020年10月30日16:11:20
+
+	1. programming
+		C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\37_21.9_math-physics\37_21.9_math-physics.php
+	
+		ref : https://www.nli-research.co.jp/report/detail/id=52138?site=nli	:mm.doc-2.3. ランダムかどうかの判断 <https://www.nli-research.co.jp/report/detail/id=52138?site=nli>
+
+	n: //next:20201030_163448
+		test_1() (C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\37_21.9_math-physics\37_21.9_math-physics.php)
+			1. to a func
+			2. return ==> 
+				array of 0,1
+				stat vals
+
 
 
 @@@
