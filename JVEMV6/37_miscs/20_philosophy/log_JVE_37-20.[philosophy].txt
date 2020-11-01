@@ -235,11 +235,37 @@ res free# JVEMV6 37#20_10 / 37. miscs / 20. philosophy / 20191219_134225
 
 	
 
+
+===============================
+2020年11月1日18:06:52
+
+	37#20.4.1	ガダルカナル島の戦い
+	session-1
+	
+	==> OK
+
+]18:07:23
+
+===============================
+
+
+
+
 @@@
 ===============================
 
 
+
+
 ===============================
+
+
+
+
+===============================
+
+
+
 
 --------------------------------------
 
@@ -269,7 +295,4 @@ res free# JVEMV6 37#20_10 / 37. miscs / 20. philosophy / 20191219_134225
 :ref	refered document
 
 -------------------------------------- resources
-C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:37_miscs:20_philosophy) periodical updates" && e && git push origin master
-
-
-========================= EOF =========================
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:37_miscs:20_philosophy) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
