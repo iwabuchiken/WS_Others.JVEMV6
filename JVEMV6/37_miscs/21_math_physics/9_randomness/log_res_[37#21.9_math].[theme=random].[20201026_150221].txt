@@ -19,12 +19,44 @@
 				array of 0,1
 				stat vals
 
-
-
 @@@
 ================================ 
+2020年10月31日17:02:34
 
+37#21.9_3
 
+	1. programming : C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\37_21.9_math-physics\37_21.9_math-physics.php
+	
+		1. to a func
+			#1. DUP : get_Wilcockson_Data
+			#2. time string
+				//head:20201031_171036
+			3. description lines
+			4. TEST
+				==> OK
+		2. return vals	::[17:13:52
+			1. "step : 3", //code:20201031_171441
+		
+		3. receiver lines : //code:20201031_171707
+			1. ==> OK
+		
+	2. spreadsheet
+		1. res_[37#21.9_math].[theme=random].[session-1~].ods (C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\21_math_physics\9_randomness)
+			1. sheet "2"
+			
+			
+			
+			SEG-1	::[17:09:59
+			1. search : "wilcockson randomness"
+				==> wilcoxon
+		==> OK
+
+	n:
+		add stat
+		==> see memo
+		//next:20201031_182057
+
+]18:16:30
 
 ================================ 
 
