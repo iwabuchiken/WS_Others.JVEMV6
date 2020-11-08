@@ -1,0 +1,70 @@
+================================
+2020年11月8日16:13:24
+
+	1. audio files ==> from mob to
+		from : mobile
+			birds_34_komadori
+		to : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\52_nature-observation\7_birds
+	
+	2. file ==> open with : audacity	::[16:15:05
+		1. コマドリの囀り.mp3
+		2. make a copy ==> for work
+			コマドリの囀り.[copy-20201108_161802].mp3
+		3. select ==> range
+			0.785 - 1.578 / 0.793
+		#4. exp: half-fast play : 0.5
+		5. exp: slower play : 0.2
+			1. Af.4 - F x 9
+			2. Af.4 ==> 0.785 - .939 / 0.154
+			3. F x 9 ==> (0.793 - 0.154) / 9 = 0.071
+			4. 1000 (milsec) / (0.071*1000) =~ 14.08 =~ 14 Hz
+		6. normal speed
+			1. C5 - Bf4(?)
+
+	n:	ANY
+
+]16:36:14
+
+@@@
+================================
+
+
+
+
+================================
+
+
+
+
+================================
+
+
+
+
+
+------------------------------------------
+
+
+
+------------------------------------------ DOCS (Materials)
+
+
+-------------------------------------- TOPICS
+
+
+-------------------------------------- SYMBOLS	20200327_163426
+#	complete	
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+------------------------------------------ SEARCHES
+
+
+------------------------------------------ CLOSING
+
+C:\WORKS_2\a && r oj && git add . && git commit -m "(log_JVE_52.[nature-observation]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
