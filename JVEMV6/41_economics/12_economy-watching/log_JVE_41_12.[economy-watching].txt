@@ -1,0 +1,85 @@
+========================= 
+2020年11月28日13:58:20
+	
+	1. gold : price
+		https://markets.businessinsider.com/commodities/gold-price?op=1
+		
+			1,788.5		usd
+	
+	2. crude oil
+		https://markets.businessinsider.com/commodities/oil-price?type=wti&op=1
+		
+			45.52
+	
+	3. silver metal
+		https://markets.businessinsider.com/commodities/silver-price?op=1
+		
+			22.70
+	
+	4. ratios
+	
+		gold/silver
+			1,788.5 / 22.70		= 78.78854625550661
+		
+		gold / crude oil
+			1,788.5 / 45.52		= 39.29042179261863
+	
+	n:
+		==> ANY
+	
+	]14:38:51
+
+========================= 
+
+
+
+
+@@@
+========================= 
+
+
+
+
+
+========================= 
+
+
+
+
+========================= 
+
+
+
+
+--------------------------------------
+
+-------------------------------------- TOPICS
+
+
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+------------------------------------------ DOCS (Materials)
+
+
+
+-------------------------------------- SEARCHES
+
+
+
+-------------------------------------- resources
+
+-------------------------------------- resources : stats
+https://www.j-credit.or.jp/information/statistics/ クレジット関連統計 2020年2月24日15:14:35
+
+
+
+======================= EOF =======================
+C:\WORKS_2\a && r oj && git add . && git commit -m "(log_JVE_41_12.[economy-watching]) periodical updates" && e && git push origin master
