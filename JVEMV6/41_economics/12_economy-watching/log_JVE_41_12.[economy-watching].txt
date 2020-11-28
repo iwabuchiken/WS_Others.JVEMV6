@@ -1,6 +1,8 @@
 ========================= 
 2020年11月28日13:58:20
 	
+	41#12.economy-watching/1. topics / s-1
+	
 	1. gold : price
 		https://markets.businessinsider.com/commodities/gold-price?op=1
 		
@@ -79,7 +81,14 @@
 -------------------------------------- resources : stats
 https://www.j-credit.or.jp/information/statistics/ クレジット関連統計 2020年2月24日15:14:35
 
-
+41_12.economy-watching/1. topics / s-1
 
 ======================= EOF =======================
+C:\WORKS_2\a
+set msg="41_12.economy-watching/1. topics / s-1"
+r oj
+
+g a . && g c -m "(log_JVE_41_12.[economy-watching]) periodical updates : %msg%"  && e && git push origin master
+
+
 C:\WORKS_2\a && r oj && git add . && git commit -m "(log_JVE_41_12.[economy-watching]) periodical updates" && e && git push origin master
