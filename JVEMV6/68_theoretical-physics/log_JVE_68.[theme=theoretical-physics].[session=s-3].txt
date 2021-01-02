@@ -1,0 +1,50 @@
+===============================
+2020年12月28日17:27:38
+
+	1. new file
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\1_start\1_1.py
+		
+	2. test
+		pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\1_start
+		python 1_1.py
+		
+		==> OK	::]2020年12月28日17:34:31
+	
+	3. test : actual code
+		#1. C/P
+		#2. replace chars
+		
+		==> ERROR : "NameError: name 'ax' is not defined"
+			1. fix
+			2. re-test ==> OK ::]2020年12月28日17:40:22
+		
+
+
+@@@
+===============================
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(log_JVE_68.[theme=theoretical-physics]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
