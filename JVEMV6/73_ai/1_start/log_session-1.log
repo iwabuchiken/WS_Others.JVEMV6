@@ -1,0 +1,100 @@
+
+[1_1.py:79] starting : test_1_statistics
+
+[1_1.py:79] starting : test_1_statistics
+ModeResult(mode=array([86]), count=array([3]))
+87.0
+89.7692307692
+[1_1.py:112] exec_prog => done
+
+[1_1.py:147] all done
+
+[1_1.py:79] starting : test_1_statistics
+ModeResult(mode=array([86]), count=array([3]))
+x_median :  87.0
+x_mean :  89.7692307692
+[1_1.py:114] exec_prog => done
+
+[1_1.py:149] all done
+
+[1_1.py:79] starting : test_1_statistics
+
+speed :  [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
+
+ModeResult(mode=array([86]), count=array([3]))
+x_median :  87.0
+x_mean :  89.7692307692
+[1_1.py:118] exec_prog => done
+
+[1_1.py:153] all done
+============================ 
+
+============================ 
+ 
+============================  
+
+[1_1.py:83] starting : test_1_statistics
+
+speed :  [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
+
+ModeResult(mode=array([86]), count=array([3]))
+x_median :  87.0
+x_mean :  89.7692307692
+[1_1.py:122] exec_prog => done
+
+[1_1.py:157] all done
+ 
+============================  
+
+[1_1.py:117] starting : test_2_statistics_StdDev (time=20210411_171028)
+
+speed :  [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
+
+ 
+============================  
+
+[1_1.py:117] starting : test_2_statistics_StdDev (time=20210411_171234)
+
+speed :  [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
+
+x_std :  9.25829230103
+[1_1.py:151] exec_prog => done
+
+[1_1.py:186] all done
+ 
+============================  
+
+[1_1.py:122] starting : test_2_statistics_StdDev (time=20210411_171530)
+
+speed :  [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
+
+x_std :  9.25829230103
+
+x_var :  85.7159763314
+[1_1.py:166] exec_prog => done
+
+[1_1.py:201] all done
+ 
+============================  
+
+[1_1.py:122] starting : test_2_statistics_StdDev (time=20210411_172059)
+
+speed :  [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
+
+x_std :  9.25829230103
+
+x_var :  85.7159763314
+[1_1.py:209] exec_prog => done
+
+[1_1.py:244] all done
+ 
+============================  
+
+[1_1.py:165] starting : test_2_statistics_StdDev (time=20210411_172201)
+
+ages :  [5, 31, 43, 48, 50, 41, 7, 11, 15, 39, 80, 82, 32, 2, 8, 6, 25, 36, 27, 61, 31]
+
+x_Percentile :  43.0
+[1_1.py:209] exec_prog => done
+
+[1_1.py:244] all done
