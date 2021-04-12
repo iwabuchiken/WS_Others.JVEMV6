@@ -28,6 +28,13 @@ $1$2($3 \\\r\n$4)
 print ("[%s:%d] all done" % (libs.thisfile(), libs.linenum()))
 ^( +)(print )(.+)(libs.+file\(\))(.+)
 $1$2$3os.path.basename($4)$5
+
+
+https://stackoverflow.com/questions/29817447/how-to-run-pip-commands-from-cmd
+>python -m pip list
+
+
+
 '''
 
 
@@ -192,6 +199,79 @@ def test_3_stats_Percentile():
 # def test_3_stats_Percentile()://
     
     
+def test_4_stats_Distribution():
+
+    strOf_FuncName = "test_4_stats_Distribution"
+
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+
+#     x = numpy.random.uniform(0.0, 5.0, 250)
+    
+#     print(x)     
+    '''###################
+        step : 2
+            histo
+    ###################'''
+    numOf_Data = 100000
+    
+    x = numpy.random.uniform(0.0, 5.0, numOf_Data)
+
+    #ref https://www.codespeedy.com/saving-a-plot-as-an-image-in-python/
+    fig = plt.figure()
+    
+    numOf_HistColumns   = 100
+    
+    plt.hist(x, numOf_HistColumns)
+#     plt.show() 
+
+#     #ref https://www.codespeedy.com/saving-a-plot-as-an-image-in-python/
+#     fig = plt.figure()
+#     
+    '''###################
+        step : 3
+            plot
+    ###################'''
+    dpath_PlotImage = "./data"
+    fname_PlotImage = "plot_image_%s" % (libs.get_TimeLabel_Now())
+    
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+    
+    # title
+    plt.title("numOf_Data = %d, numOf_HistColumns : %d" % (numOf_Data, numOf_HistColumns))
+    
+    fig.savefig(fpath_PlotImage)
+
+    # message
+    print ("[%s:%d] save fig => done : %s" % 
+            (
+             os.path.basename(libs.thisfile())
+             , libs.linenum()
+             , fpath_PlotImage
+             )
+           
+           
+           )
+
+    '''###################
+        step : 2
+    ###################'''
+    
+# def test_4_stats_Distribution()://
+    
+    
 
 def exec_prog(): # from : 
     
@@ -199,8 +279,10 @@ def exec_prog(): # from :
     '''###################
         execute
     ###################'''
+    #n:20210412_151638
     #n:20210411_172354
-    test_3_stats_Percentile()
+    test_4_stats_Distribution()
+#     test_3_stats_Percentile()
 #     test_2_statistics_StdDev()
 #     test_1_statistics()
     
