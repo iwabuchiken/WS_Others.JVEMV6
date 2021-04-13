@@ -201,3 +201,193 @@ x_Percentile :  43.0
 [1_1.py:291] exec_prog => done
 
 [1_1.py:326] all done
+ 
+============================  
+
+[1_1.py:288] starting : test_5_stats_Normal_Distribution (time=20210413_134237)
+[1_1.py:341] save fig => done : ./data\plot_image_20210413_134239
+[1_1.py:373] exec_prog => done
+
+[1_1.py:408] all done
+ 
+============================  
+
+[1_1.py:288] starting : test_5_stats_Normal_Distribution (time=20210413_134331)
+[1_1.py:341] save fig => done : ./data\plot_image_20210413_134332
+[1_1.py:373] exec_prog => done
+
+[1_1.py:408] all done
+ 
+============================  
+
+[1_1.py:288] starting : test_5_stats_Normal_Distribution (time=20210413_134420)
+[1_1.py:342] save fig => done : ./data\plot_image_20210413_134421
+[1_1.py:374] exec_prog => done
+
+[1_1.py:409] all done
+ 
+============================  
+
+[1_1.py:288] starting : test_5_stats_Normal_Distribution (time=20210413_134756)
+[1_1.py:342] save fig => done : ./data\plot_image_20210413_134757
+[1_1.py:459] exec_prog => done
+
+[1_1.py:494] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_134826)
+[1_1.py:427] save fig => done : ./data\plot_image_20210413_134826
+[1_1.py:460] exec_prog => done
+
+[1_1.py:495] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135039)
+[1_1.py:428] save fig => done : ./data\plot_image_20210413_135040
+[1_1.py:461] exec_prog => done
+
+[1_1.py:496] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135154)
+[1_1.py:430] save fig => done : ./data\plot_image_20210413_135154
+[1_1.py:463] exec_prog => done
+
+[1_1.py:498] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135211)
+[1_1.py:430] save fig => done : ./data\plot_image_20210413_135211
+[1_1.py:463] exec_prog => done
+
+[1_1.py:498] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135333)
+[1_1.py:431] save fig => done : ./data\plot_image_20210413_135334
+[1_1.py:464] exec_prog => done
+
+[1_1.py:499] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135352)
+[1_1.py:431] save fig => done : ./data\plot_image_20210413_135352
+[1_1.py:464] exec_prog => done
+
+[1_1.py:499] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135807)
+[1_1.py:431] save fig => done : ./data\plot_image_20210413_135807
+[1_1.py:464] exec_prog => done
+
+[1_1.py:499] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_135954)
+[1_1.py:432] save fig => done : ./data\plot_image_20210413_135955
+[1_1.py:465] exec_prog => done
+
+[1_1.py:500] all done
+ 
+============================  
+
+[1_1.py:368] starting : test_6_plot_Scatter (time=20210413_140021)
+[1_1.py:433] save fig => done : ./data\plot_image_20210413_140022
+[1_1.py:466] exec_prog => done
+
+[1_1.py:501] all done
+ 
+============================  
+
+[1_1.py:459] starting : test_7_Linear_Regression (time=20210413_140452)
+[1_1.py:525] save fig => done : ./data\plot_image_20210413_140452
+[1_1.py:559] exec_prog => done
+
+[1_1.py:594] all done
+ 
+============================  
+
+[1_1.py:462] starting : test_7_Linear_Regression (time=20210413_140909)
+ 
+============================  
+
+[1_1.py:463] starting : test_7_Linear_Regression (time=20210413_141031)
+ 
+============================  
+
+[1_1.py:467] starting : test_7_Linear_Regression (time=20210413_141218)
+ 
+============================  
+
+[1_1.py:467] starting : test_7_Linear_Regression (time=20210413_141235)
+[1_1.py:539] save fig => done : ./data\plot_image_20210413_141235
+[1_1.py:573] exec_prog => done
+
+[1_1.py:608] all done
+ 
+============================  
+
+[1_1.py:467] starting : test_7_Linear_Regression (time=20210413_141452)
+[%s:%d] 'r' =>
+-0.758591524376
+[1_1.py:550] save fig => done : ./data\plot_image_20210413_141452
+[1_1.py:584] exec_prog => done
+
+[1_1.py:619] all done
+ 
+============================  
+
+[1_1.py:467] starting : test_7_Linear_Regression (time=20210413_141609)
+[%s:%d] 'r' =>
+-0.758591524376
+[%s:%d] 'slope' =>
+-1.75128771155
+[%s:%d] 'p' =>
+0.00264687392246
+[1_1.py:556] save fig => done : ./data\plot_image_20210413_141610
+[1_1.py:590] exec_prog => done
+
+[1_1.py:625] all done
+ 
+============================  
+
+[1_1.py:467] starting : test_7_Linear_Regression (time=20210413_141800)
+[%s:%d] 'r' =>
+-0.758591524376
+[%s:%d] 'slope' =>
+-1.75128771155
+[%s:%d] 'p' =>
+0.00264687392246
+[%s:%d] 'map' =>
+<map object at 0x000000000F027E10>
+[1_1.py:559] save fig => done : ./data\plot_image_20210413_141800
+[1_1.py:593] exec_prog => done
+
+[1_1.py:628] all done
+ 
+============================  
+
+[1_1.py:467] starting : test_7_Linear_Regression (time=20210413_142026)
+[%s:%d] 'r' =>
+-0.758591524376
+[%s:%d] 'slope' =>
+-1.75128771155
+[%s:%d] 'p' =>
+0.00264687392246
+[%s:%d] 'map(myfunc, x)' =>
+<map object at 0x000000001064D7F0>
+[%s:%d] 'list(map(myfunc, x))' =>
+[94.349521707137598, 90.846946284032384, 89.095658572479763, 90.846946284032384, 99.603384841795432, 73.334069168506261, 99.603384841795432, 87.344370860927157, 96.100809418690218, 83.841795437821929, 82.090507726269323, 87.344370860927157, 92.598233995584991]
+[1_1.py:562] save fig => done : ./data\plot_image_20210413_142026
+[1_1.py:596] exec_prog => done
+
+[1_1.py:631] all done
