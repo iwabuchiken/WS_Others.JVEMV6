@@ -39,11 +39,13 @@ https://stackoverflow.com/questions/29817447/how-to-run-pip-commands-from-cmd
 '''
 
 
-import sys
 # from sympy.solvers.tests.test_constantsimp import C2
 
-import os
+import sys, os
+
 from pandas.tests.io.msgpack.test_case import test_9
+import pandas
+from sklearn import linear_model
 
 sys.path.append('.')
 sys.path.append('..')
@@ -854,6 +856,188 @@ def test_10_Predict():
     
 # def test_10_Predict()://
     
+def test_11_Regresson_Multiple():
+
+    strOf_FuncName = "test_11_Regresson_Multiple"
+
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+    
+    '''###################
+        step : 2
+            histo
+    ###################'''
+    #ref https://www.w3schools.com/python/python_ml_multiple_regression.asp
+    df = pandas.read_csv("cars.csv")
+    
+#     #debug
+#     # message
+#     print ("[%s:%d] df ==>" 
+#            % 
+#             (
+#              os.path.basename(libs.thisfile())
+#              , libs.linenum()
+#              )
+#             
+#             
+#            )
+#     
+#     print(df)
+
+    '''###################
+        step : 2
+            regression
+    ###################'''
+    X = df[['Weight', 'Volume']]
+    y = df['CO2']
+    
+    regr = linear_model.LinearRegression()
+    regr.fit(X, y)
+    
+    #debug
+    # message
+    print ("[%s:%d] regr ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile())
+             , libs.linenum()
+             )
+             
+             
+           )
+     
+    print(regr)
+    
+
+    '''###################
+        step : 3
+            predic
+    ###################'''
+    predictedCO2 = regr.predict([[2300, 1300]])
+
+    print ("[%s:%d] predictedCO2 ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile())
+             , libs.linenum()
+             )
+             
+             
+           )
+    
+    print(predictedCO2)     
+    
+    '''###################
+        step : 2
+    ###################'''
+    
+# def test_11_Regresson_Multiple()://
+    
+def test_12_Coefficient():
+
+    strOf_FuncName = "test_12_Coefficient"
+
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+    
+    '''###################
+        step : 2
+            histo
+    ###################'''
+    #ref https://www.w3schools.com/python/python_ml_multiple_regression.asp
+    df = pandas.read_csv("cars.csv")
+    
+#     #debug
+#     # message
+#     print ("[%s:%d] df ==>" 
+#            % 
+#             (
+#              os.path.basename(libs.thisfile())
+#              , libs.linenum()
+#              )
+#             
+#             
+#            )
+#     
+#     print(df)
+
+    '''###################
+        step : 2
+            regression
+    ###################'''
+    X = df[['Weight', 'Volume']]
+    y = df['CO2']
+    
+    
+    
+    regr = linear_model.LinearRegression()
+    regr.fit(X, y)
+    
+    valsOf_Coeffi   = regr.coef_
+    
+    #debug
+    # message
+    print ("[%s:%d] valsOf_Coeffi ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile())
+             , libs.linenum()
+             )
+             
+             
+           )
+     
+    print(valsOf_Coeffi)
+    
+
+    '''###################
+        step : 3
+            predic
+    ###################'''
+    predictedCO2 = regr.predict([[2300, 1300]])
+
+    print ("[%s:%d] predictedCO2 ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile())
+             , libs.linenum()
+             )
+             
+             
+           )
+    
+    print(predictedCO2)     
+    
+    '''###################
+        step : 2
+    ###################'''
+    
+# def test_12_Coefficient()://
+    
     
 
 def exec_prog(): # from : 
@@ -866,7 +1050,10 @@ def exec_prog(): # from :
     #n:20210412_151638
     #n:20210411_172354
     #n:20210414_160053
-    test_10_Predict()
+    #n:20210415_174210
+    test_12_Coefficient()
+#     test_11_Regresson_Multiple()
+#     test_10_Predict()
 #     test_9_R_Square()
 #     test_8_Regression_Poly()
 #     test_7_Linear_Regression()

@@ -498,3 +498,110 @@ x_Percentile :  43.0
 [1_1.py:880] exec_prog => done
 
 [1_1.py:915] all done
+ 
+============================  
+
+[1_1.py:773] starting : test_10_Predict (time=20210415_172315)
+[1_1.py:846] save fig => done : ./data\plot_image_20210415_172316
+[1_1.py:917] exec_prog => done
+
+[1_1.py:952] all done
+ 
+============================  
+
+[1_1.py:773] starting : test_10_Predict (time=20210415_172445)
+[1_1.py:846] save fig => done : ./data\plot_image_20210415_172445
+[1_1.py:931] exec_prog => done
+
+[1_1.py:966] all done
+ 
+============================  
+
+[1_1.py:872] starting : test_11_Regresson_Multiple (time=20210415_172519)
+[1_1.py:891] df ==>
+        Car \tModel \tVolume \tWeight \tCO2 \t
+0              Toyota \tAygo \t1000 \t790 \t99
+1   Mitsubishi \tSpace Star \t1200 \t1160 \t95
+2             Skoda \tCitigo \t1000 \t929 \t95
+3                  Fiat \t500 \t900 \t865 \t90
+4            Mini \tCooper \t1500 \t1140 \t105
+5                  VW \tUp! \t1000 \t929 \t105
+6             Skoda \tFabia \t1400 \t1109 \t90
+7        Mercedes \tA-Class \t1500 \t1365 \t92
+8             Ford \tFiesta \t1500 \t1112 \t98
+9                 Audi \tA1 \t1600 \t1150 \t99
+10             Hyundai \tI20 \t1100 \t980 \t99
+11           Suzuki \tSwift \t1300 \t990 \t101
+12            Ford \tFiesta \t1000 \t1112 \t99
+13            Honda \tCivic \t1600 \t1252 \t94
+14             Hundai \tI30 \t1600 \t1326 \t97
+15             Opel \tAstra \t1600 \t1330 \t97
+16                  BMW \t1 \t1600 \t1365 \t99
+17               Mazda \t3 \t2200 \t1280 \t104
+18           Skoda \tRapid \t1600 \t1119 \t104
+19            Ford \tFocus \t2000 \t1328 \t105
+20            Ford \tMondeo \t1600 \t1584 \t94
+21          Opel \tInsignia \t2000 \t1428 \t99
+22       Mercedes \tC-Class \t2100 \t1365 \t99
+23          Skoda \tOctavia \t1600 \t1415 \t99
+24              Volvo \tS60 \t2000 \t1415 \t99
+25          Mercedes \tCLA \t1500 \t1465 \t102
+26               Audi \tA4 \t2000 \t1490 \t104
+27               Audi \tA6 \t2000 \t1725 \t114
+28             Volvo \tV70 \t1600 \t1523 \t109
+29                 BMW \t5 \t2000 \t1705 \t114
+30      Mercedes \tE-Class \t2100 \t1605 \t115
+31            Volvo \tXC70 \t2000 \t1746 \t117
+32            Ford \tB-Max \t1600 \t1235 \t104
+33                 BMW \t2 \t1600 \t1390 \t108
+34           Opel \tZafira \t1600 \t1405 \t109
+35          Mercedes \tSLK \t2500 \t1395 \t120
+[1_1.py:932] exec_prog => done
+
+[1_1.py:967] all done
+ 
+============================  
+
+[1_1.py:872] starting : test_11_Regresson_Multiple (time=20210415_172705)
+ 
+============================  
+
+[1_1.py:872] starting : test_11_Regresson_Multiple (time=20210415_172933)
+[1_1.py:915] regr ==>
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
+[1_1.py:957] exec_prog => done
+
+[1_1.py:992] all done
+ 
+============================  
+
+[1_1.py:872] starting : test_11_Regresson_Multiple (time=20210415_173123)
+[1_1.py:915] regr ==>
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
+[1_1.py:934] predictedCO2 ==>
+[ 107.2087328]
+[1_1.py:975] exec_prog => done
+
+[1_1.py:1010] all done
+ 
+============================  
+
+[1_1.py:872] starting : test_11_Regresson_Multiple (time=20210415_173543)
+[1_1.py:915] regr ==>
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
+[1_1.py:934] predictedCO2 ==>
+[ 107.2087328]
+[1_1.py:1068] exec_prog => done
+
+[1_1.py:1103] all done
+ 
+============================  
+
+[1_1.py:961] starting : test_12_Coefficient (time=20210415_173610)
+[1_1.py:1008] valsOf_Coeffi ==>
+[ 0.00755095  0.00780526]
+[1_1.py:1027] predictedCO2 ==>
+[ 107.2087328]
+[1_1.py:1069] exec_prog => done
+
+[1_1.py:1104] all done
