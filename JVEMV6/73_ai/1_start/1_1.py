@@ -41,12 +41,31 @@ https://stackoverflow.com/questions/29817447/how-to-run-pip-commands-from-cmd
 
 # from sympy.solvers.tests.test_constantsimp import C2
 
-import sys, os
+'''###################
+    import : basics
+###################'''
+import sys, os, getopt, inspect
 
+'''###################
+    import : pandas
+###################'''
 from pandas.tests.io.msgpack.test_case import test_9
 import pandas
-from sklearn import linear_model
 
+'''###################
+    import : sklearn
+###################'''
+from sklearn import linear_model
+from sklearn.preprocessing import StandardScaler
+
+#ref https://www.w3schools.com/python/python_ml_polynomial_regression.asp
+from sklearn.metrics import r2_score
+
+from sklearn.preprocessing import StandardScaler
+
+'''###################
+    import : orig files        
+###################'''
 sys.path.append('.')
 sys.path.append('..')
 sys.path.append('C:/WORKS_2/WS/WS_Others/free/fx/82_')
@@ -59,13 +78,23 @@ from libs import cons
 # from libs_D_7 import cons_D_7
 # from libs_31 import libmt
 
-import getopt, os, inspect
+'''###################
+    import : scipy, numpy
+###################'''
+import matplotlib.pyplot as plt, matplotlib.patches as pat, math, numpy
+
+from scipy import stats
+
+'''###################
+    import : others
+###################'''
+from shutil import copyfile
+# import getopt, inspect
 
 # import math as math
 
 # import struct
 
-from shutil import copyfile
 
 # import xml.etree.ElementTree as ET
 
@@ -75,12 +104,7 @@ from shutil import copyfile
 # import math
 
 ###############################################
-import matplotlib.pyplot as plt, matplotlib.patches as pat, math, numpy
 
-from scipy import stats
-
-#ref https://www.w3schools.com/python/python_ml_polynomial_regression.asp
-from sklearn.metrics import r2_score
 
 
 def test_1_statistics():
@@ -1038,6 +1062,153 @@ def test_12_Coefficient():
     
 # def test_12_Coefficient()://
     
+def test_13_Scale():
+
+    strOf_FuncName = "test_13_Scale"
+
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+    
+    '''###################
+        step : 1.1
+            load : data
+    ###################'''
+    '''###################
+        step : 2
+            prep
+    ###################'''
+    #ref https://www.w3schools.com/python/python_ml_multiple_regression.asp
+    df = pandas.read_csv("cars2.csv")
+    
+    X = df[['Weight', 'Volume']]
+    
+    scale = StandardScaler()
+    
+    '''###################
+        step : 3
+            scale
+    ###################'''
+    scaledX = scale.fit_transform(X)
+
+    '''###################
+        step : 4
+            report
+    ###################'''
+    #debug
+    # message
+    print ("[%s:%d] scaledX ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile())
+             , libs.linenum()
+             )
+             
+             
+           )
+     
+    print(scaledX)
+    
+# def test_13_Scale()://
+    
+def test_14_Scale_Predict():
+
+    strOf_FuncName = "test_14_Scale_Predict"
+
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+    
+    '''###################
+        step : 1.1
+            load : data
+    ###################'''
+    '''###################
+        step : 2
+            prep
+    ###################'''
+    #ref https://www.w3schools.com/python/python_ml_multiple_regression.asp
+    df = pandas.read_csv("cars2.csv")
+    
+    X = df[['Weight', 'Volume']]
+    y = df['CO2']
+    
+    '''###################
+        step : 3
+            scale
+    ###################'''
+    scale = StandardScaler()
+    
+    scaledX = scale.fit_transform(X)
+
+    
+    scaled = scale.transform([[2300, 1.3]])
+            #=> [[ 4.22104928 -0.81116837]]
+
+    '''###################
+        step : 3.1
+            regr
+    ###################'''
+    regr = linear_model.LinearRegression()
+    regr.fit(scaledX, y)    
+    
+    '''###################
+        step : 3.2
+            predict
+    ###################'''
+    predictedCO2 = regr.predict(scaled)
+            #=> [ 107.2087328]
+            
+#     predictedCO2 = regr.predict([scaled[0]])
+    
+    '''###################
+        step : 4
+            report
+    ###################'''
+    #debug
+    # message
+    print ("[%s:%d] scaled ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             )
+           )
+     
+    print(scaled)
+    
+    print ("[%s:%d] predictedCO2 ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             )
+           )
+     
+    print(predictedCO2)
+    
+# def test_14_Scale_Predict()://
+    
     
 
 def exec_prog(): # from : 
@@ -1051,7 +1222,10 @@ def exec_prog(): # from :
     #n:20210411_172354
     #n:20210414_160053
     #n:20210415_174210
-    test_12_Coefficient()
+    #n:20210416_153541
+    test_14_Scale_Predict()
+#     test_13_Scale()
+#     test_12_Coefficient()
 #     test_11_Regresson_Multiple()
 #     test_10_Predict()
 #     test_9_R_Square()
