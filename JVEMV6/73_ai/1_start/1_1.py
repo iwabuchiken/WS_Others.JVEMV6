@@ -1208,6 +1208,185 @@ def test_14_Scale_Predict():
     print(predictedCO2)
     
 # def test_14_Scale_Predict()://
+
+#ref https://www.w3schools.com/python/python_ml_train_test.asp    
+
+#ref https://www.w3schools.com/python/python_ml_train_test.asp
+def test_15_Train_Test():
+
+    strOf_FuncName = "test_15_Train_Test"
+
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+    
+    '''###################
+        step : 1.1
+            load : data
+    ###################'''
+    '''###################
+        step : 2
+            prep
+    ###################'''
+    #ref https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.random_integers.html
+#     valOf_Seed  = numpy.random.random_integers(1, 6)
+    valOf_Seed  = 2
+#     valOf_Seed  = 5
+    
+    numpy.random.seed(valOf_Seed)
+#     numpy.random.seed(2)
+    
+    numOf_Size  = 100
+    
+    x = numpy.random.normal(3, 1, numOf_Size)
+    y = numpy.random.normal(150, 40, numOf_Size) / x
+
+
+    valOf_Partition = 80
+    train_x = x[:valOf_Partition]
+    train_y = y[:valOf_Partition]
+    
+    test_x = x[valOf_Partition:]
+    test_y = y[valOf_Partition:]
+    
+    '''###################
+        step : 2 : 2
+            r^2
+    ###################'''
+    mymodel = numpy.poly1d(numpy.polyfit(train_x, train_y, 4))
+    
+    myline = numpy.linspace(0, 6, 100)
+    
+    r2 = r2_score(train_y, mymodel(train_x))
+    
+    #debug
+    print ("[%s:%d] r2 ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             )
+           )
+      
+    print(r2)
+    
+    #n:20210417_151327
+    
+#     '''###################
+#         step : 3
+#             plot : all entries
+#     ###################'''
+#     strOf_Time_Label = libs.get_TimeLabel_Now()
+#     
+#     fig = plt.figure()
+#     
+#     plt.scatter(x, y)
+#     
+#     dpath_PlotImage = "./data/s-7"
+#     fname_PlotImage = "plot_image_%s" % (strOf_Time_Label)
+#     
+#     fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+#     
+#     # title
+#     plt.title("numpy.random.normal \nData = %d / Seed = %d"
+#                % (
+#                   numOf_Size
+#                   , valOf_Seed
+#                   )
+#                )
+# 
+#     fig.savefig(fpath_PlotImage)
+#     
+#     # clear plot
+#     #ref https://stackoverflow.com/questions/8213522/when-to-use-cla-clf-or-close-for-clearing-a-plot-in-matplotlib
+#     plt.clf()
+#     
+#     '''###################
+#         step : 3 : 2
+#             plot : train
+#     ###################'''
+#     fig = plt.figure()
+#     
+#     plt.scatter(train_x, train_y)
+#     
+#     # r^2
+#     plt.plot(myline, mymodel(myline), "r")
+# #     plt.plot(myline, mymodel(myline))
+#     
+#     
+#     dpath_PlotImage = "./data/s-7"
+#     fname_PlotImage = "plot_image_%s_[train]" % (strOf_Time_Label)
+#     
+#     fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+#     
+#     # title
+#     plt.title("numpy.random.normal \nData = %d / Seed = %d / Partition = %d"
+#                % (
+#                   numOf_Size
+#                   , valOf_Seed
+#                   , valOf_Partition
+#                   )
+#                )
+# 
+#     fig.savefig(fpath_PlotImage)
+#     
+#     '''###################
+#         step : 3 : 3
+#             plot : test
+#     ###################'''
+#     fig = plt.figure()
+#     
+#     plt.scatter(test_x, test_y)
+#     
+#     dpath_PlotImage = "./data/s-7"
+#     fname_PlotImage = "plot_image_%s_[test]" % (strOf_Time_Label)
+#     
+#     fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+#     
+#     # title
+#     plt.title("numpy.random.normal \nData = %d / Seed = %d / Partition = %d"
+#                % (
+#                   numOf_Size
+#                   , valOf_Seed
+#                   , valOf_Partition
+#                   )
+#                )
+# 
+#     fig.savefig(fpath_PlotImage)
+
+    '''###################
+        step : 3 : 4
+            plot : r^2
+    ###################'''
+    
+    
+    
+    '''###################
+        step : 4
+            report
+    ###################'''
+#     #debug
+#     print ("[%s:%d] fig.savefig ==> %s" 
+#            % 
+#             (
+#              os.path.basename(libs.thisfile()), libs.linenum()
+#              , fpath_PlotImage
+#              )
+#            )
+      
+#     print(x)
+    
+# def test_15_Train_Test()://
     
     
 
@@ -1223,7 +1402,8 @@ def exec_prog(): # from :
     #n:20210414_160053
     #n:20210415_174210
     #n:20210416_153541
-    test_14_Scale_Predict()
+    test_15_Train_Test()
+#     test_14_Scale_Predict()
 #     test_13_Scale()
 #     test_12_Coefficient()
 #     test_11_Regresson_Multiple()
