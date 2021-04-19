@@ -978,3 +978,1044 @@ LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
 [1_1.py:1423] exec_prog => done
 
 [1_1.py:1458] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_124830)
+[1_1.py:1280] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1427] exec_prog => done
+
+[1_1.py:1462] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_125023)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1438] exec_prog => done
+
+[1_1.py:1473] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_125426)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1311] valOf_Mymodel(param = 22.88) ==>
+22.8796259181
+[1_1.py:1459] exec_prog => done
+
+[1_1.py:1494] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_125643)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+[1_1.py:1460] exec_prog => done
+
+[1_1.py:1495] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_130028)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+[1_1.py:1464] exec_prog => done
+
+[1_1.py:1499] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_130329)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+[1_1.py:1467] exec_prog => done
+
+[1_1.py:1502] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_130414)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+[1_1.py:1467] exec_prog => done
+
+[1_1.py:1502] all done
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_130836)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_131005)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+ 
+============================  
+
+[1_1.py:1228] starting : test_15_Train_Test (time=20210418_131517)
+[1_1.py:1282] r2 (model=train, param=test ==>
+0.808692146034
+[1_1.py:1291] r2 (model=train, param=train ==>
+0.798864554463
+[1_1.py:1312] valOf_Mymodel(param = 5.00) ==>
+22.8796259181
+[1_1.py:1469] exec_prog => done
+
+[1_1.py:1504] all done
+ 
+============================  
+
+[1_1.py:1451] starting : test_16_Tree (time=20210418_164712)
+[1_1.py:1539] exec_prog => done
+
+[1_1.py:1574] all done
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_165058)
+[1_1.py:1547] exec_prog => done
+
+[1_1.py:1582] all done
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_165315)
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_165337)
+[1_1.py:1478] df ==> 
+    Age  Experience  Rank Nationality   Go
+0    36          10     9          UK   NO
+1    42          12     4         USA   NO
+2    23           4     6           N   NO
+3    52           4     4         USA   NO
+4    43          21     8         USA  YES
+5    44          14     5          UK   NO
+6    66           3     7           N  YES
+7    35          14     9          UK  YES
+8    52          13     7           N  YES
+9    35           5     9           N  YES
+10   24           3     5         USA   NO
+11   18           3     7          UK  YES
+12   45           9     9          UK  YES
+[1_1.py:1541] exec_prog => done
+
+[1_1.py:1576] all done
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_165714)
+[1_1.py:1477] df ==> 
+    Age  Experience  Rank Nationality   Go
+0    36          10     9          UK   NO
+1    42          12     4         USA   NO
+2    23           4     6           N   NO
+3    52           4     4         USA   NO
+4    43          21     8         USA  YES
+5    44          14     5          UK   NO
+6    66           3     7           N  YES
+7    35          14     9          UK  YES
+8    52          13     7           N  YES
+9    35           5     9           N  YES
+10   24           3     5         USA   NO
+11   18           3     7          UK  YES
+12   45           9     9          UK  YES
+[1_1.py:1494] df (mapped) ==> 
+    Age  Experience  Rank  Nationality  Go
+0    36          10     9            0   0
+1    42          12     4            1   0
+2    23           4     6            2   0
+3    52           4     4            1   0
+4    43          21     8            1   1
+5    44          14     5            0   0
+6    66           3     7            2   1
+7    35          14     9            0   1
+8    52          13     7            2   1
+9    35           5     9            2   1
+10   24           3     5            1   0
+11   18           3     7            0   1
+12   45           9     9            0   1
+[1_1.py:1556] exec_prog => done
+
+[1_1.py:1591] all done
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_170041)
+[1_1.py:1477] df ==> 
+    Age  Experience  Rank Nationality   Go
+0    36          10     9          UK   NO
+1    42          12     4         USA   NO
+2    23           4     6           N   NO
+3    52           4     4         USA   NO
+4    43          21     8         USA  YES
+5    44          14     5          UK   NO
+6    66           3     7           N  YES
+7    35          14     9          UK  YES
+8    52          13     7           N  YES
+9    35           5     9           N  YES
+10   24           3     5         USA   NO
+11   18           3     7          UK  YES
+12   45           9     9          UK  YES
+[1_1.py:1494] df (mapped) ==> 
+    Age  Experience  Rank  Nationality  Go
+0    36          10     9            0   0
+1    42          12     4            1   0
+2    23           4     6            2   0
+3    52           4     4            1   0
+4    43          21     8            1   1
+5    44          14     5            0   0
+6    66           3     7            2   1
+7    35          14     9            0   1
+8    52          13     7            2   1
+9    35           5     9            2   1
+10   24           3     5            1   0
+11   18           3     7            0   1
+12   45           9     9            0   1
+[1_1.py:1511] feature, column ==> 
+    Age  Experience  Rank  Nationality
+0    36          10     9            0
+1    42          12     4            1
+2    23           4     6            2
+3    52           4     4            1
+4    43          21     8            1
+5    44          14     5            0
+6    66           3     7            2
+7    35          14     9            0
+8    52          13     7            2
+9    35           5     9            2
+10   24           3     5            1
+11   18           3     7            0
+12   45           9     9            0
+0     0
+1     0
+2     0
+3     0
+4     1
+5     0
+6     1
+7     1
+8     1
+9     1
+10    0
+11    1
+12    1
+Name: Go, dtype: int64
+[1_1.py:1575] exec_prog => done
+
+[1_1.py:1610] all done
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_170420)
+[1_1.py:1477] df ==> 
+    Age  Experience  Rank Nationality   Go
+0    36          10     9          UK   NO
+1    42          12     4         USA   NO
+2    23           4     6           N   NO
+3    52           4     4         USA   NO
+4    43          21     8         USA  YES
+5    44          14     5          UK   NO
+6    66           3     7           N  YES
+7    35          14     9          UK  YES
+8    52          13     7           N  YES
+9    35           5     9           N  YES
+10   24           3     5         USA   NO
+11   18           3     7          UK  YES
+12   45           9     9          UK  YES
+[1_1.py:1494] df (mapped) ==> 
+    Age  Experience  Rank  Nationality  Go
+0    36          10     9            0   0
+1    42          12     4            1   0
+2    23           4     6            2   0
+3    52           4     4            1   0
+4    43          21     8            1   1
+5    44          14     5            0   0
+6    66           3     7            2   1
+7    35          14     9            0   1
+8    52          13     7            2   1
+9    35           5     9            2   1
+10   24           3     5            1   0
+11   18           3     7            0   1
+12   45           9     9            0   1
+[1_1.py:1511] feature, column ==> 
+    Age  Experience  Rank  Nationality
+0    36          10     9            0
+1    42          12     4            1
+2    23           4     6            2
+3    52           4     4            1
+4    43          21     8            1
+5    44          14     5            0
+6    66           3     7            2
+7    35          14     9            0
+8    52          13     7            2
+9    35           5     9            2
+10   24           3     5            1
+11   18           3     7            0
+12   45           9     9            0
+0     0
+1     0
+2     0
+3     0
+4     1
+5     0
+6     1
+7     1
+8     1
+9     1
+10    0
+11    1
+12    1
+Name: Go, dtype: int64
+[1_1.py:1527] dtree ==> 
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+[1_1.py:1590] exec_prog => done
+
+[1_1.py:1625] all done
+ 
+============================  
+
+[1_1.py:1459] starting : test_16_Tree (time=20210418_170733)
+[1_1.py:1477] df ==> 
+    Age  Experience  Rank Nationality   Go
+0    36          10     9          UK   NO
+1    42          12     4         USA   NO
+2    23           4     6           N   NO
+3    52           4     4         USA   NO
+4    43          21     8         USA  YES
+5    44          14     5          UK   NO
+6    66           3     7           N  YES
+7    35          14     9          UK  YES
+8    52          13     7           N  YES
+9    35           5     9           N  YES
+10   24           3     5         USA   NO
+11   18           3     7          UK  YES
+12   45           9     9          UK  YES
+[1_1.py:1494] df (mapped) ==> 
+    Age  Experience  Rank  Nationality  Go
+0    36          10     9            0   0
+1    42          12     4            1   0
+2    23           4     6            2   0
+3    52           4     4            1   0
+4    43          21     8            1   1
+5    44          14     5            0   0
+6    66           3     7            2   1
+7    35          14     9            0   1
+8    52          13     7            2   1
+9    35           5     9            2   1
+10   24           3     5            1   0
+11   18           3     7            0   1
+12   45           9     9            0   1
+ 
+============================  
+
+[1_1.py:1460] starting : test_16_Tree (time=20210418_170906)
+[1_1.py:1478] df ==> 
+    Age  Experience  Rank Nationality   Go
+0    36          10     9          UK   NO
+1    42          12     4         USA   NO
+2    23           4     6           N   NO
+3    52           4     4         USA   NO
+4    43          21     8         USA  YES
+5    44          14     5          UK   NO
+6    66           3     7           N  YES
+7    35          14     9          UK  YES
+8    52          13     7           N  YES
+9    35           5     9           N  YES
+10   24           3     5         USA   NO
+11   18           3     7          UK  YES
+12   45           9     9          UK  YES
+[1_1.py:1495] df (mapped) ==> 
+    Age  Experience  Rank  Nationality  Go
+0    36          10     9            0   0
+1    42          12     4            1   0
+2    23           4     6            2   0
+3    52           4     4            1   0
+4    43          21     8            1   1
+5    44          14     5            0   0
+6    66           3     7            2   1
+7    35          14     9            0   1
+8    52          13     7            2   1
+9    35           5     9            2   1
+10   24           3     5            1   0
+11   18           3     7            0   1
+12   45           9     9            0   1
+[1_1.py:1539] data ==> 
+digraph Tree {
+node [shape=box] ;
+0 [label="Rank <= 6.5\ngini = 0.497\nsamples = 13\nvalue = [6, 7]"] ;
+1 [label="gini = 0.0\nsamples = 5\nvalue = [5, 0]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Age <= 39.5\ngini = 0.219\nsamples = 8\nvalue = [1, 7]"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="Age <= 35.5\ngini = 0.375\nsamples = 4\nvalue = [1, 3]"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3]"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]"] ;
+3 -> 5 ;
+6 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4]"] ;
+2 -> 6 ;
+}
+[1_1.py:1601] exec_prog => done
+
+[1_1.py:1636] all done
+ 
+============================  
+
+[1_1.py:1460] starting : test_16_Tree (time=20210418_171128)
+[1_1.py:1549] graph ==> 
+<pydotplus.graphviz.Dot object at 0x00000000120BF5C0>
+[1_1.py:1611] exec_prog => done
+
+[1_1.py:1646] all done
+ 
+============================  
+
+[1_1.py:1460] starting : test_16_Tree (time=20210418_171715)
+ 
+============================  
+
+[1_1.py:1460] starting : test_16_Tree (time=20210418_171738)
+ 
+============================  
+
+[1_1.py:1460] starting : test_16_Tree (time=20210418_172511)
+ 
+============================  
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210418_173622)
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_103319)
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_103810)
+
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_103840)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_104018)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_110313)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll
+ 
+============================  
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_110910)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll
+
+ 
+============================  
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_111259)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll
+
+##mark:20210419_111844
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\Common Files\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:495] path : C:\ProgramData\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:495] path : C:\Program Files\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:495] path : C:\Windows\system32 ==> result : False
+
+[graphviz.py:495] path : C:\Windows ==> result : False
+
+[graphviz.py:495] path : C:\Windows\System32\Wbem ==> result : False
+
+[graphviz.py:495] path : C:\Windows\System32\WindowsPowerShell\v1.0\ ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\Windows Live\Shared ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\AMD\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:495] path : XYZZYHOME ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Git_2.14.1\cmd ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\putty_0.70\ ==> result : False
+
+[graphviz.py:495] path : C:\Program Files (x86)\Pico Technology\PicoScope6\ ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:495] path : C:\Program Files\Microsoft VS Code\bin ==> result : False
+
+[graphviz.py:495] path : C:\Program Files\Docker Toolbox ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2 ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\batches ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\sakura ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Utils\commands ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Git_2.14.1\bin ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200 ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\xampp_5.6\php ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Python\Python_3.5.1 ==> result : False
+
+[graphviz.py:495] path :  ==> result : False
+
+[graphviz.py:495] path : C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/ ==> result : False
+
+[graphviz.py:495] path : C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll ==> result : False
+
+[graphviz.py:495] path : C:\Program Files\ATT\GraphViz\bin ==> result : False
+
+[graphviz.py:495] path : /usr/bin ==> result : False
+
+[graphviz.py:495] path : /usr/local/bin ==> result : False
+
+[graphviz.py:495] path : /opt/local/bin ==> result : False
+
+[graphviz.py:495] path : /opt/bin ==> result : False
+
+[graphviz.py:495] path : /sw/bin ==> result : False
+
+[graphviz.py:495] path : /usr/share ==> result : False
+
+[graphviz.py:495] path : /Applications/Graphviz.app/Contents/MacOS/ ==> result : False
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_113037)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Common Files\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:501] path : C:\ProgramData\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:501] path : C:\Program Files\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:501] path : C:\Windows\system32 ==> result : False
+
+[graphviz.py:501] path : C:\Windows ==> result : False
+
+[graphviz.py:501] path : C:\Windows\System32\Wbem ==> result : False
+
+[graphviz.py:501] path : C:\Windows\System32\WindowsPowerShell\v1.0\ ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Windows Live\Shared ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\AMD\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:501] path : XYZZYHOME ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Git_2.14.1\cmd ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\putty_0.70\ ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Pico Technology\PicoScope6\ ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:501] path : C:\Program Files\Microsoft VS Code\bin ==> result : False
+
+[graphviz.py:501] path : C:\Program Files\Docker Toolbox ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2 ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\batches ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\sakura ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Utils\commands ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Git_2.14.1\bin ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200 ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\xampp_5.6\php ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Python\Python_3.5.1 ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/ ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll ==> result : False
+
+##mark:20210419_113303
+[graphviz.py:501] path : C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/ ==> result : True
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_113845)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Common Files\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:501] path : C:\ProgramData\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:501] path : C:\Program Files\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:501] path : C:\Windows\system32 ==> result : False
+
+[graphviz.py:501] path : C:\Windows ==> result : False
+
+[graphviz.py:501] path : C:\Windows\System32\Wbem ==> result : False
+
+[graphviz.py:501] path : C:\Windows\System32\WindowsPowerShell\v1.0\ ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Windows Live\Shared ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\AMD\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:501] path : XYZZYHOME ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Git_2.14.1\cmd ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\putty_0.70\ ==> result : False
+
+[graphviz.py:501] path : C:\Program Files (x86)\Pico Technology\PicoScope6\ ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:501] path : C:\Program Files\Microsoft VS Code\bin ==> result : False
+
+[graphviz.py:501] path : C:\Program Files\Docker Toolbox ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2 ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\batches ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\sakura ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Utils\commands ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Git_2.14.1\bin ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200 ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\xampp_5.6\php ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Python\Python_3.5.1 ==> result : False
+
+[graphviz.py:501] path :  ==> result : False
+
+[graphviz.py:501] path : C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/ ==> result : False
+
+[graphviz.py:501] path : C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll ==> result : False
+
+[graphviz.py:501] path : C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/ ==> result : True
+
+[graphviz.py:2025] cmdline ==> '['C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/dot.exe', '-Tpng', 'C:\\Users\\IWABUC~1\\AppData\\Local\\Temp\\tmprfknlrcr']'
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_115110)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/
+
+[graphviz.py:2025] cmdline ==> '['C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/dot.exe', '-Tpng', 'C:\\Users\\IWABUC~1\\AppData\\Local\\Temp\\tmp1wrgb6pr']'
+
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_115127)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/
+
+[graphviz.py:2025] cmdline ==> '['C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/dot.exe', '-Tpng', 'C:\\Users\\IWABUC~1\\AppData\\Local\\Temp\\tmp73gsl4hy']'
+
+[subprocess.py:1227] executable = 'None', args = 'C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/dot.exe -Tpng C:\Users\IWABUC~1\AppData\Local\Temp\tmp73gsl4hy'
+ 
+============================  
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_135357)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\Common Files\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:503] path : C:\ProgramData\Oracle\Java\javapath ==> result : False
+
+[graphviz.py:503] path : C:\Program Files\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live ==> result : False
+
+[graphviz.py:503] path : C:\Windows\system32 ==> result : False
+
+[graphviz.py:503] path : C:\Windows ==> result : False
+
+[graphviz.py:503] path : C:\Windows\System32\Wbem ==> result : False
+
+[graphviz.py:503] path : C:\Windows\System32\WindowsPowerShell\v1.0\ ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\Windows Live\Shared ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\AMD\ATI.ACE\Core-Static ==> result : False
+
+[graphviz.py:503] path : XYZZYHOME ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Git_2.14.1\cmd ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\putty_0.70\ ==> result : False
+
+[graphviz.py:503] path : C:\Program Files (x86)\Pico Technology\PicoScope6\ ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:503] path : C:\Program Files\Microsoft VS Code\bin ==> result : False
+
+[graphviz.py:503] path : C:\Program Files\Docker Toolbox ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2 ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\batches ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\sakura ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Utils\commands ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Git_2.14.1\bin ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200 ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\xampp_5.6\php ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Ruby24-x64\bin ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Python\Python_3.5.1 ==> result : False
+
+[graphviz.py:503] path :  ==> result : False
+
+[graphviz.py:503] path : C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/ ==> result : False
+
+[graphviz.py:503] path : C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll ==> result : False
+
+[graphviz.py:503] path : C:/WORKS_2/Programs/Graphviz/bin ==> result : True
+
+[graphviz.py:2027] cmdline ==> '['C:/WORKS_2/Programs/Graphviz/bin\\dot.exe', '-Tpng', 'C:\\Users\\IWABUC~1\\AppData\\Local\\Temp\\tmph1r0d5_0']'
+
+[subprocess.py:1227] executable = 'None', args = 'C:/WORKS_2/Programs/Graphviz/bin\dot.exe -Tpng C:\Users\IWABUC~1\AppData\Local\Temp\tmph1r0d5_0'
+[1_1.py:1596] graph.write_png ==> ./data/s-9\mydecisiontree.20210419_135358.png
+[1_1.py:1658] exec_prog => done
+
+[1_1.py:1693] all done
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_141744)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+[1_1.py:1600] graph.write_png ==> ./data/s-9\mydecisiontree.20210419_141747.png
+[1_1.py:1662] exec_prog => done
+
+[1_1.py:1697] all done
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_152259)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+[1_1.py:1595] graph.write_png ==> ./data/s-10\mydecisiontree.20210419_152259.png
+[1_1.py:1663] exec_prog => done
+
+[1_1.py:1698] all done
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_152407)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+[1_1.py:1595] graph.write_png ==> ./data/s-10\mydecisiontree.20210419_152407.png
+[1_1.py:1663] exec_prog => done
+
+[1_1.py:1698] all done
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_153030)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+[1_1.py:1595] graph.write_png ==> ./data/s-10\mydecisiontree.20210419_153030.png
+[1_1.py:1616] litOf_Predict_Conditions ==>
+[40, 10, 7, 1]
+[0]
+[1_1.py:1684] exec_prog => done
+
+[1_1.py:1719] all done
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_153128)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+[1_1.py:1595] graph.write_png ==> ./data/s-10\mydecisiontree.20210419_153128.png
+[1_1.py:1616] litOf_Predict_Conditions ==>
+[40, 10, 7, 1]
+[0]
+[1_1.py:1684] exec_prog => done
+
+[1_1.py:1719] all done
+ 
+============================  
+
+[1_1.py:1462] starting : test_16_Tree (time=20210419_153415)
+
+[1_1.py:1473] sys.path ==>
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[1_1.py:1484] os.environ["PATH"] ==>
+C:\WORKS_2\Programs\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;XYZZYHOME;C:\WORKS_2\Programs\Git_2.14.1\cmd;C:\Program Files (x86)\OpenMPI_v1.6.1-x64\bin;C:\WORKS_2\Programs\putty_0.70\;C:\Program Files (x86)\Pico Technology\PicoScope6\;C:\WORKS_2\Programs\Ruby24-x64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\WORKS_2;;C:\WORKS_2\batches;;C:\WORKS_2\Programs\sakura;;;C:\WORKS_2\Utils\commands;;"C:\WORKS_2\Programs\Git_2.14.1\bin";;C:\WORKS_2\Programs\sqlite-tools-win32-x86-3140200;;C:\xampp_5.6\php;;C:\WORKS_2\Programs\Ruby24-x64\bin;;C:\mingw-w64\x86_64-6.2.0-posix-seh-rt_v5-rev1\mingw64\bin;;C:\WORKS_2\Programs\Python\Python_3.5.1;;C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/;C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\scipy\extra-dll;C:/WORKS_2/Programs/Graphviz/bin
+[1_1.py:1595] graph.write_png ==> ./data/s-10\mydecisiontree.20210419_153415.png
+[1_1.py:1617] litOf_Predict_Conditions ==>
+[40, 10, 6, 1]
+[0]
+[1_1.py:1685] exec_prog => done
+
+[1_1.py:1720] all done

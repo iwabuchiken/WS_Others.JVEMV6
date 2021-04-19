@@ -46,6 +46,8 @@ https://stackoverflow.com/questions/29817447/how-to-run-pip-commands-from-cmd
 ###################'''
 import sys, os, getopt, inspect
 
+os.environ["PATH"] += os.pathsep + 'C:/WORKS_2/Programs/Python/Python_3.5.1/lib_additional/'
+
 '''###################
     import : pandas
 ###################'''
@@ -63,6 +65,9 @@ from sklearn.metrics import r2_score
 
 from sklearn.preprocessing import StandardScaler
 
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import tree
+
 '''###################
     import : orig files        
 ###################'''
@@ -79,16 +84,25 @@ from libs import cons
 # from libs_31 import libmt
 
 '''###################
-    import : scipy, numpy
+    import : scipy, numpy, matplotlib
 ###################'''
-import matplotlib.pyplot as plt, matplotlib.patches as pat, math, numpy
-
 from scipy import stats
+
+import numpy
+
+import matplotlib.pyplot as plt
+import matplotlib.patches as pat
+import matplotlib.image as pltimg
+
+
 
 '''###################
     import : others
 ###################'''
 from shutil import copyfile
+
+import pydotplus, math
+
 # import getopt, inspect
 
 # import math as math
@@ -159,7 +173,7 @@ def test_2_statistics_StdDev():
                 , libs.get_TimeLabel_Now()
                 )
     )
-    #aaa
+    
 #     from scipy import stats
     
     speed = [99,86,87,88,111,86,103,87,94,78,77,85,86]
@@ -1268,49 +1282,84 @@ def test_15_Train_Test():
     
     myline = numpy.linspace(0, 6, 100)
     
-    r2 = r2_score(train_y, mymodel(train_x))
+    r2_Model_Train_Param_Train = r2_score(train_y, mymodel(train_x))
     
+    # model with train data ---> apply to test data
+    r2_Model_Train_Param_Test = r2_score(test_y, mymodel(test_x))
+#     r2 = r2_score(test_y, mymodel(test_x))
+
     #debug
-    print ("[%s:%d] r2 ==>" 
+    print ("[%s:%d] r2 (model=train, param=test ==>" 
            % 
             (
              os.path.basename(libs.thisfile()), libs.linenum()
              )
            )
       
-    print(r2)
+    print(r2_Model_Train_Param_Test)
+    
+    print ("[%s:%d] r2 (model=train, param=train ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             )
+           )
+      
+    print(r2_Model_Train_Param_Train)
     
     #n:20210417_151327
+
+    '''###################
+        step : 2 : 3
+            r^2 : prediction
+    ###################'''
+    #:20210418_125209
+    valOf_Mymodel_Param = 5.0
+#     valOf_Mymodel_Param = 5
     
-#     '''###################
-#         step : 3
-#             plot : all entries
-#     ###################'''
-#     strOf_Time_Label = libs.get_TimeLabel_Now()
-#     
-#     fig = plt.figure()
-#     
-#     plt.scatter(x, y)
-#     
-#     dpath_PlotImage = "./data/s-7"
-#     fname_PlotImage = "plot_image_%s" % (strOf_Time_Label)
-#     
-#     fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
-#     
-#     # title
-#     plt.title("numpy.random.normal \nData = %d / Seed = %d"
-#                % (
-#                   numOf_Size
-#                   , valOf_Seed
-#                   )
-#                )
-# 
-#     fig.savefig(fpath_PlotImage)
-#     
-#     # clear plot
-#     #ref https://stackoverflow.com/questions/8213522/when-to-use-cla-clf-or-close-for-clearing-a-plot-in-matplotlib
-#     plt.clf()
-#     
+    valOf_Mymodel   = mymodel(valOf_Mymodel_Param)
+    
+    print ("[%s:%d] valOf_Mymodel(param = %.2f) ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             , valOf_Mymodel_Param
+             )
+           )
+      
+    print(valOf_Mymodel)
+    
+
+    
+    '''###################
+        step : 3
+            plot : all entries
+    ###################'''
+    strOf_Time_Label = libs.get_TimeLabel_Now()
+     
+    fig = plt.figure()
+     
+    plt.scatter(x, y)
+     
+    dpath_PlotImage = "./data/s-7"
+    fname_PlotImage = "plot_image_%s" % (strOf_Time_Label)
+     
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+     
+    # title
+    plt.title("numpy.random.normal \nData = %d / Seed = %d"
+               % (
+                  numOf_Size
+                  , valOf_Seed
+                  )
+               )
+ 
+    fig.savefig(fpath_PlotImage)
+     
+    # clear plot
+    #ref https://stackoverflow.com/questions/8213522/when-to-use-cla-clf-or-close-for-clearing-a-plot-in-matplotlib
+    plt.clf()
+     
 #     '''###################
 #         step : 3 : 2
 #             plot : train
@@ -1340,29 +1389,38 @@ def test_15_Train_Test():
 # 
 #     fig.savefig(fpath_PlotImage)
 #     
-#     '''###################
-#         step : 3 : 3
-#             plot : test
-#     ###################'''
-#     fig = plt.figure()
-#     
-#     plt.scatter(test_x, test_y)
-#     
-#     dpath_PlotImage = "./data/s-7"
-#     fname_PlotImage = "plot_image_%s_[test]" % (strOf_Time_Label)
-#     
-#     fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
-#     
-#     # title
-#     plt.title("numpy.random.normal \nData = %d / Seed = %d / Partition = %d"
-#                % (
-#                   numOf_Size
-#                   , valOf_Seed
-#                   , valOf_Partition
-#                   )
-#                )
-# 
-#     fig.savefig(fpath_PlotImage)
+    '''###################
+        step : 3 : 3
+            plot : test
+    ###################'''
+    fig = plt.figure()
+     
+    plt.scatter(test_x, test_y)
+    
+    # r^2 line
+    plt.plot(myline, mymodel(myline), "r")
+    
+    # predicted val
+#     plt.plot(valOf_Mymodel_Param, valOf_Mymodel, "yo", size=200)
+#     plt.plot(valOf_Mymodel_Param, valOf_Mymodel, "yo", s=200)
+    plt.plot(valOf_Mymodel_Param, valOf_Mymodel, "yo")
+    
+    
+    dpath_PlotImage = "./data/s-7"
+    fname_PlotImage = "plot_image_%s_[test]" % (strOf_Time_Label)
+     
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+     
+    # title
+    plt.title("numpy.random.normal \nData = %d / Seed = %d / Partition = %d"
+               % (
+                  numOf_Size
+                  , valOf_Seed
+                  , valOf_Partition
+                  )
+               )
+ 
+    fig.savefig(fpath_PlotImage)
 
     '''###################
         step : 3 : 4
@@ -1388,6 +1446,207 @@ def test_15_Train_Test():
     
 # def test_15_Train_Test()://
     
+#ref https://www.w3schools.com/python/python_ml_decision_tree.asp
+def test_16_Tree():
+
+    strOf_FuncName = "test_16_Tree"
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+
+    print()
+    
+    #ref https://www.devdungeon.com/content/python-import-syspath-and-pythonpath-tutorial#toc-13
+    print ("[%s:%d] sys.path ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    print(sys.path)
+    
+    print()
+    
+    #ref https://www.devdungeon.com/content/python-import-syspath-and-pythonpath-tutorial#toc-13
+    print ("[%s:%d] os.environ[\"PATH\"] ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    print(os.environ["PATH"])
+    
+    '''###################
+        step : 2
+            data : load
+    ###################'''
+    df = pandas.read_csv("shows.csv")
+
+#     #debug
+#     print ("[%s:%d] df ==> " 
+#            % 
+#             (os.path.basename(libs.thisfile()), libs.linenum())
+#            )
+#        
+#     print(df)
+
+    '''###################
+        step : 2 : 2
+            data : mapping
+    ###################'''
+    d = {'UK': 0, 'USA': 1, 'N': 2}
+    df['Nationality'] = df['Nationality'].map(d)
+    d = {'YES': 1, 'NO': 0}
+    df['Go'] = df['Go'].map(d)
+
+#     #debug
+#     print ("[%s:%d] df (mapped) ==> " 
+#            % 
+#             (os.path.basename(libs.thisfile()), libs.linenum())
+#            )
+#        
+#     print(df)
+
+    '''###################
+        step : 2 : 3
+            data : feature, target
+    ###################'''
+    features = ['Age', 'Experience', 'Rank', 'Nationality']
+    
+    X = df[features]
+    y = df['Go']    
+    
+#     #debug
+#     print ("[%s:%d] feature, column ==> " 
+#            % 
+#             (os.path.basename(libs.thisfile()), libs.linenum())
+#            )
+#        
+#     print(X)
+#     print(y)
+    
+    '''###################
+        step : 3
+            tree
+    ###################'''
+    dtree = DecisionTreeClassifier()
+    dtree = dtree.fit(X, y)    
+    
+#     #debug
+#     print ("[%s:%d] dtree ==> " 
+#            % 
+#             (os.path.basename(libs.thisfile()), libs.linenum())
+#            )
+#        
+#     print(dtree)
+    
+    #debug:20210418_170812
+    data = tree.export_graphviz(dtree, out_file=None, feature_names=features)
+    
+#     #debug
+#     print ("[%s:%d] data ==> " 
+#            % 
+#             (os.path.basename(libs.thisfile()), libs.linenum())
+#            )
+#        
+#     print(data)
+
+    graph = pydotplus.graph_from_dot_data(data)
+
+#     #debug
+#     print ("[%s:%d] graph ==> " 
+#            % 
+#             (os.path.basename(libs.thisfile()), libs.linenum())
+#            )
+#         
+#     print(graph)    
+
+    '''###################
+        step : 4
+            graph
+    ###################'''
+    strOf_Time_Label = libs.get_TimeLabel_Now()
+    
+    dpath_PlotImage = "./data/s-10"
+#     dpath_PlotImage = "./data/s-9"
+    fname_PlotImage = "mydecisiontree.%s.png" % (strOf_Time_Label)
+#     fname_PlotImage = "plot_image_%s" % (strOf_Time_Label)
+     
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+    
+    graph.write_png(fpath_PlotImage)
+#     graph.write_png('mydecisiontree.png')
+
+    #debug
+    print ("[%s:%d] graph.write_png ==> %s" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             , fpath_PlotImage
+             )
+           )
+       
+    
+    img=pltimg.imread(fpath_PlotImage)
+#     img=pltimg.imread('mydecisiontree.png')
+    imgplot = plt.imshow(img)
+#     plt.show() 
+     
+    '''###################
+        step : 5
+            predict
+    ###################'''
+    litOf_Predict_Conditions    = [40, 10, 6, 1]
+#     litOf_Predict_Conditions    = [40, 10, 7, 1]
+    
+    #debug
+    print ("[%s:%d] litOf_Predict_Conditions ==>" 
+           % 
+            (
+             os.path.basename(libs.thisfile()), libs.linenum()
+             
+             )
+           )
+    
+    print(litOf_Predict_Conditions)
+    print(dtree.predict([litOf_Predict_Conditions])) 
+#     print(dtree.predict([[40, 10, 7, 1]])) 
+    
+    
+    
+    '''###################
+        step : 2
+            prep
+    ###################'''
+    
+    '''###################
+        step : 4
+            report
+    ###################'''
+#     #debug
+#     print ("[%s:%d] fig.savefig ==> %s" 
+#            % 
+#             (
+#              os.path.basename(libs.thisfile()), libs.linenum()
+#              , fpath_PlotImage
+#              )
+#            )
+#       
+#     print(x)
+    
+# def test_16_Tree()://
+    
     
 
 def exec_prog(): # from : 
@@ -1399,10 +1658,12 @@ def exec_prog(): # from :
     #n:20210413_142903
     #n:20210412_151638
     #n:20210411_172354
-    #n:20210414_160053
     #n:20210415_174210
+    #n:20210414_160053
     #n:20210416_153541
-    test_15_Train_Test()
+    #n:20210418_133238
+    test_16_Tree()
+#     test_15_Train_Test()
 #     test_14_Scale_Predict()
 #     test_13_Scale()
 #     test_12_Coefficient()
