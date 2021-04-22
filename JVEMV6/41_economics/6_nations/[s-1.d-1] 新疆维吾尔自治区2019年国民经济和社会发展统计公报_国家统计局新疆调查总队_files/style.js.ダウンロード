@@ -1,0 +1,52 @@
+/*
+ * @Description:
+ * @Company:TRS
+ * @Date: 2019/8/19 13:15
+ * @LastEditors: tong.kai
+ */
+//首页上下轮播
+window.onload=function(){
+    $('.lbonel .lbbox').simpleSwitch({
+        playTime: 3000,
+        type:'top',
+        prev:'.btn .zuo',
+        next:'.btn .you'
+    });
+//首页最大轮播
+    $('.pul li').simpleSwitch({
+        num: '.oul li',
+        className: 'cur',
+        playTime: 10000,
+    });
+
+    $('.lbpics li').simpleSwitch({
+        text: '.lbtext li',
+        playTime: 3000,
+        prev:'.btnz .zuo',
+        next:'.btnz .you',
+        indy:'.lbdatetwo .day',
+        lendy:'.lbdatetwo .mou'
+    });
+
+//首页最下轮播
+
+    $('.lbtwo .lbtext .p1').overEllipsis({
+        maxCount: 65
+    });
+    //首页互动交流字数
+    $('.vox p').overEllipsis({
+        maxCount: 30
+    });
+//首页tab切换
+    $('.newcenterr').tabSwitch({
+        tabHead: '.table-tit li',
+        tabCont: '.textbox .table-text',
+        cur: 'active'
+    });
+//底部下拉
+    jQuery('.drop-down p').dropDownFun({
+        tagSiblings: '.drop-lists',
+        optionItem: '.drop-down li',
+        optionBool: true
+    });
+};
