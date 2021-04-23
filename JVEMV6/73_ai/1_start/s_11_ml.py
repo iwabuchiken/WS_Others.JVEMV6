@@ -11,6 +11,7 @@ echo.>> log_s-11_ml.log
 echo ============================ >> log_s-11_ml.log
 python s_11_ml.py >> log_s-11_ml.log
 
+##
 pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\
 echo.>> log_s-11_ml.log && echo ============================ >> log_s-11_ml.log && python s_11_ml.py >> log_s-11_ml.log
 
@@ -67,8 +68,9 @@ from libs import cons
 '''###################
     import : pandas
 ###################'''
-from pandas.tests.io.msgpack.test_case import test_9
-import pandas
+# from pandas.tests.io.msgpack.test_case import test_9
+import pandas as pd
+# import pandas
 
 '''###################
     import : sklearn
@@ -78,6 +80,7 @@ from sklearn.preprocessing import StandardScaler
 
 #ref https://www.w3schools.com/python/python_ml_polynomial_regression.asp
 from sklearn.metrics import r2_score
+from sklearn import metrics
 
 from sklearn.preprocessing import StandardScaler
 
@@ -92,6 +95,11 @@ from sklearn.datasets import load_iris
 from sklearn.neighbors import KNeighborsClassifier
 
 from sklearn.model_selection import train_test_split
+
+#ref https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/
+from sklearn.externals import joblib
+
+
 
 print ("[%s:%d] sklerarn-related imports => done" % (os.path.basename(libs.thisfile()), libs.linenum()))
 
@@ -114,7 +122,7 @@ import matplotlib.image as pltimg
 ###################'''
 from shutil import copyfile
 
-import pydotplus, math
+import pydotplus, math, time
 
 # import getopt, inspect
 
@@ -318,6 +326,306 @@ def test_1():
 
     
 # def test_1()://
+
+#mark:20210422_162029
+def test_S_12_Scikit():
+
+    strOf_FuncName = "test_S_12_Scikit"
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    #ref https://stackoverflow.com/questions/56711424/how-can-i-count-time-in-python-3
+    
+    t_start = time.time()
+    
+    #ref https://stackoverflow.com/questions/51846547/how-to-convert-float-into-hours-minutes-seconds
+    
+    
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+
+    print()
+    
+    '''###################
+        step : 2
+            data : load
+    ###################'''
+    iris = load_iris()
+#     iris_dataset=load_iris()
+    
+    #debug
+    print ("[%s:%d] load_iris => done"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print("type(iris) => ", type(iris))
+    
+    '''###################
+        step : 2 : 1
+            data : store
+    ###################'''
+    X = iris.data
+    y = iris.target
+    
+    feature_names = iris.feature_names
+    target_names = iris.target_names
+    
+    #debug
+    print ("[%s:%d] feature_names, targets =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print("feature_names :")
+    print(feature_names)
+    print()
+
+    print("target_names :")
+    print(target_names)
+    print()
+
+#     #debug
+#     print ("[%s:%d] iris =>"
+#             % (os.path.basename(libs.thisfile()), libs.linenum()
+#                
+#                )
+#     )
+#     
+#     print(iris)
+#     print()
+    
+
+    '''###################
+        step : 2 : 2
+            data : type
+    ###################'''
+    #debug
+    print ("[%s:%d] type(X) =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print(type(X))
+    print()
+
+    '''###################
+        step : 2 : 3
+            data : X
+    ###################'''
+    #debug
+    print ("[%s:%d] X[:5] =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print(X[:5])
+    print()
+
+    '''###################
+        step : 3
+            data : use pandas
+    ###################'''
+#     data = pd.read_csv('weather.csv')
+#         
+#     #debug
+#     print ("[%s:%d] type(data) =>"
+#             % (os.path.basename(libs.thisfile()), libs.linenum()
+#                
+#                )
+#     )
+#     
+#     print(type(data))
+#     print()
+#     
+#     print(data)
+#     print()
+#             #     <class 'pandas.core.frame.DataFrame'>    
+#     
+#     #mark:20210422_164640
+# 
+#     #debug
+#     print ("[%s:%d] data.shape =>"
+#             % (os.path.basename(libs.thisfile()), libs.linenum()
+#                )
+#     )
+#     
+#     print(data.shape); print()
+#     
+#     #debug
+#     print ("[%s:%d] data.columns =>"
+#             % (os.path.basename(libs.thisfile()), libs.linenum()
+#                )
+#     )
+#     
+#     print(data.columns); print()
+    
+    '''###################
+        step : 4
+            data : train
+    ###################'''
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=1)
+        
+    #debug
+    print ("[%s:%d] X_train, test : shape =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print("X_train.shape :")
+    print(X_train.shape)
+    print()
+    
+    print("X_train.test :")
+    print(X_test.shape)
+    print()
+
+    #debug
+    print ("[%s:%d] y_train, test : shape =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print("y_train.shape :")
+    print(y_train.shape)
+    print()
+    
+    print("y_train.test :")
+    print(y_test.shape)
+    print()
+
+    '''###################
+        step : 5
+            data : classifier
+    ###################'''
+    #mark:20210422_170418
+    
+    #ref https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/
+    knn = KNeighborsClassifier(n_neighbors=3)
+    
+    # fit
+    knn.fit(X_train, y_train)
+    
+    # predict
+    y_pred = knn.predict(X_test)
+        
+    #debug
+    print ("[%s:%d] y_pred =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print(y_pred)
+    print()
+    
+    '''###################
+        step : 5 : 1
+            prediction : scoring
+    ###################'''
+    #mark:20210422_171840
+    
+    knn_model_accuracy  = metrics.accuracy_score(y_test, y_pred)
+    
+    #debug
+    print ("[%s:%d] knn_model_accuracy =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+    print(knn_model_accuracy)
+    print()
+    
+    '''###################
+        step : 5 : 2
+            prediction : aking
+    ###################'''
+    sample = [[3, 5, 4, 2], [2, 3, 5, 4]]
+    preds = knn.predict(sample)
+    pred_species = [iris.target_names[p] for p in preds]    
+    
+    #debug
+#     print ("[%s:%d] preds =>"
+    print ("[%s:%d] prediction =>"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+#     print(preds)
+    print("sample : ")
+    print(sample)
+    print()
+    
+    print("preds :")
+    print(preds)
+    print()
+    
+    print("pred_species :")
+    print(pred_species)
+    print()
+
+    '''###################
+        step : 6
+            joblib
+    ###################'''
+    #mark:20210422_172852
+    
+    joblib.dump(knn, 'iris_knn.pkl')
+    
+    #debug
+#     print ("[%s:%d] preds =>"
+    print ("[%s:%d] joblib.dump => comp."
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               
+               )
+    )
+    
+
+    '''###################
+        step : 6
+            results
+    ###################'''
+    '''###################
+        step : 6 : 1
+            time
+    ###################'''
+    t_end   = time.time()
+
+    #debug
+#     print ("[%s:%d] time => %s"
+    #ref https://www.pythonpool.com/python-float-to-string/#5_Using_NumPy
+    print ("[%s:%d] time => %.03f sec"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               , (t_end - t_start)
+               )
+    )
+    
+    print()
+    
+    
+    '''###################
+        step : X
+            data : train
+    ###################'''
+
+# def test_S_12_Scikit()://
     
     
 
@@ -327,7 +635,8 @@ def exec_prog(): # from :
     '''###################
         execute
     ###################'''
-    test_1()
+    test_S_12_Scikit()
+#     test_1()
     
     '''###################
         Report        
