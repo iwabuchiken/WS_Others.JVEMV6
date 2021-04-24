@@ -1,0 +1,120 @@
+ 
+============================  
+ 
+============================  
+[s_14_ml.py:104] sklerarn-related imports => done
+
+[s_14_ml.py:345] starting : test_S_14_No_1 (time=20210424_153203)
+
+[s_14_ml.py:362] x, y :
+[[1 2]
+ [3 4]]
+[[5 6]
+ [7 8]]
+[s_14_ml.py:389] time => 0.047 sec
+
+[s_14_ml.py:417] exec_prog => done
+
+[s_14_ml.py:452] all done
+ 
+============================  
+[s_14_ml.py:104] sklerarn-related imports => done
+
+[s_14_ml.py:345] starting : test_S_14_No_1 (time=20210424_153653)
+
+[s_14_ml.py:362] x, y :
+[[1 2]
+ [3 4]]
+[[5 6]
+ [7 8]]
+[s_14_ml.py:381] valOf_InnerProd :
+219
+
+[s_14_ml.py:410] time => 0.031 sec
+
+[s_14_ml.py:438] exec_prog => done
+
+[s_14_ml.py:473] all done
+ 
+============================  
+[s_14_ml.py:104] sklerarn-related imports => done
+
+[s_14_ml.py:345] starting : test_S_14_No_1 (time=20210424_153729)
+
+[s_14_ml.py:362] x, y :
+[[1 2]
+ [3 4]]
+[[5 6]
+ [7 8]]
+[s_14_ml.py:381] valOf_InnerProd :
+[ 9 10]
+[11 12]
+219
+
+[s_14_ml.py:412] time => 0.016 sec
+
+[s_14_ml.py:440] exec_prog => done
+
+[s_14_ml.py:475] all done
+ 
+============================  
+[s_14_ml.py:104] sklerarn-related imports => done
+
+[s_14_ml.py:345] starting : test_S_14_No_1 (time=20210424_153923)
+
+[s_14_ml.py:362] x, y :
+[[1 2]
+ [3 4]]
+[[5 6]
+ [7 8]]
+[s_14_ml.py:381] valOf_InnerProd :
+[ 9 10]
+[11 12]
+219
+
+[s_14_ml.py:399] valOf_Vector_Prod :
+[[1 2]
+ [3 4]]
+[ 9 10]
+[29 67]
+
+[s_14_ml.py:428] time => 0.016 sec
+
+[s_14_ml.py:456] exec_prog => done
+
+[s_14_ml.py:491] all done
+ 
+============================  
+[s_14_ml.py:104] sklerarn-related imports => done
+
+[s_14_ml.py:345] starting : test_S_14_No_1 (time=20210424_154333)
+
+[s_14_ml.py:362] x, y :
+[[1 2]
+ [3 4]]
+[[5 6]
+ [7 8]]
+[s_14_ml.py:381] valOf_InnerProd :
+[ 9 10]
+[11 12]
+219
+
+[s_14_ml.py:399] valOf_Vector_Prod :
+[[1 2]
+ [3 4]]
+[ 9 10]
+[29 67]
+
+[s_14_ml.py:417] valOf_Prod_Matrix :
+[[1 2]
+ [3 4]]
+[[5 6]
+ [7 8]]
+[[19 22]
+ [43 50]]
+
+[s_14_ml.py:446] time => 0.172 sec
+
+[s_14_ml.py:474] exec_prog => done
+
+[s_14_ml.py:509] all done
