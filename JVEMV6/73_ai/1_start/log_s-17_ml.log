@@ -1,0 +1,113 @@
+ 
+============================  
+[s_17_ml.py:104] sklerarn-related imports => done
+
+[s_17_ml.py:158] starting : main() (time=20210502_164116)
+
+[s_17_ml.py:190] time => 0.000 sec
+
+[s_17_ml.py:218] exec_prog => done
+
+[s_17_ml.py:253] all done
+ 
+============================  
+[s_17_ml.py:104] sklerarn-related imports => done
+
+[s_17_ml.py:156] starting : main() (time=20210502_164502)
+
+[s_17_ml.py:188] time => 0.000 sec
+
+[s_17_ml.py:216] exec_prog => done
+
+[s_17_ml.py:251] all done
+ 
+============================  
+[s_17_ml.py:104] sklerarn-related imports => done
+
+[s_17_ml.py:171] starting : main() (time=20210502_164713)
+
+Dataset Length:  625
+Dataset Shape:  (625, 5)
+Dataset:     0  1  2  3  4
+0  B  1  1  1  1
+1  R  1  1  1  2
+2  R  1  1  1  3
+3  R  1  1  1  4
+4  R  1  1  1  5
+[s_17_ml.py:188] importdata ==> comp.
+
+[s_17_ml.py:213] time => 2.184 sec
+
+[s_17_ml.py:241] exec_prog => done
+
+[s_17_ml.py:276] all done
+ 
+============================  
+[s_17_ml.py:104] sklerarn-related imports => done
+
+[s_17_ml.py:172] starting : main() (time=20210502_165638)
+
+Dataset Length:  625
+Dataset Shape:  (625, 5)
+Dataset (first 3 rows): 
+    0  1  2  3  4
+0  B  1  1  1  1
+1  R  1  1  1  2
+2  R  1  1  1  3
+[s_17_ml.py:189] importdata ==> comp.
+
+[s_17_ml.py:214] time => 1.607 sec
+
+[s_17_ml.py:242] exec_prog => done
+
+[s_17_ml.py:277] all done
+ 
+============================  
+[s_17_ml.py:104] sklerarn-related imports => done
+
+[s_17_ml.py:202] starting : main() (time=20210502_170455)
+
+Dataset Length:  625
+Dataset Shape:  (625, 5)
+Dataset:     0  1  2  3  4
+0  B  1  1  1  1
+1  R  1  1  1  2
+2  R  1  1  1  3
+3  R  1  1  1  4
+4  R  1  1  1  5
+[s_17_ml.py:219] importdata ==> comp.
+
+[s_17_ml.py:253] time => 1.654 sec
+
+[s_17_ml.py:281] exec_prog => done
+
+[s_17_ml.py:316] all done
+ 
+============================  
+[s_17_ml.py:104] sklerarn-related imports => done
+
+[s_17_ml.py:213] starting : main() (time=20210502_171003)
+
+Dataset Length:  625
+Dataset Shape:  (625, 5)
+Dataset:     0  1  2  3  4
+0  B  1  1  1  1
+1  R  1  1  1  2
+2  R  1  1  1  3
+3  R  1  1  1  4
+4  R  1  1  1  5
+[s_17_ml.py:230] importdata ==> comp.
+
+[s_17_ml.py:180] balance_data.dtypes ==>
+0    object
+1     int64
+2     int64
+3     int64
+4     int64
+dtype: object
+
+[s_17_ml.py:264] time => 1.638 sec
+
+[s_17_ml.py:292] exec_prog => done
+
+[s_17_ml.py:327] all done
