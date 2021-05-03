@@ -100,8 +100,13 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 
+from sklearn import tree
 
-print ("[%s:%d] sklerarn-related imports => done" % (os.path.basename(libs.thisfile()), libs.linenum()))
+
+print ("[%s:%d] sklerarn-related imports => comp. (tree, too)" 
+            % (os.path.basename(libs.thisfile()), libs.linenum())
+       )
+# print ("[%s:%d] sklerarn-related imports => done" % (os.path.basename(libs.thisfile()), libs.linenum()))
 
 '''###################
     import : scipy, numpy, matplotlib, pandas
@@ -172,6 +177,19 @@ def train_using_gini(X_train, X_test, y_train):
     return clf_gini
 
 # Function to split the dataset
+
+# Function to perform training with entropy.
+def tarin_using_entropy(X_train, X_test, y_train):
+  
+    # Decision tree with entropy
+    clf_entropy = DecisionTreeClassifier(
+            criterion = "entropy", random_state = 100,
+            max_depth = 3, min_samples_leaf = 5)
+  
+    # Performing training
+    clf_entropy.fit(X_train, y_train)
+    return clf_entropy
+
 def splitdataset(balance_data):
     
     #debug:20210502_170801
@@ -191,7 +209,7 @@ def splitdataset(balance_data):
     print()
     
     # Separating the target variable
-    X = balance_data.values[:, 1:5]
+    X = balance_data.values[:, 1:5] #=> choose : all rows, columns of 1 thru 4 (index-wise, 5th not in)
     Y = balance_data.values[:, 0]
   
     # Splitting the dataset into train and test
@@ -244,10 +262,152 @@ def main():
     ###################'''
     X, Y, X_train, X_test, y_train, y_test = splitdataset(data)
     #n:20210502_171207
+
+    #debug
+    print ("[%s:%d] type(X) ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(type(X))
+    print()
+
+    #debug:20210503_160446
+    print ("[%s:%d] X.shape ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
     
-#     clf_gini = train_using_gini(X_train, X_test, y_train)
-#     clf_entropy = tarin_using_entropy(X_train, X_test, y_train)    
+    #ref https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/
+    print(X.shape)
+    print()
+            # (625, 4)
+
+    #debug:20210503_160757
+    print ("[%s:%d] X[:3] ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(X[:3])
+    print()
+            # [[1 1 1 1]
+            #  [1 1 1 2]
+            #  [1 1 1 3]]
+    
+    #code:20210503_162445
+    clf_gini = train_using_gini(X_train, X_test, y_train)
+
+    #debug:20210503_162611
+    print ("[%s:%d] clf_gini ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(clf_gini)
+    print()
+            # DecisionTreeClassifier(class_weight=None,... 
+            
+    #code:20210503_162857
+    clf_entropy = tarin_using_entropy(X_train, X_test, y_train)    
+
+    #debug:20210503_163047
+    print ("[%s:%d] clf_entropy ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(clf_entropy)
+    print()
         
+    '''###################
+        step : 2 : 2
+            data : graphviz, png file
+    ###################'''
+    data = tree.export_graphviz(clf_gini, out_file=None)
+#     data = tree.export_graphviz(dtree, out_file=None, feature_names=features)
+    
+    #debug:20210503_164342
+    print ("[%s:%d] export_graphviz ==> comp" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+#     print(clf_entropy)
+    print()
+    
+    # 
+    graph = pydotplus.graph_from_dot_data(data)
+    
+    strOf_Time_Label = libs.get_TimeLabel_Now()
+    
+    dpath_PlotImage = "./data/s-18"
+#     dpath_PlotImage = "./data/s-9"
+    fname_PlotImage = "decisiontree.%s.png" % (strOf_Time_Label)
+#     fname_PlotImage = "mydecisiontree.%s.png" % (strOf_Time_Label)
+#     fname_PlotImage = "plot_image_%s" % (strOf_Time_Label)
+     
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+    
+    graph.write_png(fpath_PlotImage)    
+    
+    #debug:20210503_165123
+    print ("[%s:%d] decisiontree png file ==> comp : %s" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , fpath_PlotImage
+                )
+    )
+
+    print()
+    
+    '''###################
+        step : 2 : 2.2
+            data : graphviz, png file
+    ###################'''
+    data_entropy = tree.export_graphviz(clf_entropy, out_file=None)
+    
+    #debug:20210503_165911
+    print ("[%s:%d] export_graphviz (clf_entropy) ==> comp" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+#     print(clf_entropy)
+    print()
+    
+    # 
+    graph = pydotplus.graph_from_dot_data(data_entropy)
+    
+    strOf_Time_Label = libs.get_TimeLabel_Now()
+    
+    dpath_PlotImage = "./data/s-18"
+#     dpath_PlotImage = "./data/s-9"
+
+    fname_PlotImage = "decisiontree.%s.[clf_entropy].png" % (strOf_Time_Label)
+    
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+    
+    graph.write_png(fpath_PlotImage)    
+    
+    print ("[%s:%d] decisiontree png file ==> comp : %s" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , fpath_PlotImage
+                )
+    )
+
+    print()
+    
+    #n:20210503_170550
+    
     '''###################
         step : 2 : 1
             data : store
