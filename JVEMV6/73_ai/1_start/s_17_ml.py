@@ -145,10 +145,25 @@ import pydotplus, math, time
 
 # Function importing Dataset
 def importdata():
-    balance_data = pd.read_csv(
-'https://archive.ics.uci.edu/ml/machine-learning-'+
-'databases/balance-scale/balance-scale.data',
-    sep= ',', header = None)
+    
+    #code:20210505_162927
+    fpath_CSV   = "C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\73_ai\\1_start\\data\\s-19\\balance-scale.data" 
+    
+    print ("[%s:%d] loading csv file... : %s" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , fpath_CSV
+                )
+    )
+
+    print()
+    
+    #ref https://datascienceparichay.com/article/read-csv-files-using-pandas-with-examples/
+    balance_data = pd.read_csv(fpath_CSV)
+#     balance_data = pd.read_csv(
+# 'https://archive.ics.uci.edu/ml/machine-learning-'+
+# 'databases/balance-scale/balance-scale.data',
+#     sep= ',', header = None)
       
     # Printing the dataswet shape
     print ("Dataset Length: ", len(balance_data))
@@ -217,6 +232,26 @@ def splitdataset(balance_data):
     X, Y, test_size = 0.3, random_state = 100)
 
     return X, Y, X_train, X_test, y_train, y_test
+
+def cal_accuracy(y_test, y_pred):
+      
+    print("Confusion Matrix: ",
+        confusion_matrix(y_test, y_pred))
+      
+    print ("Accuracy : ",
+    accuracy_score(y_test,y_pred)*100)
+      
+    print("Report : ",
+    classification_report(y_test, y_pred))
+
+# Function to make predictions
+def prediction(X_test, clf_object):
+  
+    # Predicton on test with giniIndex
+    y_pred = clf_object.predict(X_test)
+    print("Predicted values:")
+    print(y_pred)
+    return y_pred
 
 def main():
 
@@ -406,7 +441,25 @@ def main():
 
     print()
     
+    '''###################
+        step : 3 : 1
+            prediction : gini
+    ###################'''
     #n:20210503_170550
+    # Prediction using gini
+    y_pred_gini = prediction(X_test, clf_gini)
+    
+    cal_accuracy(y_test, y_pred_gini)    
+    
+    '''###################
+        step : 3 : 1
+            prediction : gini
+    ###################'''
+    #code:20210505_164310
+    # Prediction using entropy
+    y_pred_entropy = prediction(X_test, clf_entropy)
+
+    cal_accuracy(y_test, y_pred_entropy)
     
     '''###################
         step : 2 : 1
@@ -441,6 +494,249 @@ def main():
     ###################'''
 
 # def main()()://
+
+#n:20210505_165121    
+def main_202105XX():
+
+    strOf_FuncName = "main_202105XX()"
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    #ref https://stackoverflow.com/questions/56711424/how-can-i-count-time-in-python-3
+    t_start = time.time()
+    
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+
+    print()
+    
+    '''###################
+        step : 2
+            data : prep
+    ###################'''
+# Building Phase
+    data = importdata()
+
+    print ("[%s:%d] importdata ==> comp." % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print()
+
+    '''###################
+        step : 2 : 1
+            data : store
+    ###################'''
+    X, Y, X_train, X_test, y_train, y_test = splitdataset(data)
+    #n:20210502_171207
+
+    #debug
+    print ("[%s:%d] type(X) ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(type(X))
+    print()
+
+    #debug:20210503_160446
+    print ("[%s:%d] X.shape ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    #ref https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/
+    print(X.shape)
+    print()
+            # (625, 4)
+
+    #debug:20210503_160757
+    print ("[%s:%d] X[:3] ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(X[:3])
+    print()
+            # [[1 1 1 1]
+            #  [1 1 1 2]
+            #  [1 1 1 3]]
+    
+    #code:20210503_162445
+    clf_gini = train_using_gini(X_train, X_test, y_train)
+
+    #debug:20210503_162611
+    print ("[%s:%d] clf_gini ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(clf_gini)
+    print()
+            # DecisionTreeClassifier(class_weight=None,... 
+            
+    #code:20210503_162857
+    clf_entropy = tarin_using_entropy(X_train, X_test, y_train)    
+
+    #debug:20210503_163047
+    print ("[%s:%d] clf_entropy ==>" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    print(clf_entropy)
+    print()
+        
+    '''###################
+        step : 2 : 2
+            data : graphviz, png file
+    ###################'''
+    data = tree.export_graphviz(clf_gini, out_file=None)
+#     data = tree.export_graphviz(dtree, out_file=None, feature_names=features)
+    
+    #debug:20210503_164342
+    print ("[%s:%d] export_graphviz ==> comp" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+#     print(clf_entropy)
+    print()
+    
+    # 
+    graph = pydotplus.graph_from_dot_data(data)
+    
+    strOf_Time_Label = libs.get_TimeLabel_Now()
+    
+    dpath_PlotImage = "./data/s-18"
+#     dpath_PlotImage = "./data/s-9"
+    fname_PlotImage = "decisiontree.%s.png" % (strOf_Time_Label)
+#     fname_PlotImage = "mydecisiontree.%s.png" % (strOf_Time_Label)
+#     fname_PlotImage = "plot_image_%s" % (strOf_Time_Label)
+     
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+    
+    graph.write_png(fpath_PlotImage)    
+    
+    #debug:20210503_165123
+    print ("[%s:%d] decisiontree png file ==> comp : %s" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , fpath_PlotImage
+                )
+    )
+
+    print()
+    
+    '''###################
+        step : 2 : 2.2
+            data : graphviz, png file
+    ###################'''
+    data_entropy = tree.export_graphviz(clf_entropy, out_file=None)
+    
+    #debug:20210503_165911
+    print ("[%s:%d] export_graphviz (clf_entropy) ==> comp" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+#     print(clf_entropy)
+    print()
+    
+    # 
+    graph = pydotplus.graph_from_dot_data(data_entropy)
+    
+    strOf_Time_Label = libs.get_TimeLabel_Now()
+    
+    dpath_PlotImage = "./data/s-18"
+#     dpath_PlotImage = "./data/s-9"
+
+    fname_PlotImage = "decisiontree.%s.[clf_entropy].png" % (strOf_Time_Label)
+    
+    fpath_PlotImage = os.path.join(dpath_PlotImage, fname_PlotImage)
+    
+    graph.write_png(fpath_PlotImage)    
+    
+    print ("[%s:%d] decisiontree png file ==> comp : %s" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , fpath_PlotImage
+                )
+    )
+
+    print()
+    
+    '''###################
+        step : 3 : 1
+            prediction : gini
+    ###################'''
+    #n:20210503_170550
+    # Prediction using gini
+    y_pred_gini = prediction(X_test, clf_gini)
+    
+    cal_accuracy(y_test, y_pred_gini)    
+    
+    '''###################
+        step : 3 : 1
+            prediction : gini
+    ###################'''
+    #code:20210505_164310
+    # Prediction using entropy
+    y_pred_entropy = prediction(X_test, clf_entropy)
+
+    cal_accuracy(y_test, y_pred_entropy)
+    
+    '''###################
+        step : 2 : 1
+            data : store
+    ###################'''
+
+    '''###################
+        step : 6
+            results
+    ###################'''
+    '''###################
+        step : 6 : 1
+            time
+    ###################'''
+    t_end   = time.time()
+
+    #debug
+#     print ("[%s:%d] time => %s"
+    #ref https://www.pythonpool.com/python-float-to-string/#5_Using_NumPy
+    print ("[%s:%d] time => %.03f sec"
+            % (os.path.basename(libs.thisfile()), libs.linenum()
+               , (t_end - t_start)
+               )
+    )
+    
+    print()
+    
+    
+    '''###################
+        step : X
+            data : train
+    ###################'''
+
+# def main_202105XX()()://
     
     
 
@@ -451,6 +747,7 @@ def exec_prog(): # from :
         execute
     ###################'''
     main()
+#     main()
     
     '''###################
         Report        

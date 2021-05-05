@@ -655,3 +655,219 @@ DecisionTreeClassifier(class_weight=None, criterion='entropy', max_depth=3,
 [s_17_ml.py:492] all done
  
 ============================  
+ 
+============================  
+[s_17_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_17_ml.py:256] starting : main() (time=20210505_162245)
+
+ 
+============================  
+[s_17_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_17_ml.py:256] starting : main() (time=20210505_162621)
+
+ 
+============================  
+[s_17_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_17_ml.py:270] starting : main() (time=20210505_163251)
+
+[s_17_ml.py:154] loading csv file... : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data\s-19\balance-scale.data
+
+Dataset Length:  624
+Dataset Shape:  (624, 5)
+Dataset:     B  1  1.1  1.2  1.3
+0  R  1    1    1    2
+1  R  1    1    1    3
+2  R  1    1    1    4
+3  R  1    1    1    5
+4  R  1    1    2    1
+[s_17_ml.py:287] importdata ==> comp.
+
+[s_17_ml.py:212] balance_data.dtypes ==>
+B      object
+1       int64
+1.1     int64
+1.2     int64
+1.3     int64
+dtype: object
+
+[s_17_ml.py:303] type(X) ==>
+<class 'numpy.ndarray'>
+
+[s_17_ml.py:313] X.shape ==>
+(624, 4)
+
+[s_17_ml.py:325] X[:3] ==>
+[[1 1 1 2]
+ [1 1 1 3]
+ [1 1 1 4]]
+
+[s_17_ml.py:341] clf_gini ==>
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=3,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=5, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=100,
+            splitter='best')
+
+[s_17_ml.py:355] clf_entropy ==>
+DecisionTreeClassifier(class_weight=None, criterion='entropy', max_depth=3,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=5, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=100,
+            splitter='best')
+
+[s_17_ml.py:372] export_graphviz ==> comp
+
+[s_17_ml.py:397] decisiontree png file ==> comp : ./data/s-18\decisiontree.20210505_163252.png
+
+[s_17_ml.py:413] export_graphviz (clf_entropy) ==> comp
+
+[s_17_ml.py:436] decisiontree png file ==> comp : ./data/s-18\decisiontree.20210505_163257.[clf_entropy].png
+
+Predicted values:
+['R' 'L' 'R' 'R' 'L' 'L' 'L' 'L' 'R' 'L' 'R' 'R' 'L' 'L' 'R' 'R' 'L' 'L'
+ 'R' 'L' 'L' 'R' 'R' 'L' 'R' 'L' 'R' 'R' 'R' 'L' 'L' 'L' 'R' 'L' 'L' 'L'
+ 'R' 'R' 'L' 'L' 'R' 'L' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'R' 'R'
+ 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'R' 'L' 'L' 'L' 'R' 'R' 'R' 'L' 'R' 'R'
+ 'R' 'L' 'L' 'L' 'L' 'R' 'R' 'L' 'R' 'R' 'L' 'L' 'L' 'R' 'R' 'L' 'R' 'L'
+ 'R' 'R' 'L' 'L' 'L' 'R' 'R' 'L' 'L' 'R' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'R'
+ 'L' 'L' 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'R' 'R' 'L' 'L' 'R' 'L' 'L' 'L'
+ 'L' 'L' 'L' 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'R' 'L' 'R' 'L' 'R' 'L' 'R'
+ 'L' 'R' 'R' 'L' 'L' 'R' 'L' 'R' 'L' 'R' 'R' 'R' 'L' 'R' 'L' 'R' 'R' 'R'
+ 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R'
+ 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R']
+Confusion Matrix:  [[ 0  6  8]
+ [ 0 63 28]
+ [ 0 11 72]]
+Accuracy :  71.8085106383
+Report :               precision    recall  f1-score   support
+
+          B       0.00      0.00      0.00        14
+          L       0.79      0.69      0.74        91
+          R       0.67      0.87      0.75        83
+
+avg / total       0.68      0.72      0.69       188
+
+[s_17_ml.py:473] time => 5.819 sec
+
+[s_17_ml.py:501] exec_prog => done
+
+[s_17_ml.py:536] all done
+ 
+============================  
+[s_17_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_17_ml.py:271] starting : main() (time=20210505_164416)
+
+[s_17_ml.py:154] loading csv file... : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data\s-19\balance-scale.data
+
+Dataset Length:  624
+Dataset Shape:  (624, 5)
+Dataset:     B  1  1.1  1.2  1.3
+0  R  1    1    1    2
+1  R  1    1    1    3
+2  R  1    1    1    4
+3  R  1    1    1    5
+4  R  1    1    2    1
+[s_17_ml.py:288] importdata ==> comp.
+
+[s_17_ml.py:213] balance_data.dtypes ==>
+B      object
+1       int64
+1.1     int64
+1.2     int64
+1.3     int64
+dtype: object
+
+[s_17_ml.py:304] type(X) ==>
+<class 'numpy.ndarray'>
+
+[s_17_ml.py:314] X.shape ==>
+(624, 4)
+
+[s_17_ml.py:326] X[:3] ==>
+[[1 1 1 2]
+ [1 1 1 3]
+ [1 1 1 4]]
+
+[s_17_ml.py:342] clf_gini ==>
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=3,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=5, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=100,
+            splitter='best')
+
+[s_17_ml.py:356] clf_entropy ==>
+DecisionTreeClassifier(class_weight=None, criterion='entropy', max_depth=3,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=5, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=100,
+            splitter='best')
+
+[s_17_ml.py:373] export_graphviz ==> comp
+
+[s_17_ml.py:398] decisiontree png file ==> comp : ./data/s-18\decisiontree.20210505_164417.png
+
+[s_17_ml.py:414] export_graphviz (clf_entropy) ==> comp
+
+[s_17_ml.py:437] decisiontree png file ==> comp : ./data/s-18\decisiontree.20210505_164419.[clf_entropy].png
+
+Predicted values:
+['R' 'L' 'R' 'R' 'L' 'L' 'L' 'L' 'R' 'L' 'R' 'R' 'L' 'L' 'R' 'R' 'L' 'L'
+ 'R' 'L' 'L' 'R' 'R' 'L' 'R' 'L' 'R' 'R' 'R' 'L' 'L' 'L' 'R' 'L' 'L' 'L'
+ 'R' 'R' 'L' 'L' 'R' 'L' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'R' 'R'
+ 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'R' 'L' 'L' 'L' 'R' 'R' 'R' 'L' 'R' 'R'
+ 'R' 'L' 'L' 'L' 'L' 'R' 'R' 'L' 'R' 'R' 'L' 'L' 'L' 'R' 'R' 'L' 'R' 'L'
+ 'R' 'R' 'L' 'L' 'L' 'R' 'R' 'L' 'L' 'R' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'R'
+ 'L' 'L' 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'R' 'R' 'L' 'L' 'R' 'L' 'L' 'L'
+ 'L' 'L' 'L' 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'R' 'L' 'R' 'L' 'R' 'L' 'R'
+ 'L' 'R' 'R' 'L' 'L' 'R' 'L' 'R' 'L' 'R' 'R' 'R' 'L' 'R' 'L' 'R' 'R' 'R'
+ 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R'
+ 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R']
+Confusion Matrix:  [[ 0  6  8]
+ [ 0 63 28]
+ [ 0 11 72]]
+Accuracy :  71.8085106383
+Report :               precision    recall  f1-score   support
+
+          B       0.00      0.00      0.00        14
+          L       0.79      0.69      0.74        91
+          R       0.67      0.87      0.75        83
+
+avg / total       0.68      0.72      0.69       188
+
+Predicted values:
+['R' 'L' 'R' 'L' 'L' 'L' 'L' 'L' 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R' 'L' 'L'
+ 'R' 'R' 'L' 'R' 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'L' 'L' 'L' 'R' 'L' 'R' 'R'
+ 'R' 'L' 'R' 'L' 'L' 'L' 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'R'
+ 'R' 'R' 'R' 'R' 'L' 'L' 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'R' 'L' 'R' 'L'
+ 'R' 'L' 'L' 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R' 'L' 'R' 'L'
+ 'R' 'R' 'L' 'L' 'R' 'R' 'R' 'L' 'L' 'R' 'L' 'L' 'L' 'R' 'L' 'R' 'R' 'R'
+ 'L' 'L' 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'L' 'L'
+ 'R' 'L' 'R' 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R'
+ 'R' 'L' 'R' 'L' 'L' 'R' 'R' 'R' 'L' 'R' 'L' 'R' 'L' 'R' 'L' 'R' 'R' 'L'
+ 'R' 'L' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'L' 'R' 'R' 'R' 'L' 'L' 'R' 'R' 'R'
+ 'R' 'R' 'R' 'L' 'R' 'L' 'R' 'R']
+Confusion Matrix:  [[ 0  6  8]
+ [ 0 53 38]
+ [ 0 11 72]]
+Accuracy :  66.4893617021
+Report :               precision    recall  f1-score   support
+
+          B       0.00      0.00      0.00        14
+          L       0.76      0.58      0.66        91
+          R       0.61      0.87      0.72        83
+
+avg / total       0.64      0.66      0.63       188
+
+[s_17_ml.py:483] time => 3.040 sec
+
+[s_17_ml.py:511] exec_prog => done
+
+[s_17_ml.py:546] all done
