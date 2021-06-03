@@ -1,0 +1,6 @@
+Percent conversion and yield at steady-state for methanol conversion on H-SAPO-34 
+Intermediate Species 
+The main focus of Wang et al.is to review investigations of the intermediate species involved in the MTO process.Some of the olefins, methanol, and DME react further to yield heavier species.These species, termed the “hydrocarbon pool,” are occluded in the pores and catalyze the formation of olefins from methanol.The composition and catalytic role of the hydrocarbon pool are discussed in detail here.
+In the formation of DME, the role of surface methoxy groups has been debated.Surface methoxy groups may be formed from the reaction of methanol with a zeolite acid site.The possible role of these species in DME formation and the formation of initial hydrocarbons are also investigated (see surface methoxy).
+Dahl and Kolboe.J.Catalysis.1994, 149, 458.Wang et.al.Catalysis Today.2006, 113, 102.
+ 
