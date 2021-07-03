@@ -28,7 +28,11 @@ if "%1"=="he" (
 	echo %%1 is %1!
 
 REM start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\start_web-pages_hebrew.bat
-call C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\start_web-pages_hebrew.bat
+rem call C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\start_web-pages_hebrew.bat
+
+rem : change dir : 2021”N7ŒŽ3“ú10:45:10
+call C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\storage_9_prog_lang\start_web-pages_hebrew.bat
+
 
 REM pushd "C:\WORKS_2\Programs\opera"
 REM 	pushd "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application"
@@ -93,13 +97,18 @@ REM start launcher.exe https://stopwatch-app.com
 REM 	start brave.exe "https://docs.google.com/spreadsheets/d/1SFebXPC8pWMXHu3NjxDeGDX-GgtGDLjg0pRbmse_-B0/edit#gid=1396336879"
 
 REM : word list : 2019/08/15 09:22:49
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.ods
+rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.odt
 
-	start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
+rem : change dir : 2021”N7ŒŽ3“ú10:43:50
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\storage_9_prog_lang\ancient_hebrew.odt
+
+rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\ancient_hebrew.ods
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 
 REM time label
-C:\WORKS_2\t.bat
+rem : c/o : 2021”N7ŒŽ3“ú10:44:17
+rem C:\WORKS_2\t.bat
 
 	goto end
 
