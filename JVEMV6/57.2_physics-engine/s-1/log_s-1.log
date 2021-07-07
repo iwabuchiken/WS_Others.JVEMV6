@@ -1,0 +1,263 @@
+ 
+============================  
+[s_20_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:162] starting : main_20210506_164920() (time=20210506_165141)
+
+[s_20_ml.py:189] time => 0.000 sec
+
+[s_20_ml.py:217] exec_prog => done
+
+[s_20_ml.py:252] all done
+ 
+============================  
+[s_20_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:163] starting : main_20210506_164920() (time=20210506_170325)
+
+[s_20_ml.py:190] time => 0.016 sec
+
+[s_20_ml.py:218] exec_prog => done
+
+[s_20_ml.py:253] all done
+ 
+============================  
+[s_20_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:163] starting : main_20210506_164920() (time=20210506_170658)
+
+[s_20_ml.py:195] dataset =>
+[['Asset Flip' '100' '1000']
+ ['Text Based' '500' '3000']
+ ['Visual Novel' '1500' '5000']
+ ['2D Pixel Art' '3500' '8000']
+ ['2D Vector Art' '5000' '6500']
+ ['Strategy' '6000' '7000']
+ ['First Person Shooter' '8000' '15000']
+ ['Simulator' '9500' '20000']
+ ['Racing' '12000' '21000']
+ ['RPG' '14000' '25000']
+ ['Sandbox' '15500' '27000']
+ ['Open-World' '16500' '30000']
+ ['MMOFPS' '25000' '52000']
+ ['MMORPG' '30000' '80000']]
+
+[s_20_ml.py:223] time => 0.047 sec
+
+[s_20_ml.py:251] exec_prog => done
+
+[s_20_ml.py:286] all done
+ 
+============================  
+[s_20_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:163] starting : main_20210506_164920() (time=20210506_170933)
+
+[s_20_ml.py:195] dataset =>
+[['Asset Flip' '100' '1000']
+ ['Text Based' '500' '3000']
+ ['Visual Novel' '1500' '5000']
+ ['2D Pixel Art' '3500' '8000']
+ ['2D Vector Art' '5000' '6500']
+ ['Strategy' '6000' '7000']
+ ['First Person Shooter' '8000' '15000']
+ ['Simulator' '9500' '20000']
+ ['Racing' '12000' '21000']
+ ['RPG' '14000' '25000']
+ ['Sandbox' '15500' '27000']
+ ['Open-World' '16500' '30000']
+ ['MMOFPS' '25000' '52000']
+ ['MMORPG' '30000' '80000']]
+
+[s_20_ml.py:214] X = dataset[:, 1:2] =>
+[[  100]
+ [  500]
+ [ 1500]
+ [ 3500]
+ [ 5000]
+ [ 6000]
+ [ 8000]
+ [ 9500]
+ [12000]
+ [14000]
+ [15500]
+ [16500]
+ [25000]
+ [30000]]
+
+[s_20_ml.py:241] time => 0.062 sec
+
+[s_20_ml.py:269] exec_prog => done
+
+[s_20_ml.py:304] all done
+ 
+============================  
+[s_20_ml.py:107] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:163] starting : main_20210506_164920() (time=20210506_171217)
+
+[s_20_ml.py:195] dataset =>
+[['Asset Flip' '100' '1000']
+ ['Text Based' '500' '3000']
+ ['Visual Novel' '1500' '5000']
+ ['2D Pixel Art' '3500' '8000']
+ ['2D Vector Art' '5000' '6500']
+ ['Strategy' '6000' '7000']
+ ['First Person Shooter' '8000' '15000']
+ ['Simulator' '9500' '20000']
+ ['Racing' '12000' '21000']
+ ['RPG' '14000' '25000']
+ ['Sandbox' '15500' '27000']
+ ['Open-World' '16500' '30000']
+ ['MMOFPS' '25000' '52000']
+ ['MMORPG' '30000' '80000']]
+
+[s_20_ml.py:214] X = dataset[:, 1:2] =>
+[[  100]
+ [  500]
+ [ 1500]
+ [ 3500]
+ [ 5000]
+ [ 6000]
+ [ 8000]
+ [ 9500]
+ [12000]
+ [14000]
+ [15500]
+ [16500]
+ [25000]
+ [30000]]
+
+[s_20_ml.py:233] y = dataset[:, 2] =>
+[ 1000  3000  5000  8000  6500  7000 15000 20000 21000 25000 27000 30000
+ 52000 80000]
+
+[s_20_ml.py:260] time => 0.094 sec
+
+[s_20_ml.py:288] exec_prog => done
+
+[s_20_ml.py:323] all done
+ 
+============================  
+[s_20_ml.py:110] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:166] starting : main_20210506_164920() (time=20210506_171646)
+
+[s_20_ml.py:198] dataset =>
+[['Asset Flip' '100' '1000']
+ ['Text Based' '500' '3000']
+ ['Visual Novel' '1500' '5000']
+ ['2D Pixel Art' '3500' '8000']
+ ['2D Vector Art' '5000' '6500']
+ ['Strategy' '6000' '7000']
+ ['First Person Shooter' '8000' '15000']
+ ['Simulator' '9500' '20000']
+ ['Racing' '12000' '21000']
+ ['RPG' '14000' '25000']
+ ['Sandbox' '15500' '27000']
+ ['Open-World' '16500' '30000']
+ ['MMOFPS' '25000' '52000']
+ ['MMORPG' '30000' '80000']]
+
+[s_20_ml.py:217] X = dataset[:, 1:2] =>
+[[  100]
+ [  500]
+ [ 1500]
+ [ 3500]
+ [ 5000]
+ [ 6000]
+ [ 8000]
+ [ 9500]
+ [12000]
+ [14000]
+ [15500]
+ [16500]
+ [25000]
+ [30000]]
+
+[s_20_ml.py:236] y = dataset[:, 2] =>
+[ 1000  3000  5000  8000  6500  7000 15000 20000 21000 25000 27000 30000
+ 52000 80000]
+
+[s_20_ml.py:256] regressor =>
+DecisionTreeRegressor(criterion='mse', max_depth=None, max_features=None,
+           max_leaf_nodes=None, min_impurity_decrease=0.0,
+           min_impurity_split=None, min_samples_leaf=1,
+           min_samples_split=2, min_weight_fraction_leaf=0.0,
+           presort=False, random_state=0, splitter='best')
+
+[s_20_ml.py:284] time => 0.140 sec
+
+[s_20_ml.py:312] exec_prog => done
+
+[s_20_ml.py:347] all done
+ 
+============================  
+[s_20_ml.py:110] sklerarn-related imports => comp. (tree, too)
+
+[s_20_ml.py:166] starting : main_20210506_164920() (time=20210506_172333)
+
+[s_20_ml.py:198] dataset =>
+[['Asset Flip' '100' '1000']
+ ['Text Based' '500' '3000']
+ ['Visual Novel' '1500' '5000']
+ ['2D Pixel Art' '3500' '8000']
+ ['2D Vector Art' '5000' '6500']
+ ['Strategy' '6000' '7000']
+ ['First Person Shooter' '8000' '15000']
+ ['Simulator' '9500' '20000']
+ ['Racing' '12000' '21000']
+ ['RPG' '14000' '25000']
+ ['Sandbox' '15500' '27000']
+ ['Open-World' '16500' '30000']
+ ['MMOFPS' '25000' '52000']
+ ['MMORPG' '30000' '80000']]
+
+[s_20_ml.py:217] X = dataset[:, 1:2] =>
+[[  100]
+ [  500]
+ [ 1500]
+ [ 3500]
+ [ 5000]
+ [ 6000]
+ [ 8000]
+ [ 9500]
+ [12000]
+ [14000]
+ [15500]
+ [16500]
+ [25000]
+ [30000]]
+
+[s_20_ml.py:236] y = dataset[:, 2] =>
+[ 1000  3000  5000  8000  6500  7000 15000 20000 21000 25000 27000 30000
+ 52000 80000]
+
+[s_20_ml.py:256] regressor =>
+DecisionTreeRegressor(criterion='mse', max_depth=None, max_features=None,
+           max_leaf_nodes=None, min_impurity_decrease=0.0,
+           min_impurity_split=None, min_samples_leaf=1,
+           min_samples_split=2, min_weight_fraction_leaf=0.0,
+           presort=False, random_state=0, splitter='best')
+
+[s_20_ml.py:279] y_pred => (for target : 3750
+DecisionTreeRegressor(criterion='mse', max_depth=None, max_features=None,
+           max_leaf_nodes=None, min_impurity_decrease=0.0,
+           min_impurity_split=None, min_samples_leaf=1,
+           min_samples_split=2, min_weight_fraction_leaf=0.0,
+           presort=False, random_state=0, splitter='best')
+Predicted price:  8000
+
+
+[s_20_ml.py:311] time => 0.140 sec
+
+[s_20_ml.py:339] exec_prog => done
+
+[s_20_ml.py:374] all done
+ 
+============================  
+============================ 
+
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
