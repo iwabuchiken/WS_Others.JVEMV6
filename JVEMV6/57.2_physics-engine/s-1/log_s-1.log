@@ -261,3 +261,161 @@ Predicted price:  8000
 ['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
 
 ['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:112] starting : test_1 (time=20210708_154620)
+[s_1.py:121] PATH variable : 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+[s_1.py:142] exec_prog => done
+
+[s_1.py:177] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:121] starting : test_1 (time=20210708_155014)
+[s_1.py:130] PATH variable : 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+[s_1.py:151] exec_prog => done
+
+[s_1.py:186] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:127] 'MyApp' ==> defined
+
+[s_1.py:147] starting : task_1_ShowBase (time=20210708_155834)
+[s_1.py:204] exec_prog => done
+
+[s_1.py:239] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:127] 'MyApp' ==> defined
+
+[s_1.py:147] starting : task_1_ShowBase (time=20210708_155952)
+
+[s_1.py:162] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_161146)
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_162221)
+
+[s_1.py:186] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_162856)
+
+[s_1.py:192] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_163140)
+
+[s_1.py:194] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_163438)
+
+[s_1.py:195] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_163559)
+
+[s_1.py:195] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_163714)
+
+[s_1.py:196] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_163759)
+
+[s_1.py:197] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_163852)
+
+[s_1.py:198] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_1.py:73] 'from libs import libs' ==> comp.
+
+[s_1.py:135] 'MyApp' ==> defined
+
+[s_1.py:155] starting : task_1_ShowBase (time=20210708_164028)
+
+[s_1.py:198] 'MyApp' ==> instantiated

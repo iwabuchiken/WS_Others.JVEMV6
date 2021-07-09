@@ -66,6 +66,15 @@ from libs import libs
 # 
 # from libs import cons
 
+print()
+
+print ("[%s:%d] 'from libs import libs' ==> comp." % (
+            os.path.basename(os.path.basename(libs.thisfile()))
+            , libs.linenum()
+            )
+)
+
+
 '''###################
     import : pandas
 ###################'''
@@ -87,6 +96,12 @@ from libs import libs
 # import matplotlib.image as pltimg
 
 '''###################
+    import : panda3d
+###################'''
+from direct.showbase.ShowBase import ShowBase
+
+
+'''###################
     import : others
 ###################'''
 # from shutil import copyfile
@@ -96,6 +111,98 @@ from libs import libs
 
 ###############################################
 
+'''###################
+    class MyApp(ShowBase):
+    at : 20210708_155754
+###################'''
+# class MyApp(ShowBase):
+# 
+#     def __init__(self):
+#         ShowBase.__init__(self)
+# 
+#     # Load the environment model.
+#     self.scene = self.loader.loadModel("models/environment")
+#     # Reparent the model to render.
+#     self.scene.reparentTo(self.render)
+#     # Apply scale and position transforms on the model.
+#     self.scene.setScale(0.25, 0.25, 0.25)
+#     self.scene.setPos(-8, 42, 0)
+
+print()
+
+print ("[%s:%d] 'MyApp' ==> defined" % (
+            os.path.basename(os.path.basename(libs.thisfile()))
+            , libs.linenum()
+            )
+)
+
+'''###################
+    task_1_ShowBase()
+    at : 20210708_155754
+###################'''
+def task_1_ShowBase():
+
+    strOf_FuncName = "task_1_ShowBase"
+
+    '''###################
+        step : 1
+            opening, vars
+    ###################'''
+    print()
+    
+    print ("[%s:%d] starting : %s (time=%s)" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                , strOf_FuncName
+                , libs.get_TimeLabel_Now()
+                )
+    )
+    
+    '''###################
+        step : 2
+    ###################'''
+    class MyApp(ShowBase):
+    
+        def __init__(self):
+            ShowBase.__init__(self)
+            
+            # Load the environment model.
+            self.scene = self.loader.loadModel("models/environment")
+            # Reparent the model to render.
+            self.scene.reparentTo(self.render)
+            # Apply scale and position transforms on the model.
+            self.scene.setScale(0.25, 0.25, 0.25)
+            
+            #code:20210708_162726
+#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -100, 42, 0
+#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 0
+#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 420, 0
+#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 100
+            valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -800, 42, 0
+#             valOf_Pos_X     = -100
+# #             valOf_Pos_X     = -50
+#             valOf_Pos_Y     = 42
+#             valOf_Pos_Z     = 0
+            self.scene.setPos(valOf_Pos_Y, valOf_Pos_Y, valOf_Pos_Z)
+#             self.scene.setPos(-8, 42, 0)
+    
+    '''###################
+        step : 3
+    ###################'''
+    app = MyApp()
+
+    print()
+    
+    print ("[%s:%d] 'MyApp' ==> instantiated" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+
+    app.run()
+    
+    
+# def task_1_ShowBase()://
 
 def test_1():
 
@@ -134,7 +241,8 @@ def exec_prog(): # from :
     '''###################
         execute
     ###################'''
-    test_1()
+    task_1_ShowBase()
+#     test_1()
     
     '''###################
         Report        
