@@ -1,0 +1,39 @@
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_3.py:74] 'from libs import libs' ==> comp.
+
+[s_3.py:94] 'direct.task import Task' ==> comp.
+
+[s_3.py:190] 'MyApp' ==> defined
+
+[s_3.py:210] starting : task_1_ShowBase (time=20210710_144010)
+
+[s_3.py:253] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_3.py:75] 'from libs import libs' ==> comp.
+
+[s_3.py:96] 'direct.actor.Actor import Actor' ==> comp.
+
+[s_3.py:165] 'MyApp' ==> defined
+
+[s_3.py:185] starting : task_1_ShowBase (time=20210710_144624)
+
+[s_3.py:228] 'MyApp' ==> instantiated
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-1', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\python37.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\DLLs', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\bin', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64\\python\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_3.py:75] 'from libs import libs' ==> comp.
+
+[s_3.py:96] 'direct.actor.Actor import Actor' ==> comp.
+
+[s_3.py:165] 'MyApp' ==> defined
+
+[s_3.py:185] starting : task_1_ShowBase (time=20210710_144728)
+
+[s_3.py:228] 'MyApp' ==> instantiated
