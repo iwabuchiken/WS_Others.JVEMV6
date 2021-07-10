@@ -4,16 +4,16 @@ file          :
 started at    : 20210707_174437
 
 pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-1\
-python s_1.py
+python s_2.py
 
 
-echo.>> log_s-1.log
-echo ============================ >> log_s-1.log
-python s_1.py >> log_s-1.log
+echo.>> log_s-2.log
+echo ============================ >> log_s-2.log
+python s_2.py >> log_s-2.log
 
 ##
 pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-1\
-echo.>> log_s-1.log && echo ============================ >> log_s-1.log && python s_1.py >> log_s-1.log
+echo.>> log_s-2.log && echo ============================ >> log_s-2.log && python s_2.py >> log_s-2.log
 
 
 
@@ -76,29 +76,23 @@ print ("[%s:%d] 'from libs import libs' ==> comp." % (
 
 
 '''###################
-    import : pandas
+    import : math
 ###################'''
-
-'''###################
-    import : sklearn
-###################'''
-
-'''###################
-    import : scipy, numpy, matplotlib
-###################'''
-# from scipy import stats
-# 
-# # import numpy
-# import numpy as np
-# 
-# import matplotlib.pyplot as plt
-# import matplotlib.patches as pat
-# import matplotlib.image as pltimg
+from math import pi, sin, cos
 
 '''###################
     import : panda3d
 ###################'''
 from direct.showbase.ShowBase import ShowBase
+from direct.task import Task
+
+print()
+
+print ("[%s:%d] 'direct.task import Task' ==> comp." % (
+            os.path.basename(os.path.basename(libs.thisfile()))
+            , libs.linenum()
+            )
+)
 
 
 '''###################
@@ -127,6 +121,66 @@ from direct.showbase.ShowBase import ShowBase
 #     # Apply scale and position transforms on the model.
 #     self.scene.setScale(0.25, 0.25, 0.25)
 #     self.scene.setPos(-8, 42, 0)
+
+class MyApp(ShowBase):
+
+    def __init__(self):
+        ShowBase.__init__(self)
+
+        # Load the environment model.
+        self.scene = self.loader.loadModel("models/environment")
+        # Reparent the model to render.
+        self.scene.reparentTo(self.render)
+        # Apply scale and position transforms on the model.
+        self.scene.setScale(0.25, 0.25, 0.25)
+        self.scene.setPos(-8, 42, 0)
+
+        # Add the spinCameraTask procedure to the task manager.
+        self.taskMgr.add(self.spinCameraTask, "SpinCameraTask")
+#         # Load the environment model.
+#         self.scene = self.loader.loadModel("models/environment")
+#         # Reparent the model to render.
+#         self.scene.reparentTo(self.render)
+#         # Apply scale and position transforms on the model.
+#         self.scene.setScale(0.25, 0.25, 0.25)
+#         
+#         #code:20210708_162726
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -100, 42, 0
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 0
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 420, 0
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 100
+#         valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -800, 42, 0
+# #             valOf_Pos_X     = -100
+# # #             valOf_Pos_X     = -50
+# #             valOf_Pos_Y     = 42
+# #             valOf_Pos_Z     = 0
+#         self.scene.setPos(valOf_Pos_Y, valOf_Pos_Y, valOf_Pos_Z)
+# #             self.scene.setPos(-8, 42, 0)
+
+    # Define a procedure to move the camera.
+    def spinCameraTask(self, task):
+        
+        #code:20210709_162814
+        valOf_Angle_Degrees     = 6.0
+#         valOf_Angle_Degrees     = 20
+        
+        angleDegrees = task.time * valOf_Angle_Degrees
+#         angleDegrees = task.time * 6.0
+        
+        angleRadians = angleDegrees * (pi / 180.0)
+        
+        #code:20210709_163101
+        valOf_Coord_Z       = 50
+#         valOf_Coord_Z       = 10
+        
+        self.camera.setPos(
+                           20 * sin(angleRadians)\
+                           , -20 * cos(angleRadians)\
+                           , valOf_Coord_Z)
+#         self.camera.setPos(20 * sin(angleRadians), -20 * cos(angleRadians), 3)
+        
+        self.camera.setHpr(angleDegrees, 0, 0)
+        return Task.cont
 
 print()
 
@@ -161,30 +215,30 @@ def task_1_ShowBase():
     '''###################
         step : 2
     ###################'''
-    class MyApp(ShowBase):
-    
-        def __init__(self):
-            ShowBase.__init__(self)
-            
-            # Load the environment model.
-            self.scene = self.loader.loadModel("models/environment")
-            # Reparent the model to render.
-            self.scene.reparentTo(self.render)
-            # Apply scale and position transforms on the model.
-            self.scene.setScale(0.25, 0.25, 0.25)
-            
-            #code:20210708_162726
-#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -100, 42, 0
-#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 0
-#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 420, 0
-#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 100
-            valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -800, 42, 0
-#             valOf_Pos_X     = -100
-# #             valOf_Pos_X     = -50
-#             valOf_Pos_Y     = 42
-#             valOf_Pos_Z     = 0
-            self.scene.setPos(valOf_Pos_Y, valOf_Pos_Y, valOf_Pos_Z)
-#             self.scene.setPos(-8, 42, 0)
+#     class MyApp(ShowBase):
+#     
+#         def __init__(self):
+#             ShowBase.__init__(self)
+#             
+#             # Load the environment model.
+#             self.scene = self.loader.loadModel("models/environment")
+#             # Reparent the model to render.
+#             self.scene.reparentTo(self.render)
+#             # Apply scale and position transforms on the model.
+#             self.scene.setScale(0.25, 0.25, 0.25)
+#             
+#             #code:20210708_162726
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -100, 42, 0
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 0
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 420, 0
+# #             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -400, 42, 100
+#             valOf_Pos_X, valOf_Pos_Y, valOf_Pos_Z     = -800, 42, 0
+# #             valOf_Pos_X     = -100
+# # #             valOf_Pos_X     = -50
+# #             valOf_Pos_Y     = 42
+# #             valOf_Pos_Z     = 0
+#             self.scene.setPos(valOf_Pos_Y, valOf_Pos_Y, valOf_Pos_Z)
+# #             self.scene.setPos(-8, 42, 0)
     
     '''###################
         step : 3
@@ -203,37 +257,6 @@ def task_1_ShowBase():
     
     
 # def task_1_ShowBase()://
-
-def test_1():
-
-    strOf_FuncName = "test_1"
-
-    '''###################
-        step : 1
-            opening, vars
-    ###################'''
-    print()
-    
-    print ("[%s:%d] starting : %s (time=%s)" % (
-                os.path.basename(os.path.basename(libs.thisfile()))
-                , libs.linenum()
-                , strOf_FuncName
-                , libs.get_TimeLabel_Now()
-                )
-    )
-    
-    # path var
-    print ("[%s:%d] PATH variable : " % (
-                os.path.basename(os.path.basename(libs.thisfile()))
-                , libs.linenum()
-                )
-    )
-    
-    print(sys.path)
-
-
-    
-# def test_1()://
 
 def exec_prog(): # from : 
     
