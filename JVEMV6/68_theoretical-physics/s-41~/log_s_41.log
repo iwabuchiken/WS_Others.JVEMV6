@@ -1,0 +1,99 @@
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_160944)
+[s_41.py:111] exec_prog => done
+
+[s_41.py:142] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_161215)
+
+[s_41.py:101] strOf_Formula ==> 
+a_i^k*a_i^l
+[s_41.py:124] exec_prog => done
+
+[s_41.py:155] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_161820)
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_161838)
+
+[s_41.py:114] strOf_Formula ==> 
+a_i^k*a_i^l(e->_1)(e->_2)(e->_3)
+
+[s_41.py:138] exec_prog => done
+
+[s_41.py:169] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_162006)
+
+[s_41.py:118] strOf_Formula ==> 
+(a_i^k)*(a_i^l)(e->_1âˆ§e->_1)(e->_1âˆ§e->_2)(e->_1âˆ§e->_3)(e->_2âˆ§e->_1)(e->_2âˆ§e->_2)(e->_2âˆ§e->_3)(e->_3âˆ§e->_1)(e->_3âˆ§e->_2)(e->_3âˆ§e->_3)
+
+[s_41.py:142] exec_prog => done
+
+[s_41.py:173] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_162311)
+
+[s_41.py:123] strOf_Formula ==> 
+(a_i^k)*(a_i^l)(e->_1Èe->_1)+(a_i^k)*(a_i^l)(e->_1Èe->_2)+(a_i^k)*(a_i^l)(e->_1Èe->_3)+(a_i^k)*(a_i^l)(e->_2Èe->_1)+(a_i^k)*(a_i^l)(e->_2Èe->_2)+(a_i^k)*(a_i^l)(e->_2Èe->_3)+(a_i^k)*(a_i^l)(e->_3Èe->_1)+(a_i^k)*(a_i^l)(e->_3Èe->_2)+(a_i^k)*(a_i^l)(e->_3Èe->_3)+
+
+[s_41.py:147] exec_prog => done
+
+[s_41.py:178] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_162519)
+
+[s_41.py:124] strOf_Formula ==> 
+(a_i^1)*(a_i^1)(e->_1Èe->_1)+(a_i^1)*(a_i^2)(e->_1Èe->_2)+(a_i^1)*(a_i^3)(e->_1Èe->_3)+(a_i^2)*(a_i^1)(e->_2Èe->_1)+(a_i^2)*(a_i^2)(e->_2Èe->_2)+(a_i^2)*(a_i^3)(e->_2Èe->_3)+(a_i^3)*(a_i^1)(e->_3Èe->_1)+(a_i^3)*(a_i^2)(e->_3Èe->_2)+(a_i^3)*(a_i^3)(e->_3Èe->_3)+
+
+[s_41.py:148] exec_prog => done
+
+[s_41.py:179] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-41~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_41.py:48] 'from libs import libs' ==> comp.
+
+[s_41.py:85] starting : test_1 (time=20210716_162830)
+
+[s_41.py:124] strOf_Formula ==> 
+(a_i^1)*(a_j^1)(e->_1Èe->_1)+(a_i^1)*(a_j^2)(e->_1Èe->_2)+(a_i^1)*(a_j^3)(e->_1Èe->_3)+(a_i^2)*(a_j^1)(e->_2Èe->_1)+(a_i^2)*(a_j^2)(e->_2Èe->_2)+(a_i^2)*(a_j^3)(e->_2Èe->_3)+(a_i^3)*(a_j^1)(e->_3Èe->_1)+(a_i^3)*(a_j^2)(e->_3Èe->_2)+(a_i^3)*(a_j^3)(e->_3Èe->_3)+
+
+[s_41.py:148] exec_prog => done
+
+[s_41.py:179] all done
