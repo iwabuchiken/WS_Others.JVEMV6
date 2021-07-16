@@ -102,16 +102,32 @@ from math import pi, sin, cos
     import : bulllet
     https://docs.panda3d.org/1.10/python/programming/physics/bullet/hello-world
 ###################'''
-import direct.directbase.DirectStart
-from panda3d.core import Vec3
-from panda3d.bullet import BulletWorld
-from panda3d.bullet import BulletPlaneShape
-from panda3d.bullet import BulletRigidBodyNode
-from panda3d.bullet import BulletBoxShape
+# import direct.directbase.DirectStart
+# from panda3d.core import Vec3
+# from panda3d.bullet import BulletWorld
+# from panda3d.bullet import BulletPlaneShape
+# from panda3d.bullet import BulletRigidBodyNode
+# from panda3d.bullet import BulletBoxShape
+# 
+# print()
+# 
+# print ("[%s:%d] 'panda3d.bullet' a.o. ==> comp." % (
+#             os.path.basename(os.path.basename(libs.thisfile()))
+#             , libs.linenum()
+#             )
+# )
+
+
+'''###################
+    import : pybullet
+###################'''
+import pybullet as p
+import time
+import pybullet_data
 
 print()
-
-print ("[%s:%d] 'panda3d.bullet' a.o. ==> comp." % (
+ 
+print ("[%s:%d] 'pybullet'-related modules import ==> comp." % (
             os.path.basename(os.path.basename(libs.thisfile()))
             , libs.linenum()
             )
@@ -153,7 +169,43 @@ def task_1_PyBullet_Hello_World():
     
     '''###################
         step : 2
+            tut codes
+            https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#
     ###################'''
+    physicsClient = p.connect(p.GUI)#or p.DIRECT for non-graphical version
+    p.setAdditionalSearchPath(pybullet_data.getDataPath()) #optionally
+    p.setGravity(0,0,-10)
+
+    print()
+    
+    print ("[%s:%d] tut : first 3 lines" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    print("type(physicsClient).__name__ ==> ", type(physicsClient).__name__)
+    print()     # separator line
+    
+    '''###################
+        step : 2 : 2
+    ###################'''
+    planeId = p.loadURDF("plane.urdf")
+    startPos = [0,0,1]
+    startOrientation = p.getQuaternionFromEuler([0,0,0])
+    boxId = p.loadURDF("r2d2.urdf",startPos, startOrientation)
+
+    print ("[%s:%d] tut : next 4 lines" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    print("type(planeId).__name__ ==> ", type(planeId).__name__)
+    print()     # separator line
+    
+    #n:20210715_180327
+    
     
     '''###################
         step : 3
@@ -168,7 +220,7 @@ def exec_prog(): # from :
         execute
     ###################'''
     #mark:20210709_160406
-#     task_1_PyBullet_Hello_World()
+    task_1_PyBullet_Hello_World()
 #     test_1()
     
     '''###################
