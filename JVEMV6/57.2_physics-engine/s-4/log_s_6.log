@@ -151,3 +151,196 @@ numActiveThreads = 0
 btShutDownExampleBrowser stopping threads
 Thread with taskId 0 with handle 0000000000000114 exiting
 Thread TERMINATED
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-4', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_6.py:75] 'from libs import libs' ==> comp.
+
+[s_6.py:132] 'pybullet'-related modules import ==> comp.
+
+[s_6.py:164] starting : task_1_PyBullet_Hello_World (time=20210717_173146)
+
+[s_6.py:183] tut : first 3 lines
+type(physicsClient).__name__ ==>  int
+
+[s_6.py:200] tut : next 4 lines
+type(planeId).__name__ ==>  int
+
+[s_6.py:229] exec_prog => done
+
+[s_6.py:264] all done
+starting thread 0
+started testThreads thread 0 with threadHandle 0000000000000114
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+Version = 4.5.13399 Compatibility Profile Context 15.200.1062.1004
+Vendor = ATI Technologies Inc.
+Renderer = AMD Radeon HD 8370D
+b3Printf: Selected demo: Physics Server
+starting thread 0
+started MotionThreads thread 0 with threadHandle 0000000000001BD4
+MotionThreadFunc thread started
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 with handle 0000000000001BD4 exiting
+Thread TERMINATED
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 with handle 0000000000000114 exiting
+Thread TERMINATED
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-4', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_6.py:75] 'from libs import libs' ==> comp.
+
+[s_6.py:132] 'pybullet'-related modules import ==> comp.
+
+[s_6.py:164] starting : task_1_PyBullet_Hello_World (time=20210717_173709)
+
+[s_6.py:183] tut : first 3 lines
+type(physicsClient).__name__ ==>  int
+
+[s_6.py:200] tut : next 4 lines
+type(planeId).__name__ ==>  int
+
+starting thread 0
+started testThreads thread 0 with threadHandle 0000000000000114
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+Version = 4.5.13399 Compatibility Profile Context 15.200.1062.1004
+Vendor = ATI Technologies Inc.
+Renderer = AMD Radeon HD 8370D
+b3Printf: Selected demo: Physics Server
+starting thread 0
+started MotionThreads thread 0 with threadHandle 0000000000001BC4
+MotionThreadFunc thread started
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 with handle 0000000000001BC4 exiting
+Thread TERMINATED
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 with handle 0000000000000114 exiting
+Thread TERMINATED
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-4', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_6.py:75] 'from libs import libs' ==> comp.
+
+[s_6.py:132] 'pybullet'-related modules import ==> comp.
+
+[s_6.py:164] starting : task_1_PyBullet_Hello_World (time=20210717_173935)
+
+[s_6.py:183] tut : first 3 lines
+type(physicsClient).__name__ ==>  int
+
+[s_6.py:200] tut : next 4 lines
+type(planeId).__name__ ==>  int
+
+starting thread 0
+started testThreads thread 0 with threadHandle 0000000000000110
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+Version = 4.5.13399 Compatibility Profile Context 15.200.1062.1004
+Vendor = ATI Technologies Inc.
+Renderer = AMD Radeon HD 8370D
+b3Printf: Selected demo: Physics Server
+starting thread 0
+started MotionThreads thread 0 with threadHandle 0000000000001BC4
+MotionThreadFunc thread started
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 with handle 0000000000001BC4 exiting
+Thread TERMINATED
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 with handle 0000000000000110 exiting
+Thread TERMINATED
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-4', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_6.py:75] 'from libs import libs' ==> comp.
+
+[s_6.py:132] 'pybullet'-related modules import ==> comp.
+
+[s_6.py:164] starting : task_1_PyBullet_Hello_World (time=20210717_174256)
+
+[s_6.py:183] tut : first 3 lines
+type(physicsClient).__name__ ==>  int
+
+[s_6.py:200] tut : next 4 lines
+type(planeId).__name__ ==>  int
+
+starting thread 0
+started testThreads thread 0 with threadHandle 0000000000000110
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+Version = 4.5.13399 Compatibility Profile Context 15.200.1062.1004
+Vendor = ATI Technologies Inc.
+Renderer = AMD Radeon HD 8370D
+b3Printf: Selected demo: Physics Server
+starting thread 0
+started MotionThreads thread 0 with threadHandle 0000000000001BC4
+MotionThreadFunc thread started
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 with handle 0000000000001BC4 exiting
+Thread TERMINATED
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 with handle 0000000000000110 exiting
+Thread TERMINATED
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57.2_physics-engine\\s-4', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_6.py:75] 'from libs import libs' ==> comp.
+
+[s_6.py:132] 'pybullet'-related modules import ==> comp.
+
+[s_6.py:164] starting : task_1_PyBullet_Hello_World (time=20210717_174619)
+
+[s_6.py:183] tut : first 3 lines
+type(physicsClient).__name__ ==>  int
+
+[s_6.py:200] tut : next 4 lines
+type(planeId).__name__ ==>  int
+
+starting thread 0
+started testThreads thread 0 with threadHandle 0000000000000110
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+Version = 4.5.13399 Compatibility Profile Context 15.200.1062.1004
+Vendor = ATI Technologies Inc.
+Renderer = AMD Radeon HD 8370D
+b3Printf: Selected demo: Physics Server
+starting thread 0
+started MotionThreads thread 0 with threadHandle 0000000000001BC4
+MotionThreadFunc thread started
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 with handle 0000000000001BC4 exiting
+Thread TERMINATED
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 with handle 0000000000000110 exiting
+Thread TERMINATED

@@ -205,6 +205,32 @@ def task_1_PyBullet_Hello_World():
     print()     # separator line
     
     #n:20210715_180327
+    #set the center of mass frame (loadURDF sets base link frame) startPos/Ornp.resetBasePositionAndOrientation(boxId, startPos, startOrientation)
+    for i in range (10000):
+        p.stepSimulation()
+        time.sleep(1./240.)
+        
+    #debug:20210717_174601
+    print ("[%s:%d] for loop ==> ended" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    print()     # separator line
+
+    cubePos, cubeOrn = p.getBasePositionAndOrientation(boxId)
+    print("cubePos = %d, cubeOrn = %d" % (cubePos, cubeOrn))
+#     print(cubePos,cubeOrn)
+    p.disconnect()
+
+    print ("[%s:%d] pybullet ==> disconnected" % (
+                os.path.basename(os.path.basename(libs.thisfile()))
+                , libs.linenum()
+                )
+    )
+    
+    print()     # separator line
     
     
     '''###################
