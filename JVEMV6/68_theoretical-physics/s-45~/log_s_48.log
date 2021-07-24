@@ -1,0 +1,58 @@
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-45~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_48.py:48] 'from libs import libs' ==> comp.
+
+[s_48.py:85] starting : test_1 (time=20210724_114734)
+[s_48.py:113] exec_prog => done
+
+[s_48.py:144] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-45~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_48.py:48] 'from libs import libs' ==> comp.
+
+[s_48.py:69] import mplot3d a.o. ==> comp.
+
+[s_48.py:100] starting : test_1 (time=20210724_114853)
+[s_48.py:128] exec_prog => done
+
+[s_48.py:159] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-45~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_48.py:48] 'from libs import libs' ==> comp.
+
+[s_48.py:69] import mplot3d a.o. ==> comp.
+
+[s_48.py:100] starting : test_1 (time=20210724_114925)
+[s_48.py:141] exec_prog => done
+
+[s_48.py:172] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-45~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_48.py:48] 'from libs import libs' ==> comp.
+
+[s_48.py:69] import mplot3d a.o. ==> comp.
+
+[s_48.py:100] starting : test_1 (time=20210724_115140)
+[s_48.py:144] exec_prog => done
+
+[s_48.py:175] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-45~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_48.py:48] 'from libs import libs' ==> comp.
+
+[s_48.py:69] import mplot3d a.o. ==> comp.
+
+[s_48.py:100] starting : test_1 (time=20210724_115317)
+[s_48.py:144] exec_prog => done
+
+[s_48.py:175] all done
