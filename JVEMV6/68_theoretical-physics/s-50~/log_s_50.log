@@ -1,0 +1,660 @@
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:69] import mplot3d a.o. ==> comp.
+
+[s_50.py:100] starting : test_1 (time=20210728_130937)
+[s_50.py:127] exec_prog => done
+
+[s_50.py:158] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:86] starting : test_1 (time=20210728_131005)
+[s_50.py:113] exec_prog => done
+
+[s_50.py:144] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:86] starting : test_1 (time=20210728_131129)
+
+[s_50.py:102] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+[s_50.py:125] exec_prog => done
+
+[s_50.py:156] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:108] starting : test_1 (time=20210728_131913)
+
+[s_50.py:124] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:139] pointOf_Tsp => 3
+[s_50.py:146] calling ... => tsp()
+
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:108] starting : test_1 (time=20210728_131949)
+
+[s_50.py:124] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:139] pointOf_Tsp => 3
+[s_50.py:146] calling ... => tsp()
+
+[s_50.py:82] element_1 = 4, element_2 = 5
+
+[s_50.py:168] exec_prog => done
+
+[s_50.py:199] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:140] starting : test_1 (time=20210728_132505)
+
+[s_50.py:156] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:173] pointOf_Tsp => 0
+[s_50.py:180] calling ... => tsp()
+
+[s_50.py:85] ****** ERROR *****
+[s_50.py:91] _pointOf_Tsp < 1 : 0
+
+[s_50.py:202] exec_prog => done
+
+[s_50.py:233] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:140] starting : test_1 (time=20210728_132753)
+
+[s_50.py:156] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:173] pointOf_Tsp => 0
+[s_50.py:180] calling ... => tsp()
+
+[s_50.py:85] ****** ERROR *****
+[s_50.py:91] _pointOf_Tsp < 1 : 0
+
+[s_50.py:192] tsp() => complete
+[s_50.py:198] aryOf_Numbers is now ... =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:218] exec_prog => done
+
+[s_50.py:249] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:140] starting : test_1 (time=20210728_132835)
+
+[s_50.py:156] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:173] pointOf_Tsp => 3
+[s_50.py:180] calling ... => tsp()
+
+[s_50.py:114] element_1 = 4, element_2 = 5
+
+[s_50.py:192] tsp() => complete
+[s_50.py:198] aryOf_Numbers is now ... =>
+None
+
+[s_50.py:218] exec_prog => done
+
+[s_50.py:249] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:154] starting : test_1 (time=20210728_133148)
+
+[s_50.py:170] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:187] pointOf_Tsp => 3
+[s_50.py:194] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:206] tsp() => complete
+[s_50.py:212] aryOf_Numbers is now ... =>
+None
+
+[s_50.py:232] exec_prog => done
+
+[s_50.py:263] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:162] starting : test_1 (time=20210728_133303)
+
+[s_50.py:178] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:195] pointOf_Tsp => 3
+[s_50.py:202] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:214] tsp() => complete
+[s_50.py:220] aryOf_Numbers is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:240] exec_prog => done
+
+[s_50.py:271] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_134022)
+
+[s_50.py:261] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:281] pointOf_Tsp => 1
+[s_50.py:288] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:300] tsp() => complete
+[s_50.py:306] aryOf_Numbers is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:281] pointOf_Tsp => 3
+[s_50.py:288] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:300] tsp() => complete
+[s_50.py:306] aryOf_Numbers is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:281] pointOf_Tsp => 1
+[s_50.py:288] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:300] tsp() => complete
+[s_50.py:306] aryOf_Numbers is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:281] pointOf_Tsp => 4
+[s_50.py:288] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:300] tsp() => complete
+[s_50.py:306] aryOf_Numbers is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:329] exec_prog => done
+
+[s_50.py:360] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_134348)
+
+[s_50.py:261] aryOf_Numbers =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:279] pointsOf_Tsp =>
+[1, 3, 1, 4]
+
+[s_50.py:297] ----------------- for : 1
+
+[s_50.py:306] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:318] tsp() => complete
+[s_50.py:324] aryOf_Numbers is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:297] ----------------- for : 2
+
+[s_50.py:306] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:318] tsp() => complete
+[s_50.py:324] aryOf_Numbers is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:297] ----------------- for : 3
+
+[s_50.py:306] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:318] tsp() => complete
+[s_50.py:324] aryOf_Numbers is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:297] ----------------- for : 4
+
+[s_50.py:306] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:318] tsp() => complete
+[s_50.py:324] aryOf_Numbers is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:347] exec_prog => done
+
+[s_50.py:378] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_134644)
+
+[s_50.py:262] aryOf_Numbers__Orig =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:280] pointsOf_Tsp =>
+[1, 3, 1, 4]
+
+[s_50.py:298] ----------------- for : 1
+
+[s_50.py:307] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:320] tsp() => complete
+[s_50.py:326] aryOf_Numbers__Copy is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:298] ----------------- for : 2
+
+[s_50.py:307] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:320] tsp() => complete
+[s_50.py:326] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:298] ----------------- for : 3
+
+[s_50.py:307] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:320] tsp() => complete
+[s_50.py:326] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:298] ----------------- for : 4
+
+[s_50.py:307] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:320] tsp() => complete
+[s_50.py:326] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:337] aryOf_Numbers : compare =>
+orig :
+[1, 2, 4, 5, 3]
+copy :
+[1, 2, 4, 5, 3]
+[s_50.py:362] exec_prog => done
+
+[s_50.py:393] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_134920)
+
+[s_50.py:263] aryOf_Numbers__Orig =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:281] pointsOf_Tsp =>
+[1, 3, 1, 4]
+
+[s_50.py:299] ----------------- for : 1
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:299] ----------------- for : 2
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:299] ----------------- for : 3
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:299] ----------------- for : 4
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:338] aryOf_Numbers : compare =>
+orig :
+[1, 2, 3, 4, 5]
+copy :
+[1, 2, 4, 5, 3]
+[s_50.py:363] exec_prog => done
+
+[s_50.py:394] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_135047)
+
+[s_50.py:263] aryOf_Numbers__Orig =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:281] pointsOf_Tsp =>
+[1, 3, 1, 4]
+
+[s_50.py:299] ----------------- for : 1
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:299] ----------------- for : 2
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:299] ----------------- for : 3
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:299] ----------------- for : 4
+
+[s_50.py:308] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:321] tsp() => complete
+[s_50.py:327] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:338] aryOf_Numbers : compare =>
+orig / tsp / pointsOf_Tsp
+[1, 2, 3, 4, 5]
+[1, 2, 4, 5, 3]
+[1, 3, 1, 4]
+[s_50.py:369] exec_prog => done
+
+[s_50.py:400] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_135126)
+
+[s_50.py:263] aryOf_Numbers__Orig =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:282] pointsOf_Tsp =>
+[1, 1, 3, 4]
+
+[s_50.py:300] ----------------- for : 1
+
+[s_50.py:309] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:322] tsp() => complete
+[s_50.py:328] aryOf_Numbers__Copy is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:300] ----------------- for : 2
+
+[s_50.py:309] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:322] tsp() => complete
+[s_50.py:328] aryOf_Numbers__Copy is now ... =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:300] ----------------- for : 3
+
+[s_50.py:309] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:322] tsp() => complete
+[s_50.py:328] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:300] ----------------- for : 4
+
+[s_50.py:309] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:322] tsp() => complete
+[s_50.py:328] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:339] aryOf_Numbers : compare =>
+orig / tsp / pointsOf_Tsp
+[1, 2, 3, 4, 5]
+[1, 2, 4, 5, 3]
+[1, 1, 3, 4]
+[s_50.py:370] exec_prog => done
+
+[s_50.py:401] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_135151)
+
+[s_50.py:263] aryOf_Numbers__Orig =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:283] pointsOf_Tsp =>
+[1, 3, 4, 1]
+
+[s_50.py:301] ----------------- for : 1
+
+[s_50.py:310] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:323] tsp() => complete
+[s_50.py:329] aryOf_Numbers__Copy is now ... =>
+[2, 1, 3, 4, 5]
+
+[s_50.py:301] ----------------- for : 2
+
+[s_50.py:310] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:323] tsp() => complete
+[s_50.py:329] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:301] ----------------- for : 3
+
+[s_50.py:310] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:323] tsp() => complete
+[s_50.py:329] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 5, 3]
+
+[s_50.py:301] ----------------- for : 4
+
+[s_50.py:310] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:323] tsp() => complete
+[s_50.py:329] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:340] aryOf_Numbers : compare =>
+orig / tsp / pointsOf_Tsp
+[1, 2, 3, 4, 5]
+[1, 2, 4, 5, 3]
+[1, 3, 4, 1]
+[s_50.py:371] exec_prog => done
+
+[s_50.py:402] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-50~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_50.py:48] 'from libs import libs' ==> comp.
+
+[s_50.py:245] starting : test_2_Multiple_Tsp (time=20210728_135216)
+
+[s_50.py:263] aryOf_Numbers__Orig =>
+[1, 2, 3, 4, 5]
+
+[s_50.py:284] pointsOf_Tsp =>
+[3, 1, 4, 1]
+
+[s_50.py:302] ----------------- for : 1
+
+[s_50.py:311] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 4
+
+[s_50.py:324] tsp() => complete
+[s_50.py:330] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 3, 5]
+
+[s_50.py:302] ----------------- for : 2
+
+[s_50.py:311] calling ... => tsp()
+
+[s_50.py:118] element_1 = 1, element_2 = 2
+
+[s_50.py:324] tsp() => complete
+[s_50.py:330] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 3, 5]
+
+[s_50.py:302] ----------------- for : 3
+
+[s_50.py:311] calling ... => tsp()
+
+[s_50.py:118] element_1 = 3, element_2 = 5
+
+[s_50.py:324] tsp() => complete
+[s_50.py:330] aryOf_Numbers__Copy is now ... =>
+[2, 1, 4, 5, 3]
+
+[s_50.py:302] ----------------- for : 4
+
+[s_50.py:311] calling ... => tsp()
+
+[s_50.py:118] element_1 = 2, element_2 = 1
+
+[s_50.py:324] tsp() => complete
+[s_50.py:330] aryOf_Numbers__Copy is now ... =>
+[1, 2, 4, 5, 3]
+
+[s_50.py:341] aryOf_Numbers : compare =>
+orig / tsp / pointsOf_Tsp
+[1, 2, 3, 4, 5]
+[1, 2, 4, 5, 3]
+[3, 1, 4, 1]
+[s_50.py:372] exec_prog => done
+
+[s_50.py:403] all done
