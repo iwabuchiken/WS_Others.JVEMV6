@@ -1,0 +1,345 @@
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:86] starting : test_1 (time=20211003_120147)
+[s_112.py:111] exec_prog => done
+
+[s_112.py:142] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_132841)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+[s_112.py:137] exec_prog => done
+
+[s_112.py:168] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_133504)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:140] numOf_Data_X = 12
+
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_133519)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:140] numOf_Data_X = 12
+
+[s_112.py:149] data_x =>
+[ 0.          0.28559933  0.57119866  0.856798    1.14239733  1.42799666
+  1.71359599  1.99919533  2.28479466  2.57039399  2.85599332  3.14159265]
+[s_112.py:171] exec_prog => done
+
+[s_112.py:202] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_133700)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:147] numOf_Data_X = 12
+
+[s_112.py:156] data_x =>
+[ 0.          0.28559933  0.57119866  0.856798    1.14239733  1.42799666
+  1.71359599  1.99919533  2.28479466  2.57039399  2.85599332  3.14159265]
+[s_112.py:164] data_y =>
+[  0.00000000e+00   2.81732557e-01   5.40640817e-01   7.55749574e-01
+   9.09631995e-01   9.89821442e-01   9.89821442e-01   9.09631995e-01
+   7.55749574e-01   5.40640817e-01   2.81732557e-01   1.22464680e-16]
+[s_112.py:191] exec_prog => done
+
+[s_112.py:222] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_133756)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:147] numOf_Data_X = 12
+
+[s_112.py:156] data_x =>
+[ 0.          0.28559933  0.57119866  0.856798    1.14239733  1.42799666
+  1.71359599  1.99919533  2.28479466  2.57039399  2.85599332  3.14159265]
+[s_112.py:164] data_y =>
+[  0.00000000e+00   2.81732557e-01   5.40640817e-01   7.55749574e-01
+   9.09631995e-01   9.89821442e-01   9.89821442e-01   9.09631995e-01
+   7.55749574e-01   5.40640817e-01   2.81732557e-01   1.22464680e-16]
+[s_112.py:193] exec_prog => done
+
+[s_112.py:224] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_134416)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:147] numOf_Data_X = 12
+
+[s_112.py:156] data_x =>
+[ 0.          0.28559933  0.57119866  0.856798    1.14239733  1.42799666
+  1.71359599  1.99919533  2.28479466  2.57039399  2.85599332  3.14159265]
+[s_112.py:164] data_y =>
+[  0.00000000e+00   2.81732557e-01   5.40640817e-01   7.55749574e-01
+   9.09631995e-01   9.89821442e-01   9.89821442e-01   9.09631995e-01
+   7.55749574e-01   5.40640817e-01   2.81732557e-01   1.22464680e-16]
+[s_112.py:210] plot image saved => ./data\plot_image_20211003_134416_[test]
+[s_112.py:230] exec_prog => done
+
+[s_112.py:261] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_134515)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:147] numOf_Data_X = 12
+
+[s_112.py:156] data_x =>
+[ 0.          0.28559933  0.57119866  0.856798    1.14239733  1.42799666
+  1.71359599  1.99919533  2.28479466  2.57039399  2.85599332  3.14159265]
+[s_112.py:164] data_y =>
+[  0.00000000e+00   2.81732557e-01   5.40640817e-01   7.55749574e-01
+   9.09631995e-01   9.89821442e-01   9.89821442e-01   9.09631995e-01
+   7.55749574e-01   5.40640817e-01   2.81732557e-01   1.22464680e-16]
+[s_112.py:211] plot image saved => ./data\plot_image_20211003_134515_[test]
+[s_112.py:231] exec_prog => done
+
+[s_112.py:262] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_134537)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:149] numOf_Data_X = 24
+
+[s_112.py:158] data_x =>
+[ 0.          0.13659098  0.27318197  0.40977295  0.54636394  0.68295492
+  0.81954591  0.95613689  1.09272788  1.22931886  1.36590985  1.50250083
+  1.63909182  1.7756828   1.91227379  2.04886477  2.18545576  2.32204674
+  2.45863773  2.59522871  2.7318197   2.86841068  3.00500167  3.14159265]
+[s_112.py:166] data_y =>
+[  0.00000000e+00   1.36166649e-01   2.69796771e-01   3.98401090e-01
+   5.19583950e-01   6.31087944e-01   7.30835964e-01   8.16969893e-01
+   8.87885218e-01   9.42260922e-01   9.79084088e-01   9.97668769e-01
+   9.97668769e-01   9.79084088e-01   9.42260922e-01   8.87885218e-01
+   8.16969893e-01   7.30835964e-01   6.31087944e-01   5.19583950e-01
+   3.98401090e-01   2.69796771e-01   1.36166649e-01   1.22464680e-16]
+[s_112.py:213] plot image saved => ./data\plot_image_20211003_134537_[test]
+[s_112.py:233] exec_prog => done
+
+[s_112.py:264] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_134837)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:152] numOf_Data_X = 24
+
+[s_112.py:161] data_x =>
+[-1.57079633 -1.43420534 -1.29761436 -1.16102337 -1.02443239 -0.8878414
+ -0.75125042 -0.61465943 -0.47806845 -0.34147746 -0.20488648 -0.06829549
+  0.06829549  0.20488648  0.34147746  0.47806845  0.61465943  0.75125042
+  0.8878414   1.02443239  1.16102337  1.29761436  1.43420534  1.57079633]
+[s_112.py:169] data_y =>
+[-1.         -0.99068595 -0.96291729 -0.9172113  -0.8544194  -0.77571129
+ -0.68255314 -0.57668032 -0.46006504 -0.33487961 -0.20345601 -0.06824241
+  0.06824241  0.20345601  0.33487961  0.46006504  0.57668032  0.68255314
+  0.77571129  0.8544194   0.9172113   0.96291729  0.99068595  1.        ]
+[s_112.py:218] plot image saved => ./data\plot_image_20211003_134837_[test]
+[s_112.py:238] exec_prog => done
+
+[s_112.py:269] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_134907)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:152] numOf_Data_X = 24
+
+[s_112.py:161] data_x =>
+[-1.57079633 -1.43420534 -1.29761436 -1.16102337 -1.02443239 -0.8878414
+ -0.75125042 -0.61465943 -0.47806845 -0.34147746 -0.20488648 -0.06829549
+  0.06829549  0.20488648  0.34147746  0.47806845  0.61465943  0.75125042
+  0.8878414   1.02443239  1.16102337  1.29761436  1.43420534  1.57079633]
+[s_112.py:169] data_y =>
+[-1.         -0.99068595 -0.96291729 -0.9172113  -0.8544194  -0.77571129
+ -0.68255314 -0.57668032 -0.46006504 -0.33487961 -0.20345601 -0.06824241
+  0.06824241  0.20345601  0.33487961  0.46006504  0.57668032  0.68255314
+  0.77571129  0.8544194   0.9172113   0.96291729  0.99068595  1.        ]
+[s_112.py:219] plot image saved => ./data\plot_image_20211003_134907_[test]
+[s_112.py:239] exec_prog => done
+
+[s_112.py:270] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_134954)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:152] numOf_Data_X = 24
+
+[s_112.py:161] data_x =>
+[-1.57079633 -1.43420534 -1.29761436 -1.16102337 -1.02443239 -0.8878414
+ -0.75125042 -0.61465943 -0.47806845 -0.34147746 -0.20488648 -0.06829549
+  0.06829549  0.20488648  0.34147746  0.47806845  0.61465943  0.75125042
+  0.8878414   1.02443239  1.16102337  1.29761436  1.43420534  1.57079633]
+[s_112.py:169] data_y =>
+[  6.12323400e-17   1.36166649e-01   2.69796771e-01   3.98401090e-01
+   5.19583950e-01   6.31087944e-01   7.30835964e-01   8.16969893e-01
+   8.87885218e-01   9.42260922e-01   9.79084088e-01   9.97668769e-01
+   9.97668769e-01   9.79084088e-01   9.42260922e-01   8.87885218e-01
+   8.16969893e-01   7.30835964e-01   6.31087944e-01   5.19583950e-01
+   3.98401090e-01   2.69796771e-01   1.36166649e-01   6.12323400e-17]
+[s_112.py:219] plot image saved => ./data\plot_image_20211003_134954_[test]
+[s_112.py:239] exec_prog => done
+
+[s_112.py:270] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_135352)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:166] numOf_Data_X = 24
+
+[s_112.py:235] plot image saved => ./data\plot_image_20211003_135352_[test]
+[s_112.py:255] exec_prog => done
+
+[s_112.py:286] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_135612)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:167] numOf_Data_X = 24
+
+[s_112.py:238] plot image saved => ./data\plot_image_20211003_135612_[test]
+[s_112.py:258] exec_prog => done
+
+[s_112.py:289] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_135849)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:167] numOf_Data_X = 24
+
+[s_112.py:241] plot image saved => ./data\plot_image_20211003_135849_[test]
+[s_112.py:261] exec_prog => done
+
+[s_112.py:292] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_135944)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:167] numOf_Data_X = 24
+
+[s_112.py:241] plot image saved => ./data\plot_image_20211003_135944_[test]
+[s_112.py:261] exec_prog => done
+
+[s_112.py:292] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_140013)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:167] numOf_Data_X = 24
+
+[s_112.py:241] plot image saved => ./data\plot_image_20211003_140013_[test]
+[s_112.py:261] exec_prog => done
+
+[s_112.py:292] all done
+ 
+============================  
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\68_theoretical-physics\\s-112~', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[s_112.py:48] 'from libs import libs' ==> comp.
+
+[s_112.py:94] starting : test_1 (time=20211003_140103)
+
+[s_112.py:117] a = 3.142 / cos(a) = -1.000
+
+[s_112.py:167] numOf_Data_X = 24
+
+[s_112.py:243] plot image saved => ./data\plot_image_20211003_140103_[test]
+[s_112.py:263] exec_prog => done
+
+[s_112.py:294] all done
