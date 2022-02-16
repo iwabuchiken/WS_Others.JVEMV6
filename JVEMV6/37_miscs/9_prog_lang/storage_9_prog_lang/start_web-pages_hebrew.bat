@@ -10,8 +10,12 @@ pushd "C:\WORKS_2\Programs\opera"
 rem : resource : https://scripture4all.org/OnlineInterlinear/Hebrew_Index.htm	: 2021”N2ŒŽ22“ú8:48:53
 rem set url_1=https://scripture4all.org/OnlineInterlinear/OTpdf/qoh1.pdf
 rem : 2021”N7ŒŽ3“ú10:59:45
-set url_1=https://www.scripture4all.org/OnlineInterlinear/OTpdf/gen1.pdf
-set url_2="http://www.qbible.com/hebrew-old-testament/genesis/1.html#1"
+rem set url_1=https://www.scripture4all.org/OnlineInterlinear/OTpdf/gen1.pdf
+set url_1=https://scripture4all.org/OnlineInterlinear/OTpdf/pro26.pdf
+
+set url_2="http://www.qbible.com/hebrew-old-testament/proverbs/26.html#13"
+rem set url_2="http://www.qbible.com/hebrew-old-testament/genesis/1.html#1"
+
 set url_3=https://www.mechon-mamre.org/p/pt/pt0101.htm
 
 rem : add : 2021”N2ŒŽ8“ú9:09:07
