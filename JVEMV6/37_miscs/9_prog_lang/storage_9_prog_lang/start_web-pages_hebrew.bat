@@ -20,8 +20,11 @@ rem set url_2="http://www.qbible.com/hebrew-old-testament/genesis/1.html#1"
 
 set url_3=https://mechon-mamre.org/p/pt/pt2826.htm
 
+set url_4=https://biblescripture.net/Hebrew.html
 
-set list_of_urls=%url_1% %url_2% %url_3%
+
+
+set list_of_urls=%url_1% %url_2% %url_3% %url_4%
 
 firefox.exe  %list_of_urls%
 
