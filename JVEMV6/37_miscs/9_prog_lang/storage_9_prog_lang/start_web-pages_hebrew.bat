@@ -15,18 +15,22 @@ rem : 2021年7月3日10:59:45
 rem set url_1=https://www.scripture4all.org/OnlineInterlinear/OTpdf/gen1.pdf
 set url_1=https://scripture4all.org/OnlineInterlinear/OTpdf/pro26.pdf
 
+rem https://scripture4all.org/OnlineInterlinear/Hebrew_Index.htm
+
 set url_2="http://www.qbible.com/hebrew-old-testament/proverbs/26.html#13"
 rem set url_2="http://www.qbible.com/hebrew-old-testament/genesis/1.html#1"
 
 set url_3=https://mechon-mamre.org/p/pt/pt2826.htm
+
+https://mechon-mamre.org/p/pt/pt1001.htm
 
 set url_4=https://biblescripture.net/Hebrew.html
 
 
 
 set list_of_urls=%url_1% %url_2% %url_3% %url_4%
-
-firefox.exe  %list_of_urls%
+rem : 2022年3月12日10:43:17 : comment o.
+rem firefox.exe  %list_of_urls%
 
 rem : add : 2021年2月8日9:09:07
 rem : c/o : 2021年2月22日8:45:49
