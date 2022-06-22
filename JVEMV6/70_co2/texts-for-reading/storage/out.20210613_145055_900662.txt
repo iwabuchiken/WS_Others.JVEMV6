@@ -1,0 +1,21 @@
+Ashtekar's new insight was ]] to introduce a new configuration variable, ]]
+A a i = Γ a i − i K a i {\displaystyle A_{a}^{i}=\Gamma _{a}^{i}-iK_{a}^{i}} A_{a}^{i}=\Gamma _{a}^{i}-iK_{a}^{i} ]]
+that behaves as a complex SU ⁡ ( 2 ) {\displaystyle \operatorname {SU} (2)} \operatorname {SU} (2) connection where Γ a i {\displaystyle \Gamma _{a}^{i}} \Gamma _{a}^{i} ]] is related to the so-called spin connection ]] via Γ a i = Γ a j k ϵ j k i {\displaystyle \Gamma _{a}^{i}=\Gamma _{ajk}\epsilon ^{jki}} \Gamma _{a}^{i}=\Gamma _{ajk}\epsilon ^{jki}.]]
+
+Here A a i {\displaystyle A_{a}^{i}} A_{a}^{i} is called the chiral spin connection.]]
+
+It defines a covariant derivative D ]] a {\displaystyle {\mathcal {D}}_{a}} {\mathcal {D}}_{a}.]]
+
+It turns out that E ~ i a {\displaystyle {\tilde {E}}_{i}^{a}} {\tilde {E}}_{i}^{a} is the conjugate momentum of A a i {\displaystyle A_{a}^{i}} A_{a}^{i}, and together these form Ashtekar's new variables.]]
+
+
+
+
+The expressions for the constraints in Ashtekar variables; ]]
+
+the Gauss's law, the spatial diffeomorphism constraint and the (densitized) Hamiltonian constraint then read: ]]
+    G i = D a E ~ i a = 0 {\displaystyle G^{i}={\mathcal {D}}_{a}{\tilde {E}}_{i}^{a}=0} G^{i}={\mathcal {D}}_{a}{\tilde {E}}_{i}^{a}=0 
+    C a = E ~ i b F a b i − A a i ( D b E ~ i b ) = V a − A a i G i = 0 , {\displaystyle C_{a}={\tilde {E}}_{i}^{b}F_{ab}^{i}-A_{a}^{i}({\mathcal {D}}_{b}{\tilde {E}}_{i}^{b})=V_{a}-A_{a}^{i}G^{i}=0,} {\displaystyle C_{a}={\tilde {E}}_{i}^{b}F_{ab}^{i}-A_{a}^{i}({\mathcal {D}}_{b}{\tilde {E}}_{i}^{b})=V_{a}-A_{a}^{i}G^{i}=0,} 
+    H ~ = ϵ i j k E ~ i a E ~ j b F a b k = 0 {\displaystyle {\tilde {H}}=\epsilon _{ijk}{\tilde {E}}_{i}^{a}{\tilde {E}}_{j}^{b}F_{ab}^{k}=0} {\displaystyle {\tilde {H}}=\epsilon _{ijk}{\tilde {E}}_{i}^{a}{\tilde {E}}_{j}^{b}F_{ab}^{k}=0} ]]
+respectively, where F a b i {\displaystyle F_{ab}^{i}} F_{ab}^{i} is the field strength tensor of the connection A a i {\displaystyle A_{a}^{i}} A_{a}^{i} and where V a {\displaystyle V_{a}} V_{a} is referred to as the vector constraint.]]
+

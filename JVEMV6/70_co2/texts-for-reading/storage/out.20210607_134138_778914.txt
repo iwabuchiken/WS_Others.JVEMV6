@@ -1,0 +1,1 @@
+Renormalization is distinct from regularization, another technique to control infinities by assuming the existence of new unknown physics at new scales.

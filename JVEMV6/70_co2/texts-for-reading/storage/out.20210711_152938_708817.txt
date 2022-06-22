@@ -1,0 +1,1 @@
+The purpose of this research note is to present a practical study of theabove question in three dimensions.]]We compare meshes generated with twofreely available programs,Mmg3d[1] andTetGen[7], by using isotropic mesh sizing functions.]]This study provides a fair justification of the state-of-the-artmetric-based methods for adaptive mesh generation.]]

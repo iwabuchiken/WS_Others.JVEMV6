@@ -1,0 +1,25 @@
+Pre-history and Ashtekar new variables Main articles: 
+
+Frame fields in general relativity, Ashtekar variables, and Self-dual Palatini action ]]
+
+
+Many of the technical problems in canonical quantum gravity revolve around the constraints.]]
+
+Canonical general relativity]] was originally formulated in terms of metric variables]], but there seemed to be insurmountable mathematical difficulties in promoting the constraints to quantum operators because of their highly non-linear dependence on the canonical variables.]]
+
+The equations were much simplified with the introduction of Ashtekar's new variables.]]
+
+Ashtekar variables describe ]] canonical general relativity ]] in terms of a new pair of canonical variables closer to those of gauge theories.]]
+
+The first step consists of using densitized triads E ~ i a {\displaystyle {\tilde {E}}_{i}^{a}} {\tilde {E}}_{i}^{a} (a triad E i a {\displaystyle E_{i}^{a}} E_{i}^{a} is simply three orthogonal vector fields labeled by i = 1 , 2 , 3 {\displaystyle i=1,2,3} i=1,2,3]] and the densitized triad is defined by E ~ i a = det ( q ) E i a {\textstyle {\tilde {E}}_{i}^{a}={\sqrt {\det(q)}}E_{i}^{a}} {\textstyle {\tilde {E}}_{i}^{a}={\sqrt {\det(q)}}E_{i}^{a}}) to encode information about the spatial metric, ]]
+    det ( q ) q a b = E ~ i a E ~ j b δ i j .]]
+
+{\displaystyle \det(q)q^{ab}={\tilde {E}}_{i}^{a}{\tilde {E}}_{j}^{b}\delta ^{ij}.} {\displaystyle \det(q)q^{ab}={\tilde {E}}_{i}^{a}{\tilde {E}}_{j}^{b}\delta ^{ij}.} ]]
+(where δ i j {\displaystyle \delta ^{ij}} \delta ^{ij} ]] is the flat space metric]] , and the above equation expresses that q a b {\displaystyle q^{ab}} q^{ab}, when written in terms of the basis E i a {\displaystyle E_{i}^{a}} E_{i}^{a}, is locally flat).]]
+
+(Formulating general relativity with triads ]] instead of metrics was not new.) ]] The densitized triads are not unique, ]] and in fact one can perform a local in space rotation ]] with respect to the internal indices i {\displaystyle i} i.]]
+
+The canonically conjugate variable is related to the extrinsic curvature ]] by K a i = K a b E ~ a i / det ( q ) {\textstyle K_{a}^{i}=K_{ab}{\tilde {E}}^{ai}/{\sqrt {\det(q)}}} {\textstyle K_{a}^{i}=K_{ab}{\tilde {E}}^{ai}/{\sqrt {\det(q)}}}.]]
+
+But problems similar to using the metric formulation arise when one tries to quantize the theory.]]
+

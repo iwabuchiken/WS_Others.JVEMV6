@@ -1,0 +1,25 @@
+There are three types of constraints in Ashtekar's reformulation of classical general relativity: SU(2) Gauss gauge constraints 
+
+The Gauss constraints ]]
+    G j ( x ) = 0. {\displaystyle G_{j}(x)=0.} {\displaystyle G_{j}(x)=0.} ]]
+This represents an infinite number of constraints one for each value of x {\displaystyle x} x.]]
+
+These come about from re-expressing General relativity as an S U ( 2 ) {\displaystyle \mathrm {SU} (2)} \mathrm {SU} (2) ]] Yang–Mills type gauge theory ]] (Yang–Mills is a generalization of Maxwell's theory where the gauge field transforms as a vector under Gauss transformations, ]] that is, the Gauge field is of the form A a i ( x ) {\displaystyle A_{a}^{i}(x)} A_{a}^{i}(x) where i {\displaystyle i} i is an internal index.
+
+See Ashtekar variables).]]
+
+These infinite number of Gauss gauge constraints can be "smeared" by test fields with internal indices, λ j ( x ) {\displaystyle \lambda ^{j}(x)} {\displaystyle \lambda ^{j}(x)}, 
+    G ( λ ) = ∫ G j ( x ) λ j ( x ) d 3 x .]]
+
+{\displaystyle G(\lambda )=\int G_{j}(x)\lambda ^{j}(x)\,\operatorname {d} ^{3}\!x.} {\displaystyle G(\lambda )=\int G_{j}(x)\lambda ^{j}(x)\,\operatorname {d} ^{3}\!x.} 
+which must vanish for any such function.]]
+
+These smeared constraints defined with respect to a suitable space of smearing functions give an equivalent description to the original constraints.]]
+
+
+
+
+Ashtekar's formulation may be ]] thought of as ordinary S U ( 2 ) {\displaystyle \mathrm {SU} (2)} \mathrm {SU} (2) Yang–Mills theory ]] together with the following special constraints, resulting from diffeomorphism invariance, and a Hamiltonian that vanishes.]]
+
+The dynamics of such a theory are thus very different from that of ordinary Yang–Mills theory.]]
+

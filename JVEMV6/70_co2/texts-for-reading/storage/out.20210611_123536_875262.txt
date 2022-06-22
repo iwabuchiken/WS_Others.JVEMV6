@@ -1,0 +1,14 @@
+One particle 
+
+By analogy with classical mechanics, ]] the Hamiltonian is commonly expressed as the sum of operators corresponding to the kinetic and potential energies of a system ]] in the form 
+    H ^ = T ^ + V ^ , {\displaystyle {\hat {H}}={\hat {T}}+{\hat {V}},} {\displaystyle {\hat {H}}={\hat {T}}+{\hat {V}},} ]]
+where 
+    V ^ = V = V ( r , t ) , {\displaystyle {\hat {V}}=V=V(\mathbf {r} ,t),} {\displaystyle {\hat {V}}=V=V(\mathbf {r} ,t),} 
+is the potential energy operator and 
+    T ^ = p ^ ⋅ p ^ 2 m = p ^ 2 2 m = − ℏ 2 2 m ∇ 2 , {\displaystyle {\hat {T}}={\frac {\mathbf {\hat {p}} \cdot \mathbf {\hat {p}} }{2m}}={\frac {{\hat {p}}^{2}}{2m}}=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2},} {\displaystyle {\hat {T}}={\frac {\mathbf {\hat {p}} \cdot \mathbf {\hat {p}} }{2m}}={\frac {{\hat {p}}^{2}}{2m}}=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2},} ]]
+is the kinetic energy operator ]] in which m {\displaystyle m} m is the mass of the particle, ]] the dot denotes the dot product of vectors, and ]]
+    p ^ = − i ℏ ∇ , {\displaystyle {\hat {p}}=-i\hbar \nabla ,} {\displaystyle {\hat {p}}=-i\hbar \nabla ,} ]]
+is the momentum operator where a ∇ {\displaystyle \nabla } \nabla is the del operator.]]
+
+The dot product of ∇ {\displaystyle \nabla } \nabla with itself is the Laplacian ∇ 2 {\displaystyle \nabla ^{2}} \nabla ^{2}.
+

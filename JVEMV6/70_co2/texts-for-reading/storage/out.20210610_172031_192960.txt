@@ -1,0 +1,20 @@
+The Hamiltonian 
+    H ( x ) = 0 {\displaystyle H(x)=0} H(x)=0 
+can be smeared ]] by the so-called lapse functions ]] N ( x ) {\displaystyle N(x)} N(x) to give an equivalent set of smeared Hamiltonian constraints, 
+    H ( N ) = ∫ H ( x ) N ( x ) d 3 x .]]
+
+{\displaystyle H(N)=\int H(x)N(x)\,\mathrm {d} ^{3}x.} {\displaystyle H(N)=\int H(x)N(x)\,\mathrm {d} ^{3}x.} ]]
+These generate time diffeomorphisms along orbits defined by the lapse function N ( x ) {\displaystyle N(x)} N(x).]]
+
+
+
+
+In Ashtekar formulation the gauge field A a i ( x ) {\displaystyle A_{a}^{i}(x)} {\displaystyle A_{a}^{i}(x)} is the configuration variable ]] (the configuration variable being analogous to q {\displaystyle q} q in ordinary mechanics) and its conjugate momentum ]] is the (densitized) triad (electrical field) E ~ i a ( x ) {\displaystyle {\tilde {E}}_{i}^{a}(x)} {\displaystyle {\tilde {E}}_{i}^{a}(x)}.]]
+
+The constraints are certain functions of these phase space variables.]]
+
+
+
+
+An important aspect of the action of the constraints on arbitrary phase space functions ]] is the Lie derivative, L V {\displaystyle {\mathcal {L}}_{V}} {\mathcal {L}}_{V}, ]] which is basically a derivative operation that infinitesimally "shifts" functions along some orbit with tangent vector V {\displaystyle V} V.]]
+

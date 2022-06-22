@@ -1,0 +1,8 @@
+he formalism can be extended to N {\displaystyle N} N particles: ]]
+    H ^ = ∑ n = 1 N T ^ n + V ^ {\displaystyle {\hat {H}}=\sum _{n=1}^{N}{\hat {T}}_{n}+{\hat {V}}} {\displaystyle {\hat {H}}=\sum _{n=1}^{N}{\hat {T}}_{n}+{\hat {V}}} ]]
+where 
+    V ^ = V ( r 1 , r 2 , … , r N , t ) , {\displaystyle {\hat {V}}=V(\mathbf {r} _{1},\mathbf {r} _{2},\ldots ,\mathbf {r} _{N},t),} {\displaystyle {\hat {V}}=V(\mathbf {r} _{1},\mathbf {r} _{2},\ldots ,\mathbf {r} _{N},t),} ]]
+is the potential energy function, now a function of the spatial configuration of the system]] and time (a particular set of spatial positions at some instant of time defines a configuration) and; ]]
+    T ^ n = p n ⋅ p n 2 m n , {\displaystyle {\hat {T}}_{n}={\frac {\mathbf {p} _{n}\cdot \mathbf {p} _{n}}{2m_{n}}},} {\displaystyle {\hat {T}}_{n}={\frac {\mathbf {p} _{n}\cdot \mathbf {p} _{n}}{2m_{n}}},} ]]
+is the kinetic energy operator of particle n {\displaystyle n} n, ]] and ∇ n {\displaystyle \nabla _{n}} {\displaystyle \nabla _{n}} is the gradient for particle n {\displaystyle n} n, ]] ∇ n 2 {\displaystyle \nabla _{n}^{2}} {\displaystyle \nabla _{n}^{2}} is the Laplacian for particle using the coordinates: ]]
+    ∇ n 2 = ∂ 2 ∂ x n 2 + ∂ 2 ∂ y n 2 + ∂ 2 ∂ z n 2 , {\displaystyle \nabla _{n}^{2}={\frac {\partial ^{2}}{\partial x_{n}^{2}}}+{\frac {\partial ^{2}}{\partial y_{n}^{2}}}+{\frac {\partial ^{2}}{\partial z_{n}^{2}}},} {\displaystyle \nabla _{n}^{2}={\frac {\partial ^{2}}{\partial x_{n}^{2}}}+{\frac {\partial ^{2}}{\partial y_{n}^{2}}}+{\frac {\partial ^{2}}{\partial z_{n}^{2}}},} ]]

@@ -1,0 +1,15 @@
+In three dimensions using Cartesian coordinates the Laplace operator is ]]
+    ∇ 2 = ∂ 2 ∂ x 2 + ∂ 2 ∂ y 2 + ∂ 2 ∂ z 2 {\displaystyle \nabla ^{2}={\frac {\partial ^{2}}{{\partial x}^{2}}}+{\frac {\partial ^{2}}{{\partial y}^{2}}}+{\frac {\partial ^{2}}{{\partial z}^{2}}}} \nabla ^{2}={\frac {\partial ^{2}}{{\partial x}^{2}}}+{\frac {\partial ^{2}}{{\partial y}^{2}}}+{\frac {\partial ^{2}}{{\partial z}^{2}}} ]]
+Although this is not the technical definition of the Hamiltonian in classical mechanics, ]] it is the form it most commonly takes.]]
+
+Combining these yields the familiar form used in the Schrödinger equation: ]]
+    H ^ = T ^ + V ^ = p ^ ⋅ p ^ 2 m + V ( r , t ) = − ℏ 2 2 m ∇ 2 + V ( r , t ) {\displaystyle {\begin{aligned}{\hat {H}}&={\hat {T}}+{\hat {V}}\\[6pt]&={\frac {\mathbf {\hat {p}} \cdot \mathbf {\hat {p}} }{2m}}+V(\mathbf {r} ,t)\\[6pt]&=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V(\mathbf {r} ,t)\end{aligned}}} {\displaystyle {\begin{aligned}{\hat {H}}&={\hat {T}}+{\hat {V}}\\[6pt]&={\frac {\mathbf {\hat {p}} \cdot \mathbf {\hat {p}} }{2m}}+V(\mathbf {r} ,t)\\[6pt]&=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V(\mathbf {r} ,t)\end{aligned}}} ]]
+which allows one to apply the Hamiltonian to systems described by a wave function Ψ ( r , t ) {\displaystyle \Psi (\mathbf {r} ,t)} {\displaystyle \Psi (\mathbf {r} ,t)}.]]
+
+This is the approach commonly taken in introductory treatments of quantum mechanics, ]] using the formalism of Schrödinger's wave mechanics.]]
+
+
+
+
+One can also make substitutions to certain variables to fit specific cases, such as some involving electromagnetic fields.
+

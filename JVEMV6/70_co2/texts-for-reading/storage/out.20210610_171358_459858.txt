@@ -1,0 +1,8 @@
+The spatial diffeomorphism constraints ]]
+    C a ( x ) = 0 {\displaystyle C_{a}(x)=0} {\displaystyle C_{a}(x)=0} ]]
+can be smeared by the so-called shift functions N → ( x ) {\displaystyle {\vec {N}}(x)} {\vec {N}}(x) to give an equivalent set of smeared spatial diffeomorphism constraints, 
+    C ( N → ) = ∫ C a ( x ) N a ( x ) d 3 x .
+
+{\displaystyle C({\vec {N}})=\int C_{a}(x)\,N^{a}(x)\,\mathrm {d} ^{3}x.} {\displaystyle C({\vec {N}})=\int C_{a}(x)\,N^{a}(x)\,\mathrm {d} ^{3}x.} 
+These generate spatial diffeomorphisms along orbits defined by the shift function N a ( x ) {\displaystyle N^{a}(x)} {\displaystyle N^{a}(x)}.
+
