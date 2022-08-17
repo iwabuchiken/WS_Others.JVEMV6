@@ -5,30 +5,54 @@ REM opening message
 rem =========================
 echo starting start_web-pages_hebrew.bat // C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
 
+
+rem 2022年8月16日23:04:15
+set dpath_browser_executable="C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application"
+
+goto section_pushd
+
+
+:section_pushd
 rem pushd "C:\WORKS_2\Programs\opera"
-pushd "C:\Program Files\Mozilla Firefox"
+rem pushd "C:\Program Files\Mozilla Firefox"
+pushd %dpath_browser_executable%
 
 
 rem : resource : https://scripture4all.org/OnlineInterlinear/Hebrew_Index.htm	: 2021年2月22日8:48:53
 rem set url_1=https://scripture4all.org/OnlineInterlinear/OTpdf/qoh1.pdf
 rem : 2021年7月3日10:59:45
 rem set url_1=https://www.scripture4all.org/OnlineInterlinear/OTpdf/gen1.pdf
-set url_1=https://scripture4all.org/OnlineInterlinear/OTpdf/pro26.pdf
+
+rem set url_1=https://scripture4all.org/OnlineInterlinear/OTpdf/pro26.pdf
 
 rem https://scripture4all.org/OnlineInterlinear/Hebrew_Index.htm
 
-set url_2="http://www.qbible.com/hebrew-old-testament/proverbs/26.html#13"
+
+rem set url_2="http://www.qbible.com/hebrew-old-testament/proverbs/26.html#13"
 rem set url_2="http://www.qbible.com/hebrew-old-testament/genesis/1.html#1"
 
-set url_3=https://mechon-mamre.org/p/pt/pt2826.htm
 
-https://mechon-mamre.org/p/pt/pt1001.htm
+rem set url_3=https://mechon-mamre.org/p/pt/pt2826.htm
 
+rem https://mechon-mamre.org/p/pt/pt1001.htm
+
+
+set url_1=https://www.scripture4all.org/OnlineInterlinear/OTpdf/psa3.pdf
+set url_2="http://www.qbible.com/hebrew-old-testament/psalms/3.html#1"
+set url_3=https://mechon-mamre.org/p/pt/pt2603.htm
 set url_4=https://biblescripture.net/Hebrew.html
 
 
-
 set list_of_urls=%url_1% %url_2% %url_3% %url_4%
+
+set fname_browser_executable="browser.exe"
+
+echo %fname_browser_executable:"=%
+
+rem %fname_browser_executable:"=% https://biblescripture.net/Hebrew.html
+
+%fname_browser_executable:"=% %list_of_urls%
+
 rem : 2022年3月12日10:43:17 : comment o.
 rem firefox.exe  %list_of_urls%
 
