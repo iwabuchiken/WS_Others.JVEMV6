@@ -84,3 +84,13 @@ REM :end_of_end
 REM gen ==> time label
 
 exit
+
+
+rem =============================
+
+rem : kohelet //2022”N8ŒŽ21“ú8:32:14
+http://www.qbible.com/hebrew-old-testament/ecclesiastes/2.html#3
+https://www.scripture4all.org/OnlineInterlinear/OTpdf/qoh2.pdf
+https://mechon-mamre.org/p/pt/pt3102.htm
+
+rem =============================
