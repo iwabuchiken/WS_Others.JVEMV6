@@ -1,0 +1,316 @@
+ 
+============================  
+param is ''
+20221001_111941
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:79] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:100] starting : func : test_1 (time=20221001_111950)
+ 
+============================  
+param is ''
+20221001_112009
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:79] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:100] starting : func : test_1 (time=20221001_112018)
+[jve_57_g-5_s-4.py:116] listOf_Files : 
+['get_folder_list.[v.2].20190210_091405.rb', 'iphone_upload_done - ショートカット.lnk']
+[jve_57_g-5_s-4.py:152] exec_prog => done
+
+[jve_57_g-5_s-4.py:183] all done
+ 
+============================  
+param is ''
+20221001_112249
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:79] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:100] starting : func : test_1 (time=20221001_112251)
+ 
+============================  
+param is ''
+20221001_112447
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:79] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:100] starting : func : test_1 (time=20221001_112449)
+[jve_57_g-5_s-4.py:118] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:126] listOf_Dirs : 
+['2022-01~06', '2022-07~12', '2022-10-01~10', '2022-10-11~20', '2022-10-21~31', '2022-11-01~10 - コピー', '2022-11-11~20 - コピー', '2022-11-21~31 - コピー']
+[jve_57_g-5_s-4.py:172] exec_prog => done
+
+[jve_57_g-5_s-4.py:203] all done
+ 
+============================  
+param is ''
+20221001_112757
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_112759)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+['2022-01~06', '2022-07~12', '2022-10-01~10', '2022-10-11~20', '2022-10-21~31', '2022-11-01~10 - コピー', '2022-11-11~20 - コピー', '2022-11-21~31 - コピー']
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:184] exec_prog => done
+
+[jve_57_g-5_s-4.py:215] all done
+ 
+============================  
+param is ''
+20221001_113111
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_113114)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+['2022-01~06', '2022-07~12', '2022-10-01~10', '2022-10-11~20', '2022-10-21~31', '2022-11-01~10 - コピー', '2022-11-11~20 - コピー', '2022-11-21~31 - コピー']
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:184] NOT match : 2022-01~06
+[jve_57_g-5_s-4.py:184] NOT match : 2022-07~12
+[jve_57_g-5_s-4.py:184] NOT match : 2022-10-01~10
+[jve_57_g-5_s-4.py:184] NOT match : 2022-10-11~20
+[jve_57_g-5_s-4.py:184] NOT match : 2022-10-21~31
+[jve_57_g-5_s-4.py:184] NOT match : 2022-11-01~10 - コピー
+[jve_57_g-5_s-4.py:184] NOT match : 2022-11-11~20 - コピー
+[jve_57_g-5_s-4.py:184] NOT match : 2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:220] exec_prog => done
+
+[jve_57_g-5_s-4.py:251] all done
+ 
+============================  
+param is ''
+20221001_113302
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_113305)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+['2022-01~06', '2022-07~12', '2022-10-01~10', '2022-10-11~20', '2022-10-21~31', '2022-11-01~10 - コピー', '2022-11-11~20 - コピー', '2022-11-21~31 - コピー']
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+ 
+============================  
+param is ''
+20221001_113315
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_113317)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+['2022-01~06', '2022-07~12', '2022-10-01~10', '2022-10-11~20', '2022-10-21~31', '2022-11-01~10 - コピー', '2022-11-11~20 - コピー', '2022-11-21~31 - コピー']
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:166] strOf_Pattern : 21
+[jve_57_g-5_s-4.py:195] NOT match : 2022-01~06
+[jve_57_g-5_s-4.py:195] NOT match : 2022-07~12
+[jve_57_g-5_s-4.py:195] NOT match : 2022-10-01~10
+[jve_57_g-5_s-4.py:195] NOT match : 2022-10-11~20
+[jve_57_g-5_s-4.py:195] NOT match : 2022-10-21~31
+[jve_57_g-5_s-4.py:195] NOT match : 2022-11-01~10 - コピー
+[jve_57_g-5_s-4.py:195] NOT match : 2022-11-11~20 - コピー
+[jve_57_g-5_s-4.py:195] NOT match : 2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:231] exec_prog => done
+
+[jve_57_g-5_s-4.py:262] all done
+ 
+============================  
+param is ''
+20221001_113740
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_113743)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:166] strOf_Pattern : 21
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-01~06
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-07~12
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-10-01~10
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-10-11~20
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-10-21~31
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-11-01~10 - コピー
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-11-11~20 - コピー
+[jve_57_g-5_s-4.py:182] match result : 
+None
+[jve_57_g-5_s-4.py:205] NOT match : 2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:241] exec_prog => done
+
+[jve_57_g-5_s-4.py:272] all done
+ 
+============================  
+param is ''
+20221001_113939
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_113942)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:167] strOf_Pattern :  
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-01~06
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-07~12
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-10-01~10
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-10-11~20
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-10-21~31
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-11-01~10 - コピー
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-11-11~20 - コピー
+[jve_57_g-5_s-4.py:183] match result : 
+None
+[jve_57_g-5_s-4.py:206] NOT match : 2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:242] exec_prog => done
+
+[jve_57_g-5_s-4.py:273] all done
+ 
+============================  
+param is ''
+20221001_114123
+ 
+['C:\\WORKS_2\\WS\\WS_Others.JVEMV6\\JVEMV6\\57_programming\\57.4_change_file_name\\s-1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\python35.zip', 'C:\\WORKS_2\\Programs\\panda3d\\Panda3D-1.10.9-x64', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\DLLs', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1', 'C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib\\site-packages', '.', '..', 'C:/WORKS_2/WS/WS_Others/free/fx/82_']
+
+[jve_57_g-5_s-4.py:48] 'from libs import libs' ==> comp.
+[jve_57_g-5_s-4.py:83] 'from PIL import Image' => done
+
+[jve_57_g-5_s-4.py:104] starting : func : test_1 (time=20221001_114125)
+[jve_57_g-5_s-4.py:123] dpath : G:\images\2022
+[jve_57_g-5_s-4.py:131] listOf_Dirs : 
+2022-01~06
+2022-07~12
+2022-10-01~10
+2022-10-11~20
+2022-10-21~31
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:168] strOf_Pattern : 21
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-01~06
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-07~12
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-10-01~10
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-10-11~20
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-10-21~31
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-11-01~10 - コピー
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-11-11~20 - コピー
+[jve_57_g-5_s-4.py:185] match result : 
+None
+[jve_57_g-5_s-4.py:208] NOT match : 2022-11-21~31 - コピー
+[jve_57_g-5_s-4.py:244] exec_prog => done
+
+[jve_57_g-5_s-4.py:275] all done
