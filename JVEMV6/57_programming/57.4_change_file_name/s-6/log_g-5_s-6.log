@@ -1,0 +1,1036 @@
+ 
+============================ 
+ 
+============================  
+param is ''
+20221025_110755
+ 
+============================  
+param is ''
+20221025_111934
+ 
+============================  
+param is ''
+20221025_112033
+ 
+ 
+============================  
+param is ''
+20221025_112112
+ 
+yes[C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php : 51] yes
+[jve_57_g-5_s-6.php : 54] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines[jve_57_g-5_s-6.php : 44] file closed : G:\images\2022\chage_file_names.txt 
+============================  
+param is ''
+20221025_112226
+ 
+yes[C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php : 62] yes
+[jve_57_g-5_s-6.php : 65] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines[jve_57_g-5_s-6.php : 44] file closed : G:\images\2022\chage_file_names.txt
+ 
+============================  
+param is ''
+20221025_112306
+ 
+[jve_57_g-5_s-6.php : 65] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines[jve_57_g-5_s-6.php : 44] file closed : G:\images\2022\chage_file_names.txt 
+============================  
+param is ''
+20221025_112337
+ 
+[jve_57_g-5_s-6.php : 67] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+[jve_57_g-5_s-6.php : 46] file closed : G:\images\2022\chage_file_names.txt 
+============================  
+param is ''
+20221025_112544
+ 
+[jve_57_g-5_s-6.php : 72] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+[jve_57_g-5_s-6.php : 46] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 50] file content
+Array
+(
+    [0] => program file path = G:/images/2022/get_folder_list.[v.2].20190210_091405.rb
+
+    [1] => version = 1.0
+
+    [2] => list file created at = 20221025_104240
+
+    [3] => dir path = G:/images/2022
+
+    [4] => dirs = 11
+
+    [5] => files = 2
+
+    [6] => 
+
+    [7] => <directories> 11 =========================
+
+    [8] => 1	2022-01~06
+
+    [9] => 2	2022-07~12
+
+    [10] => 3	2022-10-01~10
+
+    [11] => 4	2022-10-11~20
+
+    [12] => 5	2022-10-21~31
+
+    [13] => 6	2022-11-01~10 - コピー
+
+    [14] => 7	2022-11-11~20 - コピー
+
+    [15] => 8	2022-11-21~31 - コピー
+
+    [16] => 9	2022-12-01~10 - コピー - コピー
+
+    [17] => 10	2022-12-11~20 - コピー - コピー
+
+    [18] => 11	2022-12-21~31 - コピー - コピー
+
+    [19] => 
+
+    [20] => 
+
+    [21] => <files> 2 =========================
+
+    [22] => 1	get_folder_list.[v.2].20190210_091405.rb
+
+    [23] => 2	iphone_upload_done - ショートカット.lnk
+
+)
+ 
+============================  
+param is ''
+20221025_113019
+ 
+[jve_57_g-5_s-6.php : 74] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+ 
+============================  
+param is ''
+20221025_113101
+ 
+[jve_57_g-5_s-6.php : 79] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+[jve_57_g-5_s-6.php : 36] $contentOf_File :
+ 
+============================  
+param is ''
+20221025_113118
+ 
+[jve_57_g-5_s-6.php : 80] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+[jve_57_g-5_s-6.php : 36] $contentOf_File :
+program file path = G:/images/2022/get_folder_list.[v.2].20190210_091405.rb
+version = 1.0
+list file created at = 20221025_104240
+dir path = G:/images/2022
+dirs = 11
+files = 2
+
+<directories> 11 =========================
+1	2022-01~06
+2	2022-07~12
+3	2022-10-01~10
+4	2022-10-11~20
+5	2022-10-21~31
+6	2022-11-01~10 - コピー
+7	2022-11-11~20 - コピー
+8	2022-11-21~31 - コピー
+9	2022-12-01~10 - コピー - コピー
+10	2022-12-11~20 - コピー - コピー
+11	2022-12-21~31 - コピー - コピー
+
+
+<files> 2 =========================
+1	get_folder_list.[v.2].20190210_091405.rb
+2	iphone_upload_done - ショートカット.lnk
+ 
+============================  
+param is ''
+20221025_113244
+ 
+[jve_57_g-5_s-6.php : 80] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+[jve_57_g-5_s-6.php : 36] $contentOf_File :
+2022-11-01~10 - コピー
+2022-11-11~20 - コピー
+2022-11-21~31 - コピー
+2022-12-01~10 - コピー - コピー
+2022-12-11~20 - コピー - コピー
+2022-12-21~31 - コピー - コピー
+ 
+============================  
+param is ''
+20221025_113327
+ 
+[jve_57_g-5_s-6.php : 80] yeeeees
+[jve_57_g-5_s-6.php : 25] starting : read_lines
+[jve_57_g-5_s-6.php : 54] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 58] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+ 
+============================  
+param is ''
+20221025_114146
+ 
+[jve_57_g-5_s-6.php : 124] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 102] replacing...
+[jve_57_g-5_s-6.php : 107] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 102] replacing...
+[jve_57_g-5_s-6.php : 107] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 102] replacing...
+[jve_57_g-5_s-6.php : 107] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 102] replacing...
+[jve_57_g-5_s-6.php : 107] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 102] replacing...
+[jve_57_g-5_s-6.php : 107] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 102] replacing...
+[jve_57_g-5_s-6.php : 107] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+ 
+============================  
+param is ''
+20221025_114707
+ 
+[jve_57_g-5_s-6.php : 177] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+ 
+============================  
+param is ''
+20221025_115044
+ 
+[jve_57_g-5_s-6.php : 192] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 147] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+ 
+============================  
+param is ''
+20221025_115402
+ 
+
+Parse error: syntax error, unexpected '}' in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 195
+ 
+============================  
+param is ''
+20221025_115425
+ 
+[jve_57_g-5_s-6.php : 201] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 151] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+ 
+============================  
+param is ''
+20221025_120504
+ 
+[jve_57_g-5_s-6.php : 228] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 175] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 138] $fpath_Orig : G:\images\2022\2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 140] $fpath_New : G:\images\2022\2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 138] $fpath_Orig : G:\images\2022\2022-11-11~20 - コピー
+
+[jve_57_g-5_s-6.php : 140] $fpath_New : G:\images\2022\2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 138] $fpath_Orig : G:\images\2022\2022-11-21~31 - コピー
+
+[jve_57_g-5_s-6.php : 140] $fpath_New : G:\images\2022\2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 138] $fpath_Orig : G:\images\2022\2022-12-01~10 - コピー - コピー
+
+[jve_57_g-5_s-6.php : 140] $fpath_New : G:\images\2022\2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 138] $fpath_Orig : G:\images\2022\2022-12-11~20 - コピー - コピー
+
+[jve_57_g-5_s-6.php : 140] $fpath_New : G:\images\2022\2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 138] $fpath_Orig : G:\images\2022\2022-12-21~31 - コピー - コピー
+
+[jve_57_g-5_s-6.php : 140] $fpath_New : G:\images\2022\2022-12-21~31
+
+
+ 
+============================  
+param is ''
+20221025_120742
+ 
+[jve_57_g-5_s-6.php : 241] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 188] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 140] $fpath_Orig : G:\images\2022\2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 142] $fpath_New : G:\images\2022\2022-11-01~10
+
+
+
+Warning: rename(G:\images\2022\2022-11-01~10 - コピー
+,2022-11-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 149
+[jve_57_g-5_s-6.php : 151] rename result => 0
+
+[jve_57_g-5_s-6.php : 140] $fpath_Orig : G:\images\2022\2022-11-11~20 - コピー
+
+[jve_57_g-5_s-6.php : 142] $fpath_New : G:\images\2022\2022-11-11~20
+
+
+
+Warning: rename(G:\images\2022\2022-11-11~20 - コピー
+,2022-11-11~20
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 149
+[jve_57_g-5_s-6.php : 151] rename result => 0
+
+[jve_57_g-5_s-6.php : 140] $fpath_Orig : G:\images\2022\2022-11-21~31 - コピー
+
+[jve_57_g-5_s-6.php : 142] $fpath_New : G:\images\2022\2022-11-21~31
+
+
+
+Warning: rename(G:\images\2022\2022-11-21~31 - コピー
+,2022-11-21~31
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 149
+[jve_57_g-5_s-6.php : 151] rename result => 0
+
+[jve_57_g-5_s-6.php : 140] $fpath_Orig : G:\images\2022\2022-12-01~10 - コピー - コピー
+
+[jve_57_g-5_s-6.php : 142] $fpath_New : G:\images\2022\2022-12-01~10
+
+
+
+Warning: rename(G:\images\2022\2022-12-01~10 - コピー - コピー
+,2022-12-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 149
+[jve_57_g-5_s-6.php : 151] rename result => 0
+
+[jve_57_g-5_s-6.php : 140] $fpath_Orig : G:\images\2022\2022-12-11~20 - コピー - コピー
+
+[jve_57_g-5_s-6.php : 142] $fpath_New : G:\images\2022\2022-12-11~20
+
+
+
+Warning: rename(G:\images\2022\2022-12-11~20 - コピー - コピー
+,2022-12-11~20
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 149
+[jve_57_g-5_s-6.php : 151] rename result => 0
+
+[jve_57_g-5_s-6.php : 140] $fpath_Orig : G:\images\2022\2022-12-21~31 - コピー - コピー
+
+[jve_57_g-5_s-6.php : 142] $fpath_New : G:\images\2022\2022-12-21~31
+
+
+
+Warning: rename(G:\images\2022\2022-12-21~31 - コピー - コピー
+,2022-12-21~31
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 149
+[jve_57_g-5_s-6.php : 151] rename result => 0
+
+ 
+============================  
+param is ''
+20221025_121130
+ 
+[jve_57_g-5_s-6.php : 251] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 198] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+
+Warning: rename(G:\images\2022\2022-12-21~31 - コピー - コピー,2022-12-21~31): �w�肳�ꂽ�t�@�C����������܂���B (code: 2) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 133
+ 
+============================  
+param is ''
+20221025_121726
+ 
+[jve_57_g-5_s-6.php : 256] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 203] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+
+Warning: rename(G:\images\2022\2022-12-21~31 - �R�s�[ - �R�s�[,2022-12-21~31): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 136
+ 
+============================  
+param is ''
+20221025_121926
+ 
+[jve_57_g-5_s-6.php : 258] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 205] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+
+Warning: rename(G:\images\2022\2022-12-21~31 - �R�s�[ - �R�s�[,2022-12-21~31): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 137
+ 
+============================  
+param is ''
+20221025_122055
+ 
+[jve_57_g-5_s-6.php : 259] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 206] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+ 
+============================  
+param is ''
+20221025_122411
+ 
+[jve_57_g-5_s-6.php : 271] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 218] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 146] $fpath_Orig : [jve_57_g-5_s-6.php : 147] $fpath_New : 
