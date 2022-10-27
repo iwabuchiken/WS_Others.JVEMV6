@@ -1033,4 +1033,1186 @@ Array
     [5] => 2022-12-21~31
 
 )
-[jve_57_g-5_s-6.php : 146] $fpath_Orig : [jve_57_g-5_s-6.php : 147] $fpath_New : 
+[jve_57_g-5_s-6.php : 146] $fpath_Orig : [jve_57_g-5_s-6.php : 147] $fpath_New :  
+============================  
+param is ''
+20221027_110613
+ 
+[jve_57_g-5_s-6.php : 272] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 219] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 147] $fpath_Orig : [jve_57_g-5_s-6.php : 148] $fpath_New :  
+============================  
+param is ''
+20221027_111122
+ 
+
+Parse error: syntax error, unexpected 'function' (T_FUNCTION) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 78
+ 
+============================  
+param is ''
+20221027_111232
+ 
+[jve_57_g-5_s-6.php : 274] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 221] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 149] $fpath_Orig : [jve_57_g-5_s-6.php : 150] $fpath_New : 
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 152
+ 
+============================  
+param is ''
+20221027_111612
+ 
+[jve_57_g-5_s-6.php : 279] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 226] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 150] $fname_Orig : 
+[jve_57_g-5_s-6.php : 152] $fpath_Orig : 
+[jve_57_g-5_s-6.php : 154] $fpath_New : 
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 157
+ 
+============================  
+param is ''
+20221027_111634
+ 
+[jve_57_g-5_s-6.php : 279] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 226] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 150] $fname_Orig : 2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 152] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 154] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 157
+ 
+============================  
+param is ''
+20221027_111724
+ 
+[jve_57_g-5_s-6.php : 281] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 228] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 150] $fname_Orig : 2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 152] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 154] $fpath_Orig__Converted : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+
+[jve_57_g-5_s-6.php : 156] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 159
+ 
+============================  
+param is ''
+20221027_111755
+ 
+[jve_57_g-5_s-6.php : 282] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 229] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 150] $fname_Orig : 2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 152] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 154] $fpath_Orig__Converted : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+
+[jve_57_g-5_s-6.php : 156] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �t�@�C�����A�f�B���N�g�����A�܂��̓{�����[�� ���x���̍\�����Ԉ���Ă��܂��B (code: 123) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 159
+ 
+============================  
+param is ''
+20221027_112132
+ 
+[jve_57_g-5_s-6.php : 288] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 235] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 156] $fname_Orig : 2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 158] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+[jve_57_g-5_s-6.php : 160] $fpath_Orig__Converted : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+[jve_57_g-5_s-6.php : 162] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10): �w�肳�ꂽ�t�@�C����������܂���B (code: 2) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 165
+ 
+============================  
+param is ''
+20221027_112313
+ 
+[jve_57_g-5_s-6.php : 288] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 235] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 156] $fname_Orig : 2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 158] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+
+Notice: Undefined variable: fpath_Orig__Converted in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 160
+[jve_57_g-5_s-6.php : 160] $fpath_Orig__Converted : 
+[jve_57_g-5_s-6.php : 162] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+Notice: Undefined variable: fpath_Orig__Converted in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 166
+
+Warning: rename(,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 166
+ 
+============================  
+param is ''
+20221027_112354
+ 
+[jve_57_g-5_s-6.php : 288] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 235] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+[jve_57_g-5_s-6.php : 156] $fname_Orig : 2022-11-01~10 - コピー
+
+[jve_57_g-5_s-6.php : 158] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - コピー
+[jve_57_g-5_s-6.php : 160] $fpath_Orig__Converted : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10 - �R�s�[
+[jve_57_g-5_s-6.php : 162] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+ 
+============================  
+param is ''
+20221027_112749
+ 
+[jve_57_g-5_s-6.php : 295] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 242] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : G:\images\2022\2022-11-01~10
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,G:\images\2022\2022-11-01~10
+): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : G:\images\2022\2022-11-11~20
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,G:\images\2022\2022-11-11~20
+): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : G:\images\2022\2022-11-21~31
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,G:\images\2022\2022-11-21~31
+): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : G:\images\2022\2022-12-01~10
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,G:\images\2022\2022-12-01~10
+): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : G:\images\2022\2022-12-11~20
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,G:\images\2022\2022-12-11~20
+): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : G:\images\2022\2022-12-21~31
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,G:\images\2022\2022-12-21~31
+): �A�N�Z�X�����ۂ���܂����B (code: 5) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+ 
+============================  
+param is ''
+20221027_112841
+ 
+[jve_57_g-5_s-6.php : 296] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+
+Warning: fopen(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\chage_file_names.txt): failed to open stream: No such file or directory in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 50
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 52
+
+Warning: fclose() expects parameter 1 to be resource, boolean given in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 58
+[jve_57_g-5_s-6.php : 61] file closed : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+)
+[jve_57_g-5_s-6.php : 243] $linesOf_FileContent__Replaced ==> 
+Array
+(
+)
+ 
+============================  
+param is ''
+20221027_112957
+ 
+[jve_57_g-5_s-6.php : 298] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 244] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-11~20
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-11~20
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-21~31
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-21~31
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-01~10
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-01~10
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-11~20
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-11~20
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-21~31
+
+
+
+Notice: Undefined variable: fname_New in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,): Invalid argument in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 201
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-21~31
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+ 
+============================  
+param is ''
+20221027_113115
+ 
+[jve_57_g-5_s-6.php : 298] yeeeees
+[jve_57_g-5_s-6.php : 31] starting : read_lines
+[jve_57_g-5_s-6.php : 61] file closed : G:\images\2022\chage_file_names.txt
+[jve_57_g-5_s-6.php : 65] file content
+Array
+(
+    [0] => 2022-11-01~10 - コピー
+
+    [1] => 2022-11-11~20 - コピー
+
+    [2] => 2022-11-21~31 - コピー
+
+    [3] => 2022-12-01~10 - コピー - コピー
+
+    [4] => 2022-12-11~20 - コピー - コピー
+
+    [5] => 2022-12-21~31 - コピー - コピー
+
+)
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-01~10 - コピー
+ / new : 2022-11-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-11~20 - コピー
+ / new : 2022-11-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-11-21~31 - コピー
+ / new : 2022-11-21~31
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-01~10 - コピー - コピー
+ / new : 2022-12-01~10
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-11~20 - コピー - コピー
+ / new : 2022-12-11~20
+
+
+[jve_57_g-5_s-6.php : 98] replacing...
+[jve_57_g-5_s-6.php : 103] orig : 2022-12-21~31 - コピー - コピー
+ / new : 2022-12-21~31
+
+
+[jve_57_g-5_s-6.php : 244] $linesOf_FileContent__Replaced ==> 
+Array
+(
+    [0] => 2022-11-01~10
+
+    [1] => 2022-11-11~20
+
+    [2] => 2022-11-21~31
+
+    [3] => 2022-12-01~10
+
+    [4] => 2022-12-11~20
+
+    [5] => 2022-12-21~31
+
+)
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-01~10
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-11~20
+
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-11~20
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-21~31
+
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-11-21~31
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-01~10
+
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-01~10
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-11~20
+
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-11~20
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+
+
+Notice: Undefined variable: fname_Orig in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 181
+[jve_57_g-5_s-6.php : 191] $fpath_Orig : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\
+[jve_57_g-5_s-6.php : 193] $fpath_New : C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-21~31
+
+
+
+Warning: rename(C:\WORKS_2\WS\WS_Cake_IFM11\tmp\,C:\WORKS_2\WS\WS_Cake_IFM11\tmp\2022-12-21~31
+): �v���Z�X�̓t�@�C���ɃA�N�Z�X�ł��܂���B�ʂ̃v���Z�X���g�p���ł��B (code: 32) in C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php on line 203
+[jve_57_g-5_s-6.php : 205] rename result => 0
+

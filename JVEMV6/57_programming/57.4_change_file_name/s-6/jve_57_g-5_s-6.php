@@ -124,68 +124,93 @@ php jve_57_g-5_s-6.php
 	
 	function change_File_Names($_lines, $_linesOf_FileContent__Replaced, $_dpath) {
 		
+		//20221027_113245:next
+		
 		$lenOf_LinesOf_FileContent	= count($_linesOf_FileContent__Replaced);
 
 		//test
 		$dpath		= "C:\\WORKS_2\\WS\\WS_Cake_IFM11\\tmp";
-		$fname_Orig	= "2022-12-11~20 - コピー - コピー";
+// 		$fname_Orig	= $_lines[0];
+// 		$fname_Orig__Trimmed	= trim($fname_Orig);
 		
-		$fpath_Orig	= join("\\", array($dpath, $fname_Orig));
+// // 		$fname_Orig	= "2022-12-11~20 - コピー - コピー";
 		
-// 		$fpath_Orig	= "C:\\WORKS_2\\WS\\WS_Cake_IFM11\\tmp\\2022-12-21~31 - コピー - コピー";
-// 		$fpath_Orig	= "G:\\images\\2022\\2022-12-21~31 - コピー - コピー";
-		
-		//ref https://stackoverflow.com/questions/34078845/convert-from-utf-8-to-shift-jis
-		$fpath_Orig__Converted	= mb_convert_encoding($fpath_Orig, "SJIS", "UTF-8");
-// 		$fpath_Orig__Converted	= mb_convert_encoding("G:\\images\\2022\\2022-12-21~31 - コピー - コピー", "SJIS", "UTF-8");
-		
-		$fname_New	= "2022-12-21~31";
-		
-		$fpath_New	= join("\\", array($dpath, $fname_New));
-		
-		//report
-		printf("[%s : %d] \$fpath_Orig : ", basename(__FILE__), __LINE__, $fpath_Orig);
-		printf("[%s : %d] \$fpath_New : ", basename(__FILE__), __LINE__, $fpath_New);
-		
-		$res_Bool	= rename($fpath_Orig__Converted, $fpath_New);
-// 		$res_Bool	= rename($fpath_Orig__Converted, $fname_New);
-			//=> アクセスが拒否されました。
-// 		$res_Bool	= rename($fpath_Orig, $fname_New);
-		
-		//20221025_122436:next
+// 		$fpath_Orig	= join("\\", array($dpath, $fname_Orig__Trimmed));
+// // 		$fpath_Orig	= join("\\", array($dpath, $fname_Orig));
 		
 		
+// // 		$fpath_Orig	= "C:\\WORKS_2\\WS\\WS_Cake_IFM11\\tmp\\2022-12-21~31 - コピー - コピー";
+// // 		$fpath_Orig	= "G:\\images\\2022\\2022-12-21~31 - コピー - コピー";
 		
-// 		for ($i = 0; $i < $lenOf_LinesOf_FileContent; $i++) {
+// 		//ref https://stackoverflow.com/questions/34078845/convert-from-utf-8-to-shift-jis
+// 		$fpath_Orig__Converted	= mb_convert_encoding($fpath_Orig, "SJIS", "UTF-8");
+// // 		$fpath_Orig__Converted	= mb_convert_encoding("G:\\images\\2022\\2022-12-21~31 - コピー - コピー", "SJIS", "UTF-8");
 		
-// 			/******************** (20 '*'s)
-// 			 * step : 1 : prep : vars
-// 			 ********************/
-// 			$fpath_Orig	= join("\\", array($_dpath, $_lines[$i]));
-// 			$fpath_New	= join("\\", array($_dpath, $_linesOf_FileContent__Replaced[$i]));
+// 		$fname_New	= $_linesOf_FileContent__Replaced[0];
+// 		$fname_New__Trimmed	= trim($fname_New);
+		
+// // 		$fname_New	= "2022-12-21~31";
+		
+// 		$fpath_New	= join("\\", array($dpath, $fname_New__Trimmed));
+// // 		$fpath_New	= join("\\", array($dpath, $fname_New));
+		
+// 		//report
+// 		printf("[%s : %d] \$fname_Orig : %s", basename(__FILE__), __LINE__, $fname_Orig);
+// 		echo "\n";
+// 		printf("[%s : %d] \$fpath_Orig : %s", basename(__FILE__), __LINE__, $fpath_Orig);
+// 		echo "\n";
+// 		printf("[%s : %d] \$fpath_Orig__Converted : %s", basename(__FILE__), __LINE__, $fpath_Orig__Converted);
+// 		echo "\n";
+// 		printf("[%s : %d] \$fpath_New : %s", basename(__FILE__), __LINE__, $fpath_New);
+// 		echo "\n";
+		
+// // 		$res_Bool	= rename($fpath_Orig, $fpath_New);
+// 		$res_Bool	= rename($fpath_Orig__Converted, $fpath_New);
+// // 		$res_Bool	= rename($fpath_Orig__Converted, $fname_New);
+// 			//=> アクセスが拒否されました。
+// // 		$res_Bool	= rename($fpath_Orig, $fname_New);
+		
+// 		//20221025_122436:next
+		
+		
+		
+		for ($i = 0; $i < $lenOf_LinesOf_FileContent; $i++) {
+		
+			/******************** (20 '*'s)
+			 * step : 1 : prep : vars
+			 ********************/
+			$fpath_Orig	= join("\\", array($_dpath, $_lines[$i]));
+			$fname_Orig__Trimmed	= trim($fname_Orig);
+			$fpath_Orig	= join("\\", array($dpath, $fname_Orig__Trimmed));
+			$fpath_Orig__Converted	= mb_convert_encoding($fpath_Orig, "SJIS", "UTF-8");
+			
+			
+			$fpath_New	= join("\\", array($_dpath, $_linesOf_FileContent__Replaced[$i]));
 			
 // 			$fname_New	= $_linesOf_FileContent__Replaced[$i];
 				
-// 			//report
-// 			printf("[%s : %d] \$fpath_Orig : %s", basename(__FILE__), __LINE__, $fpath_Orig);
-// 			echo "\n";
-// 			printf("[%s : %d] \$fpath_New : %s", basename(__FILE__), __LINE__, $fpath_New);
-// 			echo "\n";
-// 			echo "\n";
+			//report
+			printf("[%s : %d] \$fpath_Orig : %s", basename(__FILE__), __LINE__, $fpath_Orig);
+			echo "\n";
+			printf("[%s : %d] \$fpath_New : %s", basename(__FILE__), __LINE__, $fpath_New);
+			echo "\n";
+			echo "\n";
 				
-// 			/******************** (20 '*'s)
-// 			 * step : 2 : rename
-// 			 ********************/
-//			//ref https://stackoverflow.com/questions/13434883/rename-file-in-php
+			/******************** (20 '*'s)
+			 * step : 2 : rename
+			 ********************/
+			//ref https://stackoverflow.com/questions/13434883/rename-file-in-php
 // 			$res_Bool	= rename($fpath_Orig, $fname_New);
+// 			$res_Bool	= rename($fpath_Orig, $fname_New);
+			$res_Bool	= rename($fpath_Orig__Converted, $fpath_New);
 			
-// 			printf("[%s : %d] rename result => %d", basename(__FILE__), __LINE__, $res_Bool);
-// 			echo "\n";
-// 			echo "\n";
+			printf("[%s : %d] rename result => %d", basename(__FILE__), __LINE__, $res_Bool);
+			echo "\n";
+			echo "\n";
 			
 			
 			
-// 		}//for ($i = 0; $i < $lenOf_LinesOf_FileContent; $i++)		
+		}//for ($i = 0; $i < $lenOf_LinesOf_FileContent; $i++)		
 		
 	}//function change_File_Names($_lines, $_linesOf_FileContent__Replaced, $_dpath) {
 	
@@ -196,7 +221,9 @@ php jve_57_g-5_s-6.php
 		 * step : 1 : read file
 		 ********************/
 		$fname	= "chage_file_names.txt";
+// 		$dpath	= "C:\\WORKS_2\\WS\\WS_Cake_IFM11\\tmp";
 		$dpath	= "G:\\images\\2022";
+		$dpath_Target_Folders	= "C:\\WORKS_2\\WS\\WS_Cake_IFM11\\tmp";
 		
 		//ref https://stackoverflow.com/questions/1091107/how-to-join-filesystem-path-strings-in-php
 		$fpath	= join("\\", array($dpath, $fname));
@@ -224,7 +251,8 @@ php jve_57_g-5_s-6.php
 		/******************** (20 '*'s)
 		 * step : 3 : change file names
 		 ********************/
-		change_File_Names($lines, $linesOf_FileContent__Replaced, $dpath);
+		change_File_Names($lines, $linesOf_FileContent__Replaced, $dpath_Target_Folders);
+// 		change_File_Names($lines, $linesOf_FileContent__Replaced, $dpath);
 		
 
 		
